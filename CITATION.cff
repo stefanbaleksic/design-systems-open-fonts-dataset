@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 message: "If you use this dataset, please cite it using the metadata below."
-title: "Design System Fonts Dataset"
+title: "Design System Open Fonts Dataset"
 version: "1.0.0"
 doi: 10.5281/zenodo.24354032
 url: "https://stefanbaleksic.github.io/design-systems-open-fonts-dataset/"
