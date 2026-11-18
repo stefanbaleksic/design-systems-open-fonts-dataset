@@ -1,0 +1,31 @@
+# Rebuilds every file in data/ and docs/ from the public sources and runs the tests.
+# Runs on every push and pull request, and on demand. Nothing is published from here.
+name: reproduce
+
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  rebuild:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+      - name: Install Python packages
+        run: python3 -m pip install -r requirements.txt
+      - name: Fetch sources, rebuild and test
+        env:
+          DS_REPO: ds-src
+        run: sh scripts/run_all.sh
+      - name: Fail if rebuilt files differ from the committed ones
+        run: |
+          git diff --exit-code -- data docs || {
+            echo "Rebuilt outputs differ from the committed files. Commit the new outputs or fix the cause."; exit 1; }

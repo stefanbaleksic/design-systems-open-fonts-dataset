@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it using the metadata below."
+title: "Design System Fonts Dataset"
+version: "1.0.0"
+type: dataset
+license: CC-BY-4.0
+authors:
+  - family-names: Aleksić
+    given-names: Stefan B.
+    orcid: "https://orcid.org/0009-0009-1537-296X"
+keywords:
+  - design systems
+  - typography
+  - fonts
+  - OpenType
+  - variable fonts
+  - licences
+  - Google Fonts
+  - Serbian
+abstract: >-
+  Font families used by public design systems, and open-licence font families (Google Fonts and original
+  foundry repositories, Inter included). For each family: licence, provider, source, variable-font status,
+  OpenType figure and ligature features, Serbian character coverage and file hashes. Metadata only; no font files.

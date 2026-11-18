@@ -1,0 +1,416 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Design System Fonts Dataset</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Space+Grotesk:wght@500;600&family=JetBrains+Mono:wght@400;500&display=swap">
+<style>
+:root{--bg:#f6f4ee;--surface:#ffffff;--ink:#1b1a17;--muted:#6a665d;--line:#e0dbcf;--line-strong:#cbc5b6;--accent:#17605b;--accent-ink:#ffffff;--accent-soft:#e3f0ee;--ok:#2c6a3f;--ok-soft:#e5f1e7;--warn:#8a5a0a;--warn-soft:#f6ecd9;--chip:#efece3;--shade:rgba(24,22,18,.5);--focus:#17605b;color-scheme:light}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#141412;--surface:#1d1c19;--ink:#edeae2;--muted:#a09a8d;--line:#33312b;--line-strong:#4a473f;--accent:#7fcfc6;--accent-ink:#0f1f1e;--accent-soft:#1c2f2d;--ok:#8fd0a0;--ok-soft:#1d2c21;--warn:#e6bb6b;--warn-soft:#322a19;--chip:#272622;--shade:rgba(0,0,0,.65);--focus:#7fcfc6;color-scheme:dark}}
+*{box-sizing:border-box}
+html,body{background:var(--bg);color:var(--ink);margin:0}
+body{font:15px/1.55 Inter,system-ui,-apple-system,"Segoe UI",sans-serif;padding:28px max(16px,env(safe-area-inset-right,0px)) 48px max(16px,env(safe-area-inset-left,0px))}
+.page{max-width:1180px;margin:0 auto}
+h1{font:600 clamp(26px,4vw,36px)/1.1 "Space Grotesk",Inter,system-ui,sans-serif;letter-spacing:-.01em;margin:0 0 4px}
+h2{font:600 18px/1.25 "Space Grotesk",Inter,system-ui,sans-serif;margin:0}
+.sub{margin:0 0 10px;font:500 17px/1.3 "Space Grotesk",Inter,sans-serif;color:var(--accent)}
+.lede{max-width:74ch;color:var(--muted);margin:0 0 8px}
+.meta{font:400 12.5px/1.4 "JetBrains Mono",ui-monospace,Menlo,monospace;color:var(--muted)}
+.figures{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:1px;background:var(--line);border:1px solid var(--line);border-radius:12px;overflow:hidden;margin:22px 0 26px}
+.fig{background:var(--surface);padding:14px 16px;min-width:0}
+.fig b{display:block;font:600 26px/1.1 "Space Grotesk",Inter,sans-serif;font-variant-numeric:tabular-nums}
+.fig span{font-size:12.5px;color:var(--muted)}
+.tabs{display:flex;gap:8px;margin:0 0 12px;flex-wrap:wrap}
+.tab{height:42px;padding:0 16px;border:1px solid var(--line-strong);border-radius:10px;background:var(--surface);color:var(--ink);font:inherit;cursor:pointer}
+.tab[aria-pressed="true"]{background:var(--ink);color:var(--bg);border-color:var(--ink)}
+.controls{position:sticky;top:0;z-index:5;background:var(--bg);padding:10px 0 12px;border-bottom:1px solid var(--line)}
+.row1{display:flex;flex-wrap:wrap;gap:10px;align-items:center}
+input[type=search]{flex:1 1 280px;min-width:0;height:44px;padding:0 14px;border:1px solid var(--line-strong);border-radius:10px;background:var(--surface);color:var(--ink);font:inherit}
+select,.btn{height:44px;padding:0 12px;border:1px solid var(--line-strong);border-radius:10px;background:var(--surface);color:var(--ink);font:inherit;max-width:100%;cursor:pointer}
+.btn[aria-pressed="true"]{background:var(--ink);color:var(--bg);border-color:var(--ink)}
+.filters{display:flex;flex-wrap:wrap;gap:8px 10px;margin-top:12px}
+.flt{display:flex;flex-direction:column;gap:3px;font-size:11.5px;color:var(--muted);text-transform:uppercase;letter-spacing:.06em}
+.flt select{height:38px;font-size:13.5px;text-transform:none;letter-spacing:0;color:var(--ink)}
+.chips{display:flex;flex-wrap:wrap;gap:8px;margin-top:12px}
+.chip{border:1px solid var(--line-strong);background:var(--surface);color:var(--ink);border-radius:999px;padding:6px 12px;font:inherit;font-size:13.5px;cursor:pointer}
+.chip[aria-pressed="true"]{background:var(--accent);border-color:var(--accent);color:var(--accent-ink)}
+.status{display:flex;flex-wrap:wrap;justify-content:space-between;gap:8px;align-items:baseline;margin:14px 0 8px;color:var(--muted);font-size:13.5px}
+.linkbtn{background:none;border:0;color:var(--accent);font:inherit;cursor:pointer;padding:0;text-decoration:underline;text-underline-offset:3px}
+.tablewrap{overflow:auto;max-height:70vh;border:1px solid var(--line);border-radius:12px;background:var(--surface)}
+table{border-collapse:collapse;width:max-content;min-width:100%;font-size:13px}
+th,td{text-align:left;padding:8px 10px;border-bottom:1px solid var(--line);white-space:nowrap;max-width:300px;overflow:hidden;text-overflow:ellipsis}
+th{position:sticky;top:0;background:var(--surface);cursor:pointer;user-select:none;font:500 11.5px/1.3 "JetBrains Mono",ui-monospace,monospace;color:var(--muted);z-index:1}
+th.asc::after{content:" \25B2"}th.desc::after{content:" \25BC"}
+tbody tr{cursor:pointer}
+tbody tr:hover td{background:var(--accent-soft)}
+.pill{display:inline-block;font-size:11.5px;line-height:1.25;padding:2px 7px;border-radius:6px;font-weight:600}
+.p-ok{background:var(--ok-soft);color:var(--ok)}
+.p-no{background:var(--chip);color:var(--muted)}
+.p-warn{background:var(--warn-soft);color:var(--warn)}
+.name{font-weight:600}
+.num{font-variant-numeric:tabular-nums}
+.more{display:block;margin:14px auto 0}
+.empty{padding:36px 16px;text-align:center;color:var(--muted)}
+[hidden]{display:none!important}
+.about-more{margin-top:28px;border:1px solid var(--line);border-radius:12px;background:var(--surface)}
+.about-more>summary{list-style:none;cursor:pointer;display:flex;align-items:center;justify-content:space-between;padding:14px 18px;font:600 16px/1.25 "Space Grotesk",Inter,sans-serif}
+.about-more>summary::-webkit-details-marker{display:none}
+.about-more[open]>summary{border-bottom:1px solid var(--line)}
+.about{padding:14px 18px 18px;display:grid;grid-template-columns:repeat(auto-fit,minmax(270px,1fr));gap:12px}
+.card{border:1px solid var(--line);border-radius:12px;background:var(--bg);padding:16px 18px;min-width:0}
+.card h2{font-size:15px;margin-bottom:6px}
+.card p,.card li{color:var(--muted);font-size:14px;margin:0 0 6px}
+.card ul{margin:0;padding-left:18px}
+code{font:400 12.5px "JetBrains Mono",ui-monospace,monospace;background:var(--chip);padding:1px 5px;border-radius:4px}
+a{color:var(--accent);text-underline-offset:3px}
+dialog{border:1px solid var(--line-strong);border-radius:14px;background:var(--surface);color:var(--ink);padding:0;width:min(800px,calc(100vw - 24px));max-height:88vh}
+dialog::backdrop{background:var(--shade)}
+.dhead{position:sticky;top:0;background:var(--surface);border-bottom:1px solid var(--line);padding:16px 18px;display:flex;gap:12px;align-items:flex-start;justify-content:space-between;z-index:2}
+.dsub{color:var(--muted);font-size:13.5px;margin-top:4px}
+.dbody{padding:4px 18px 20px;overflow:auto}
+.kv{display:grid;grid-template-columns:minmax(0,210px) minmax(0,1fr);gap:6px 16px;margin:0}
+.kv dt{font:400 12.5px/1.5 "JetBrains Mono",ui-monospace,monospace;color:var(--muted)}
+.kv dd{margin:0;overflow-wrap:anywhere}
+.dbody h3{font:500 11.5px/1.3 Inter,sans-serif;text-transform:uppercase;letter-spacing:.07em;color:var(--muted);margin:20px 0 6px}
+@media (max-width:560px){.kv{grid-template-columns:1fr}.kv dd{margin-bottom:8px}}
+</style>
+</head>
+<body>
+<div class="page">
+  <h1>Design System Fonts Dataset</h1>
+  <p class="sub">Which typefaces design systems declare, and what the open-licence font families can do</p>
+  <p class="lede">One row per font family: licence, provider, whether it is variable, which OpenType figures, ligatures and Serbian characters it has, and which design systems declare it. Metadata only: no font files are redistributed. Use the filters to narrow the table, the search box to find a name, and click a row for every field.</p>
+  <p class="meta">Dataset v1 (draft) · measured 2026-11-18 · data CC BY 4.0 · scripts MIT · author Stefan B. Aleksić · ORCID 0009-0009-1537-296X</p>
+
+  <div class="figures" id="figs"></div>
+
+  <div class="tabs" role="group" aria-label="View">
+    <button class="tab" id="tab-cat" aria-pressed="true">Font catalogue</button>
+    <button class="tab" id="tab-use" aria-pressed="false">Design-system usage</button>
+  </div>
+
+  <section id="view-cat">
+    <div class="controls">
+      <div class="row1">
+        <input type="search" id="q-cat" placeholder="Search family, provider, designer, licence, design system…" aria-label="Search fonts">
+        <button class="btn" id="reset-cat" type="button">Reset</button>
+      </div>
+      <div class="filters">
+        <label class="flt">Licence<select id="f-cls"><option value="">Any</option><option value="open">Open licence</option><option value="proprietary_name_lookup">Proprietary (name lookup)</option><option value="unknown_not_checked">Not checked</option></select></label>
+        <label class="flt">Source<select id="f-src"><option value="">Any</option><option value="original_repository">Original repository</option><option value="npm_package">npm package (Fontsource)</option><option value="google_fonts_repository">Google Fonts</option><option value="none_open_source_found">Design system only</option></select></label>
+        <label class="flt">Variable<select data-f="var"><option value="">Any</option><option value="yes">Yes</option><option value="no">No</option></select></label>
+        <label class="flt">Tabular figures (tnum)<select data-f="tnum"><option value="">Any</option><option value="yes">Yes</option><option value="no">No</option></select></label>
+        <label class="flt">Slashed zero (zero)<select data-f="zero"><option value="">Any</option><option value="yes">Yes</option><option value="no">No</option></select></label>
+        <label class="flt">Oldstyle figures (onum)<select data-f="onum"><option value="">Any</option><option value="yes">Yes</option><option value="no">No</option></select></label>
+        <label class="flt">Lining figures (lnum)<select data-f="lnum"><option value="">Any</option><option value="yes">Yes</option><option value="no">No</option></select></label>
+        <label class="flt">Ligatures (liga)<select data-f="liga"><option value="">Any</option><option value="yes">Yes</option><option value="no">No</option></select></label>
+        <label class="flt">Serbian Cyrillic<select data-f="srcyr"><option value="">Any</option><option value="yes">All letters</option><option value="no">Not all</option></select></label>
+        <label class="flt">Serbian Latin diacritics<select data-f="srlat"><option value="">Any</option><option value="yes">All letters</option><option value="no">Not all</option></select></label>
+        <label class="flt">Sort by<select id="sort-cat"><option value="fam">Family A–Z</option><option value="dsn">Design systems (most)</option><option value="lic">Licence</option></select></label>
+      </div>
+      <div class="chips" id="chips-cat"></div>
+    </div>
+    <div class="status"><span id="count-cat"></span><button class="linkbtn" id="clear-cat" type="button">Clear filters</button></div>
+    <div class="tablewrap"><table id="t-cat"><thead><tr id="h-cat"></tr></thead><tbody id="b-cat"></tbody></table></div>
+    <button class="btn more" id="more-cat" type="button" hidden>Show more</button>
+  </section>
+
+  <section id="view-use" hidden>
+    <div class="controls">
+      <div class="row1">
+        <input type="search" id="q-use" placeholder="Search design system, package, declared family…" aria-label="Search usage">
+        <select id="f-role" aria-label="Declaration role">
+          <option value="brand_or_custom">Brand or custom font</option>
+          <option value="os_or_browser_fallback">OS or browser fallback</option>
+          <option value="none_in_scanned_package">No brand font in package</option>
+          <option value="not_a_font_name">Rejected identifiers (audit)</option>
+          <option value="">All rows</option>
+        </select>
+        <button class="btn" id="reset-use" type="button">Reset</button>
+      </div>
+    </div>
+    <div class="status"><span id="count-use"></span></div>
+    <div class="tablewrap"><table id="t-use"><thead><tr id="h-use"></tr></thead><tbody id="b-use"></tbody></table></div>
+    <button class="btn more" id="more-use" type="button" hidden>Show more</button>
+  </section>
+
+  <details class="about-more">
+    <summary>About this dataset, method and limits</summary>
+    <div class="about">
+      <div class="card"><h2>What is measured</h2><ul>
+        <li>Licence from the Google Fonts METADATA file or from the repository licence file (text match).</li>
+        <li>Variable: an fvar table is present. Figures: GSUB/GPOS features tnum, lnum, onum, zero; ligatures liga.</li>
+        <li>Serbian: Cyrillic (Ђ Ј Љ Њ Ћ Џ and lower case) and Latin letters with diacritics (Č Ć Š Đ Ž).</li>
+      </ul></div>
+      <div class="card"><h2>Design-system usage</h2><ul>
+        <li>143 design systems with an npm package at the version pinned in the design-systems dataset v33.</li>
+        <li>Text of the package (CSS, JS, TS, JSON) searched for font-family declarations. No code is run.</li>
+        <li>A design system with no brand font in its package is a finding about that package, not proof that the site has no font.</li>
+      </ul></div>
+      <div class="card"><h2>Limits</h2><ul>
+        <li>Open families: source-first (original repository), otherwise Google Fonts. One representative file per family.</li>
+        <li>Proprietary faces are recognised by name only; their licences were not read.</li>
+        <li>"Open numbers" is read as oldstyle figures (onum); OpenType has no tag with that name.</li>
+        <li>Figures are read from one file per family, not every style.</li>
+      </ul></div>
+      <div class="card"><h2>Reproduce</h2><ul>
+        <li>Run <code>sh scripts/run_all.sh</code> with the clones named in <code>sources.csv</code>.</li>
+        <li>Tests: <code>python3 -m unittest discover -s tests -v</code>.</li>
+        <li>Every file is listed with a SHA-256 in <code>sources.csv</code> and <code>design_system_font_packages.csv</code>.</li>
+      </ul></div>
+    </div>
+  </details>
+</div>
+
+<script>
+let DATA = null;
+const PAGE = 200;
+const $ = id => document.getElementById(id);
+const yesno = v => v === "yes" ? "yes" : v === "no" ? "no" : v === "not_measured" ? "not measured" : v === "not_checked" ? "not checked" : (v || "–");
+const isYes = v => v === "yes";
+
+function pill(v){
+  const s = document.createElement("span");
+  s.className = "pill " + (v === "yes" ? "p-ok" : v === "no" ? "p-no" : "p-warn");
+  s.textContent = yesno(v);
+  return s;
+}
+function cell(content, cls){
+  const td = document.createElement("td");
+  if (cls) td.className = cls;
+  if (content instanceof Node) td.appendChild(content); else td.textContent = content === undefined || content === "" ? "–" : String(content);
+  return td;
+}
+
+// ---------- figures ----------
+function figures(){
+  const C = DATA.catalogue;
+  const open = C.filter(r => r.open === "yes");
+  const meas = open.filter(r => r.var === "yes" || r.var === "no");
+  const pct = (n, d) => d ? Math.round(1000 * n / d) / 10 + "%" : "–";
+  const figs = [
+    [C.length.toLocaleString("en"), "font families in the catalogue"],
+    [open.length.toLocaleString("en"), "open-licence families"],
+    [pct(meas.filter(r => r.var === "yes").length, meas.length), "variable (fvar) among open families"],
+    [pct(meas.filter(r => r.tnum === "yes").length, meas.length), "tabular figures (tnum)"],
+    [pct(meas.filter(r => r.srcyr === "yes").length, meas.length), "all Serbian Cyrillic letters"],
+    ["143", "design systems scanned (npm)"],
+    [String(DATA.usage.filter(r => r.role === "brand_or_custom").length), "brand/custom declarations"]
+  ];
+  const box = $("figs");
+  box.textContent = "";
+  for (const [v, l] of figs){
+    const d = document.createElement("div"); d.className = "fig";
+    const b = document.createElement("b"); b.textContent = v;
+    const s = document.createElement("span"); s.textContent = l;
+    d.append(b, s); box.appendChild(d);
+  }
+}
+
+// ---------- catalogue ----------
+const CAT_COLS = [
+  ["fam","Family"], ["lic","Licence"], ["comm","Commercial"], ["prov","Provider"], ["var","Variable"],
+  ["tnum","tnum"], ["zero","zero"], ["onum","onum"], ["lnum","lnum"], ["liga","liga"],
+  ["srcyr","Serbian Cyrillic"], ["srlat","Serbian Latin"], ["dsn","Design systems"], ["src","Source"]
+];
+const state = {cat:{q:"", cls:"", src:"", sort:"fam", dir:1, flags:{}, chips:new Set()}, use:{q:"", role:"brand_or_custom", sort:"ds", dir:1}};
+const lim = {cat: PAGE, use: PAGE};
+function srcLabel(s){ return s === "original_repository" ? "Original repo" : s === "npm_package" ? "npm (Fontsource)" : s === "google_fonts_repository" ? "Google Fonts" : "Design system only"; }
+
+function catMatch(r){
+  const s = state.cat;
+  if (s.cls && r.cls !== s.cls) return false;
+  if (s.src && r.src !== s.src) return false;
+  for (const k in s.flags){ if (s.flags[k] && r[k] !== s.flags[k]) return false; }
+  if (s.chips.has("inter") && r.inter !== "yes") return false;
+  if (s.chips.has("open") && r.open !== "yes") return false;
+  if (s.chips.has("ds") && !(r.dsn > 0)) return false;
+  if (s.chips.has("serbian") && !(r.srcyr === "yes" && r.srlat === "yes")) return false;
+  if (s.q){
+    const hay = [r.fam, r.fin, r.id, r.prov, r.des, r.lic, r.dss, r.url, r.fmt].join(" ").toLowerCase();
+    if (!s.q.toLowerCase().split(/\s+/).filter(Boolean).every(w => hay.includes(w))) return false;
+  }
+  return true;
+}
+function catSorted(rows){
+  const s = state.cat;
+  const key = s.sort;
+  const val = r => key === "dsn" ? r.dsn : key === "lic" ? (r.lic + r.fam) : r.fam.toLowerCase();
+  return rows.slice().sort((a,b) => {
+    const va = val(a), vb = val(b);
+    if (key === "dsn") return (vb - va) || a.fam.localeCompare(b.fam);
+    return va < vb ? -s.dir : va > vb ? s.dir : 0;
+  });
+}
+function renderCatHead(){
+  const tr = $("h-cat"); tr.textContent = "";
+  for (const [k, label] of CAT_COLS){
+    const th = document.createElement("th"); th.textContent = label; th.dataset.k = k;
+    th.addEventListener("click", () => {
+      const sortable = ["fam","lic","dsn"];
+      if (!sortable.includes(k)) return;
+      const s = state.cat;
+      if (s.sort === k) s.dir = -s.dir; else { s.sort = k; s.dir = 1; }
+      $("sort-cat").value = ["fam","dsn","lic"].includes(k) ? k : "fam";
+      renderCat();
+    });
+    tr.appendChild(th);
+  }
+}
+function renderCat(){
+  const rows = catSorted(DATA.catalogue.filter(catMatch));
+  const body = $("b-cat"); body.textContent = "";
+  for (const r of rows.slice(0, lim.cat)){
+    const tr = document.createElement("tr");
+    const name = document.createElement("span"); name.className = "name"; name.textContent = r.fam;
+    tr.appendChild(cell(name));
+    tr.appendChild(cell(r.lic));
+    tr.appendChild(cell(r.comm));
+    tr.appendChild(cell(r.prov));
+    for (const k of ["var","tnum","zero","onum","lnum","liga","srcyr","srlat"]) tr.appendChild(cell(pill(r[k])));
+    tr.appendChild(cell(String(r.dsn), "num"));
+    tr.appendChild(cell(srcLabel(r.src)));
+    tr.addEventListener("click", () => openDetail(r));
+    tr.tabIndex = 0;
+    tr.addEventListener("keydown", e => { if (e.key === "Enter") openDetail(r); });
+    body.appendChild(tr);
+  }
+  $("count-cat").textContent = `${rows.length.toLocaleString("en")} of ${DATA.catalogue.length.toLocaleString("en")} families shown`;
+  $("more-cat").hidden = rows.length <= lim.cat;
+  // header arrows
+  for (const th of $("h-cat").children){
+    th.classList.remove("asc","desc");
+    if (th.dataset.k === state.cat.sort) th.classList.add(state.cat.dir === 1 ? "asc" : "desc");
+  }
+}
+const CHIPS = [["inter","Inter"],["open","Open licence"],["ds","Used by design systems"],["serbian","Serbian letters (both)"]];
+function renderChips(){
+  const box = $("chips-cat"); box.textContent = "";
+  for (const [k, label] of CHIPS){
+    const b = document.createElement("button"); b.className = "chip"; b.type = "button";
+    b.textContent = label; b.setAttribute("aria-pressed", state.cat.chips.has(k) ? "true" : "false");
+    b.addEventListener("click", () => {
+      if (state.cat.chips.has(k)) state.cat.chips.delete(k); else state.cat.chips.add(k);
+      renderChips(); renderCat();
+    });
+    box.appendChild(b);
+  }
+}
+document.querySelectorAll("select[data-f]").forEach(sel => sel.addEventListener("change", () => {
+  state.cat.flags[sel.dataset.f] = sel.value; lim.cat = PAGE; renderCat();
+}));
+$("f-cls").addEventListener("change", e => { state.cat.cls = e.target.value; lim.cat = PAGE; renderCat(); });
+$("f-src").addEventListener("change", e => { state.cat.src = e.target.value; lim.cat = PAGE; renderCat(); });
+$("sort-cat").addEventListener("change", e => { state.cat.sort = e.target.value; state.cat.dir = 1; renderCat(); });
+$("q-cat").addEventListener("input", e => { state.cat.q = e.target.value; lim.cat = PAGE; renderCat(); });
+$("more-cat").addEventListener("click", () => { lim.cat += PAGE; renderCat(); });
+function resetCat(){
+  state.cat = {q:"", cls:"", src:"", sort:"fam", dir:1, flags:{}, chips:new Set()};
+  $("q-cat").value = ""; $("f-cls").value = ""; $("f-src").value = ""; $("sort-cat").value = "fam";
+  document.querySelectorAll("select[data-f]").forEach(s => s.value = "");
+  lim.cat = PAGE; renderChips(); renderCat();
+}
+$("reset-cat").addEventListener("click", resetCat);
+$("clear-cat").addEventListener("click", resetCat);
+
+// ---------- usage ----------
+const USE_COLS = [["ds","Design system"],["pkg","npm package"],["fam","Declared family"],["role","Role"],["fid","Catalogue match"],["lic","Licence"],["occ","Count"]];
+function useMatch(r){
+  const s = state.use;
+  if (s.role && r.role !== s.role) return false;
+  if (s.q){
+    const hay = [r.ds, r.slug, r.org, r.pkg, r.fam, r.fid].join(" ").toLowerCase();
+    if (!s.q.toLowerCase().split(/\s+/).filter(Boolean).every(w => hay.includes(w))) return false;
+  }
+  return true;
+}
+function renderUseHead(){
+  const tr = $("h-use"); tr.textContent = "";
+  for (const [, label] of USE_COLS){ const th = document.createElement("th"); th.textContent = label; tr.appendChild(th); }
+}
+function renderUse(){
+  const rows = DATA.usage.filter(useMatch).sort((a,b) => (a.ds || a.slug).localeCompare(b.ds || b.slug) || b.occ - a.occ);
+  const body = $("b-use"); body.textContent = "";
+  for (const r of rows.slice(0, lim.use)){
+    const tr = document.createElement("tr");
+    const nm = document.createElement("span"); nm.className = "name"; nm.textContent = r.ds || r.slug;
+    tr.appendChild(cell(nm));
+    tr.appendChild(cell(r.pkg + "@" + r.ver));
+    tr.appendChild(cell(r.fam));
+    tr.appendChild(cell(r.role.replace(/_/g, " ")));
+    tr.appendChild(cell(r.fid || r.match.replace(/_/g, " ")));
+    tr.appendChild(cell(r.lic || "–"));
+    tr.appendChild(cell(String(r.occ), "num"));
+    body.appendChild(tr);
+  }
+  $("count-use").textContent = `${rows.length.toLocaleString("en")} rows shown`;
+  $("more-use").hidden = rows.length <= lim.use;
+}
+$("q-use").addEventListener("input", e => { state.use.q = e.target.value; lim.use = PAGE; renderUse(); });
+$("f-role").addEventListener("change", e => { state.use.role = e.target.value; lim.use = PAGE; renderUse(); });
+$("more-use").addEventListener("click", () => { lim.use += PAGE; renderUse(); });
+$("reset-use").addEventListener("click", () => { $("q-use").value = ""; $("f-role").value = "brand_or_custom"; state.use = {q:"", role:"brand_or_custom"}; lim.use = PAGE; renderUse(); });
+
+// ---------- tabs ----------
+function showView(which){
+  const cat = which === "cat";
+  $("view-cat").hidden = !cat; $("view-use").hidden = cat;
+  $("tab-cat").setAttribute("aria-pressed", cat ? "true" : "false");
+  $("tab-use").setAttribute("aria-pressed", cat ? "false" : "true");
+}
+$("tab-cat").addEventListener("click", () => showView("cat"));
+$("tab-use").addEventListener("click", () => showView("use"));
+
+// ---------- detail dialog ----------
+const DIALOG = document.createElement("dialog");
+document.body.appendChild(DIALOG);
+const DETAIL_FIELDS = [
+  ["Identity", [["Font ID","id"],["Family","fam"],["Family as in font name","fin"],["Inter (required)","inter"]]],
+  ["Licence and commercial use", [["Licence code","lic"],["Licence class","cls"],["Commercial status","comm"],["Commercial use allowed","use"],["Designer","des"]]],
+  ["Provider and source", [["Provider","prov"],["Primary source","src"],["Primary source URL","url"],["Source ref (commit or release)","ref"],["Also on Google Fonts","gf"],["Google Fonts folder","gfd"],["Specimen page","spec"],["Source file","path"],["Source file format","ext"],["Formats in source","fmt"]]],
+  ["Figures, ligatures and writing", [["Variable","var"],["Variable axes","axes"],["Outlines","outl"],["Tabular figures (tnum)","tnum"],["Proportional figures (pnum)","pnum"],["Lining figures (lnum)","lnum"],["Oldstyle figures (onum)","onum"],["Zero feature (zero)","zero"],["Slashed zero glyph","zglyph"],["Ligatures (liga)","liga"],["Discretionary ligatures (dlig)","dlig"],["Cyrillic (any)","cyr"],["Serbian Cyrillic (all)","srcyr"],["Serbian Latin diacritics (all)","srlat"],["Glyph count","glyphs"]]],
+  ["Design systems", [["Design systems declaring","dsn"],["Slugs","dss"]]],
+  ["Record", [["Category","cat"],["Date added (Google Fonts)","added"],["Subsets","subsets"],["Source file bytes","bytes"],["Source file SHA-256","sha"]]]
+];
+function openDetail(r){
+  DIALOG.textContent = "";
+  const head = document.createElement("div"); head.className = "dhead";
+  const left = document.createElement("div");
+  const t = document.createElement("h2"); t.textContent = r.fam; left.appendChild(t);
+  const sub = document.createElement("div"); sub.className = "dsub"; sub.textContent = `${r.lic} · ${srcLabel(r.src)} · ${r.prov}`; left.appendChild(sub);
+  const close = document.createElement("button"); close.className = "btn"; close.type = "button"; close.textContent = "Close";
+  close.addEventListener("click", () => DIALOG.close());
+  head.append(left, close); DIALOG.appendChild(head);
+  const body = document.createElement("div"); body.className = "dbody";
+  for (const [title, fields] of DETAIL_FIELDS){
+    const h = document.createElement("h3"); h.textContent = title; body.appendChild(h);
+    const dl = document.createElement("dl"); dl.className = "kv";
+    for (const [label, key] of fields){
+      const dt = document.createElement("dt"); dt.textContent = label;
+      const dd = document.createElement("dd"); dd.textContent = (r[key] === "" || r[key] === undefined) ? "–" : String(r[key]);
+      dl.append(dt, dd);
+    }
+    body.appendChild(dl);
+  }
+  DIALOG.appendChild(body);
+  DIALOG.showModal();
+}
+DIALOG.addEventListener("click", e => { if (e.target === DIALOG) DIALOG.close(); });
+
+// ---------- start: load the three data files beside the page, then draw ----------
+function start(){
+  figures(); renderChips(); renderCatHead(); renderCat(); renderUseHead(); renderUse();
+}
+const getJSON = name => fetch("data/" + name).then(r => { if (!r.ok) throw new Error(name + " " + r.status); return r.json(); });
+Promise.all([getJSON("catalogue.json"), getJSON("usage.json"), getJSON("stats.json")])
+  .then(([catalogue, usage, stats]) => { DATA = {catalogue, usage, stats}; start(); })
+  .catch(err => {
+    const box = document.querySelector(".lede");
+    const p = document.createElement("p"); p.className = "meta";
+    p.textContent = "Could not load the data files (" + err.message + "). Keep data/*.json beside this page.";
+    box.after(p);
+  });
+</script>
+</body>
+</html>

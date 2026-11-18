@@ -1,0 +1,86 @@
+family_google_fonts,google_fonts_directory,kept_row_font_id,kept_source,rule,removed_family,removed_path
+,,ibm-plex-mono,https://github.com/IBM/plex,same family inside original repositories; variable build kept,IBM Plex Mono,packages/plex-mono/fonts/complete/ttf/IBMPlexMono-Regular.ttf
+IBM Plex Mono,ofl/ibmplexmono,ibm-plex-mono,https://github.com/IBM/plex,Google Fonts family with an original-repository row (source-first),,ofl/ibmplexmono/METADATA.pb
+,,ibm-plex-sans,https://github.com/IBM/plex,same family inside original repositories; variable build kept,IBM Plex Sans,packages/plex-sans/fonts/complete/ttf/IBMPlexSans-Regular.ttf
+IBM Plex Sans,ofl/ibmplexsans,ibm-plex-sans,https://github.com/IBM/plex,Google Fonts family with an original-repository row (source-first),,ofl/ibmplexsans/METADATA.pb
+IBM Plex Sans Arabic,ofl/ibmplexsansarabic,ibm-plex-sans-arabic,https://github.com/IBM/plex,Google Fonts family with an original-repository row (source-first),,ofl/ibmplexsansarabic/METADATA.pb
+IBM Plex Sans Condensed,ofl/ibmplexsanscondensed,ibm-plex-sans-condensed,https://github.com/IBM/plex,Google Fonts family with an original-repository row (source-first),,ofl/ibmplexsanscondensed/METADATA.pb
+IBM Plex Sans Devanagari,ofl/ibmplexsansdevanagari,ibm-plex-sans-devanagari,https://github.com/IBM/plex,Google Fonts family with an original-repository row (source-first),,ofl/ibmplexsansdevanagari/METADATA.pb
+IBM Plex Sans Hebrew,ofl/ibmplexsanshebrew,ibm-plex-sans-hebrew,https://github.com/IBM/plex,Google Fonts family with an original-repository row (source-first),,ofl/ibmplexsanshebrew/METADATA.pb
+IBM Plex Sans Thai,ofl/ibmplexsansthai,ibm-plex-sans-thai,https://github.com/IBM/plex,Google Fonts family with an original-repository row (source-first),,ofl/ibmplexsansthai/METADATA.pb
+IBM Plex Sans Thai Looped,ofl/ibmplexsansthailooped,ibm-plex-sans-thai-looped,https://github.com/IBM/plex,Google Fonts family with an original-repository row (source-first),,ofl/ibmplexsansthailooped/METADATA.pb
+,,ibm-plex-serif,https://github.com/IBM/plex,same family inside original repositories; variable build kept,IBM Plex Serif,packages/plex-serif/fonts/complete/ttf/IBMPlexSerif-Regular.ttf
+IBM Plex Serif,ofl/ibmplexserif,ibm-plex-serif,https://github.com/IBM/plex,Google Fonts family with an original-repository row (source-first),,ofl/ibmplexserif/METADATA.pb
+,,mona-sans,https://github.com/github/mona-sans,same family inside original repositories; variable build kept,Mona Sans VF,"fonts/variable/MonaSansVF[opsz,wght].ttf"
+Mona Sans,ofl/monasans,mona-sans,https://github.com/github/mona-sans,Google Fonts family with an original-repository row (source-first),,ofl/monasans/METADATA.pb
+,,mona-sans-mono,https://github.com/github/mona-sans,same family inside original repositories; variable build kept,Mona Sans Mono,fonts/static/ttf/MonaSansMono-Regular.ttf
+Geist,ofl/geist,geist,https://github.com/vercel/geist-font,Google Fonts family with an original-repository row (source-first),,ofl/geist/METADATA.pb
+Geist Mono,ofl/geistmono,geist-mono,https://github.com/vercel/geist-font,Google Fonts family with an original-repository row (source-first),,ofl/geistmono/METADATA.pb
+Geist Pixel,ofl/geistpixel,geist-pixel,https://github.com/vercel/geist-font,Google Fonts family with an original-repository row (source-first),,ofl/geistpixel/METADATA.pb
+Geist Serif,ofl/geistserif,geist-serif,https://github.com/vercel/geist-font,Google Fonts family with an original-repository row (source-first),,ofl/geistserif/METADATA.pb
+Cascadia Code,ofl/cascadiacode,cascadia-code,https://github.com/microsoft/cascadia-code,Google Fonts family with an original-repository row (source-first),,ofl/cascadiacode/METADATA.pb
+,,sourcesans3vf,https://github.com/adobe-fonts/source-sans,same family inside original repositories; variable build kept,Source Sans 3,TTF/SourceSans3-Regular.ttf
+Source Sans 3,ofl/sourcesans3,sourcesans3vf,https://github.com/adobe-fonts/source-sans,Google Fonts family with an original-repository row (source-first),,ofl/sourcesans3/METADATA.pb
+JetBrains Mono,ofl/jetbrainsmono,jetbrains-mono,https://github.com/JetBrains/JetBrainsMono,Google Fonts family with an original-repository row (source-first),,ofl/jetbrainsmono/METADATA.pb
+,,monaspace-argon,https://github.com/githubnext/monaspace,same family inside original repositories; variable build kept,Monaspace Argon,fonts/Static Fonts/Monaspace Argon/MonaspaceArgon-Regular.otf
+,,monaspace-krypton,https://github.com/githubnext/monaspace,same family inside original repositories; variable build kept,Monaspace Krypton,fonts/Static Fonts/Monaspace Krypton/MonaspaceKrypton-Regular.otf
+,,monaspace-neon,https://github.com/githubnext/monaspace,same family inside original repositories; variable build kept,Monaspace Neon,fonts/Static Fonts/Monaspace Neon/MonaspaceNeon-Regular.otf
+,,monaspace-radon,https://github.com/githubnext/monaspace,same family inside original repositories; variable build kept,Monaspace Radon,fonts/Static Fonts/Monaspace Radon/MonaspaceRadon-Regular.otf
+,,monaspace-xenon,https://github.com/githubnext/monaspace,same family inside original repositories; variable build kept,Monaspace Xenon,fonts/Static Fonts/Monaspace Xenon/MonaspaceXenon-Regular.otf
+Victor Mono,ofl/victormono,victor-mono,https://github.com/rubjo/victor-mono,Google Fonts family with an original-repository row (source-first),,ofl/victormono/METADATA.pb
+Intel One Mono,ofl/intelonemono,intel-one-mono,https://github.com/intel/intel-one-mono,Google Fonts family with an original-repository row (source-first),,ofl/intelonemono/METADATA.pb
+Lilex,ofl/lilex,lilex,https://github.com/mishamyrt/Lilex,Google Fonts family with an original-repository row (source-first),,ofl/lilex/METADATA.pb
+,,source-serif-4,https://github.com/adobe-fonts/source-serif,same family inside original repositories; variable build kept,Source Serif 4,TTF/SourceSerif4-Regular.ttf
+Source Serif 4,ofl/sourceserif4,source-serif-4,https://github.com/adobe-fonts/source-serif,Google Fonts family with an original-repository row (source-first),,ofl/sourceserif4/METADATA.pb
+STIX Two Math,ofl/stixtwomath,stix-two-math,https://github.com/stipub/stixfonts,Google Fonts family with an original-repository row (source-first),,ofl/stixtwomath/METADATA.pb
+STIX Two Text,ofl/stixtwotext,stix-two-text,https://github.com/stipub/stixfonts,Google Fonts family with an original-repository row (source-first),,ofl/stixtwotext/METADATA.pb
+,,charis-sil,https://github.com/silnrsi/font-doulos,same family inside original repositories; variable build kept,Charis SIL,references/v5/CharisSIL-Regular.ttf
+Charis SIL,ofl/charissil,charis-sil,https://github.com/silnrsi/font-doulos,Google Fonts family with an original-repository row (source-first),,ofl/charissil/METADATA.pb
+,,doulos-sil,https://github.com/silnrsi/font-doulos,same family inside original repositories; variable build kept,Doulos SIL,references/v5/DoulosSIL-Regular.ttf
+Andika,ofl/andika,andika,https://github.com/silnrsi/font-andika,Google Fonts family with an original-repository row (source-first),,ofl/andika/METADATA.pb
+Outfit,ofl/outfit,outfit,https://github.com/Outfitio/Outfit-Fonts,Google Fonts family with an original-repository row (source-first),,ofl/outfit/METADATA.pb
+Red Hat Display,ofl/redhatdisplay,red-hat-display,https://github.com/RedHatOfficial/RedHatFont,Google Fonts family with an original-repository row (source-first),,ofl/redhatdisplay/METADATA.pb
+Red Hat Mono,ofl/redhatmono,red-hat-mono,https://github.com/RedHatOfficial/RedHatFont,Google Fonts family with an original-repository row (source-first),,ofl/redhatmono/METADATA.pb
+Red Hat Text,ofl/redhattext,red-hat-text,https://github.com/RedHatOfficial/RedHatFont,Google Fonts family with an original-repository row (source-first),,ofl/redhattext/METADATA.pb
+Overpass,ofl/overpass,overpass,https://github.com/RedHatOfficial/Overpass,Google Fonts family with an original-repository row (source-first),,ofl/overpass/METADATA.pb
+Overpass Mono,ofl/overpassmono,overpass-mono,https://github.com/RedHatOfficial/Overpass,Google Fonts family with an original-repository row (source-first),,ofl/overpassmono/METADATA.pb
+Public Sans,ofl/publicsans,public-sans,https://github.com/uswds/public-sans,Google Fonts family with an original-repository row (source-first),,ofl/publicsans/METADATA.pb
+Fira Mono,ofl/firamono,fira-mono,https://github.com/mozilla/Fira,Google Fonts family with an original-repository row (source-first),,ofl/firamono/METADATA.pb
+Fira Sans,ofl/firasans,fira-sans,https://github.com/mozilla/Fira,Google Fonts family with an original-repository row (source-first),,ofl/firasans/METADATA.pb
+Fira Sans Condensed,ofl/firasanscondensed,fira-sans-condensed,https://github.com/mozilla/Fira,Google Fonts family with an original-repository row (source-first),,ofl/firasanscondensed/METADATA.pb
+Gentium Book Plus,ofl/gentiumbookplus,gentium-book-plus,https://github.com/silnrsi/font-gentium,Google Fonts family with an original-repository row (source-first),,ofl/gentiumbookplus/METADATA.pb
+Gentium Plus,ofl/gentiumplus,gentium-plus,https://github.com/silnrsi/font-gentium,Google Fonts family with an original-repository row (source-first),,ofl/gentiumplus/METADATA.pb
+Padauk,ofl/padauk,padauk,https://github.com/silnrsi/font-padauk,Google Fonts family with an original-repository row (source-first),,ofl/padauk/METADATA.pb
+Abyssinica SIL,ofl/abyssinicasil,abyssinica-sil,https://github.com/silnrsi/font-abyssinica,Google Fonts family with an original-repository row (source-first),,ofl/abyssinicasil/METADATA.pb
+Source Code Pro,ofl/sourcecodepro,source-code-pro,https://github.com/adobe-fonts/source-code-pro,Google Fonts family with an original-repository row (source-first),,ofl/sourcecodepro/METADATA.pb
+,,source-code,https://github.com/adobe-fonts/source-code-pro,same family inside original repositories; variable build kept,SourceCodeVF,VF/SourceCodeVF-Upright.ttf
+Atkinson Hyperlegible Next,ofl/atkinsonhyperlegiblenext,atkinson-hyperlegible-next,https://github.com/googlefonts/atkinson-hyperlegible-next,Google Fonts family with an original-repository row (source-first),,ofl/atkinsonhyperlegiblenext/METADATA.pb
+Atkinson Hyperlegible,ofl/atkinsonhyperlegible,atkinson-hyperlegible,https://github.com/googlefonts/atkinson-hyperlegible,Google Fonts family with an original-repository row (source-first),,ofl/atkinsonhyperlegible/METADATA.pb
+Lexend,ofl/lexend,lexend,https://github.com/googlefonts/lexend,Google Fonts family with an original-repository row (source-first),,ofl/lexend/METADATA.pb
+Lexend Deca,ofl/lexenddeca,lexend-deca,https://github.com/googlefonts/lexend,Google Fonts family with an original-repository row (source-first),,ofl/lexenddeca/METADATA.pb
+Lexend Exa,ofl/lexendexa,lexend-exa,https://github.com/googlefonts/lexend,Google Fonts family with an original-repository row (source-first),,ofl/lexendexa/METADATA.pb
+Lexend Giga,ofl/lexendgiga,lexend-giga,https://github.com/googlefonts/lexend,Google Fonts family with an original-repository row (source-first),,ofl/lexendgiga/METADATA.pb
+Lexend Mega,ofl/lexendmega,lexend-mega,https://github.com/googlefonts/lexend,Google Fonts family with an original-repository row (source-first),,ofl/lexendmega/METADATA.pb
+Lexend Peta,ofl/lexendpeta,lexend-peta,https://github.com/googlefonts/lexend,Google Fonts family with an original-repository row (source-first),,ofl/lexendpeta/METADATA.pb
+Lexend Tera,ofl/lexendtera,lexend-tera,https://github.com/googlefonts/lexend,Google Fonts family with an original-repository row (source-first),,ofl/lexendtera/METADATA.pb
+Lexend Zetta,ofl/lexendzetta,lexend-zetta,https://github.com/googlefonts/lexend,Google Fonts family with an original-repository row (source-first),,ofl/lexendzetta/METADATA.pb
+Recursive,ofl/recursive,recursive,https://github.com/arrowtype/recursive,Google Fonts family with an original-repository row (source-first),,ofl/recursive/METADATA.pb
+Instrument Sans,ofl/instrumentsans,instrument-sans,https://github.com/Instrument/instrument-sans,Google Fonts family with an original-repository row (source-first),,ofl/instrumentsans/METADATA.pb
+Work Sans,ofl/worksans,work-sans,https://github.com/weiweihuanghuang/Work-Sans,Google Fonts family with an original-repository row (source-first),,ofl/worksans/METADATA.pb
+Inter,ofl/inter,inter,https://github.com/rsms/inter,Google Fonts family with an original-repository row (source-first),,ofl/inter/METADATA.pb
+,,dejavu-sans,https://www.npmjs.com/package/dejavu-fonts-ttf,same family inside original repositories; variable build kept,DejaVu Sans,ttf/DejaVuSans-BoldOblique.ttf
+,,dejavu-sans,https://www.npmjs.com/package/dejavu-fonts-ttf,same family inside original repositories; variable build kept,DejaVu Sans,ttf/DejaVuSans-Oblique.ttf
+,,dejavu-sans,https://www.npmjs.com/package/dejavu-fonts-ttf,same family inside original repositories; variable build kept,DejaVu Sans,ttf/DejaVuSans.ttf
+,,dejavu-sans-condensed,https://www.npmjs.com/package/dejavu-fonts-ttf,same family inside original repositories; variable build kept,DejaVu Sans Condensed,ttf/DejaVuSansCondensed-BoldOblique.ttf
+,,dejavu-sans-condensed,https://www.npmjs.com/package/dejavu-fonts-ttf,same family inside original repositories; variable build kept,DejaVu Sans Condensed,ttf/DejaVuSansCondensed-Oblique.ttf
+,,dejavu-sans-condensed,https://www.npmjs.com/package/dejavu-fonts-ttf,same family inside original repositories; variable build kept,DejaVu Sans Condensed,ttf/DejaVuSansCondensed.ttf
+,,dejavu-sans-mono,https://www.npmjs.com/package/dejavu-fonts-ttf,same family inside original repositories; variable build kept,DejaVu Sans Mono,ttf/DejaVuSansMono-BoldOblique.ttf
+,,dejavu-sans-mono,https://www.npmjs.com/package/dejavu-fonts-ttf,same family inside original repositories; variable build kept,DejaVu Sans Mono,ttf/DejaVuSansMono-Oblique.ttf
+,,dejavu-sans-mono,https://www.npmjs.com/package/dejavu-fonts-ttf,same family inside original repositories; variable build kept,DejaVu Sans Mono,ttf/DejaVuSansMono.ttf
+,,dejavu-serif,https://www.npmjs.com/package/dejavu-fonts-ttf,same family inside original repositories; variable build kept,DejaVu Serif,ttf/DejaVuSerif-BoldItalic.ttf
+,,dejavu-serif,https://www.npmjs.com/package/dejavu-fonts-ttf,same family inside original repositories; variable build kept,DejaVu Serif,ttf/DejaVuSerif-Italic.ttf
+,,dejavu-serif,https://www.npmjs.com/package/dejavu-fonts-ttf,same family inside original repositories; variable build kept,DejaVu Serif,ttf/DejaVuSerif.ttf
+,,dejavu-serif-condensed,https://www.npmjs.com/package/dejavu-fonts-ttf,same family inside original repositories; variable build kept,DejaVu Serif Condensed,ttf/DejaVuSerifCondensed-BoldItalic.ttf
+,,dejavu-serif-condensed,https://www.npmjs.com/package/dejavu-fonts-ttf,same family inside original repositories; variable build kept,DejaVu Serif Condensed,ttf/DejaVuSerifCondensed-Italic.ttf
+,,dejavu-serif-condensed,https://www.npmjs.com/package/dejavu-fonts-ttf,same family inside original repositories; variable build kept,DejaVu Serif Condensed,ttf/DejaVuSerifCondensed.ttf
+Noto Sans N Ko,ofl/notosansnko_todelist,noto-sans-nko,https://github.com/google/fonts,Google Fonts family with an original-repository row (source-first),,ofl/notosansnko_todelist/METADATA.pb

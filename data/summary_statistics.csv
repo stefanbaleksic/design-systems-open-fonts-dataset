@@ -1,0 +1,27 @@
+measure,value,note
+catalogue rows (all),2260,
+open-licence families,2144,
+design-system-only families (not open or not checked),116,
+open families from Google Fonts only,1987,
+open families from original repositories,148,
+open families from npm packages (Fontsource latin subsets: Serbian letters not measured; DejaVu: full files),9,
+"duplicate rows removed (Google Fonts vs original, and inside original repositories)",85,see duplicates_removed.csv; candidates 2229 -> families 2144
+open families with variable font (fvar table),603,28.1% of 2144 measured
+open families with tabular numerals (tnum),371,17.3% of 2144 measured
+open families with slashed/zero feature (zero),289,13.5% of 2144 measured
+open families with oldstyle figures (onum),259,12.1% of 2144 measured
+open families with lining figures (lnum),229,10.7% of 2144 measured
+open families with standard ligatures (liga),1027,47.9% of 2144 measured
+open families with all Serbian Cyrillic letters,295,13.8% of 2142 measured
+open families with all Serbian Latin diacritics,1508,70.4% of 2142 measured
+licence OFL-1.1,2088,
+licence Apache-2.0,42,
+licence Bitstream-Vera,8,
+licence UFL-1.0,5,
+licence MIT,1,
+"design systems scanned (npm packages, pinned version)",143,
+design systems with at least one brand/custom font declaration,95,
+design systems with no brand font in the scanned package,48,check the package list; not proof of no font
+declarations: brand or custom,374,
+declarations: operating system / browser fallback,396,
+"declarations: not a font name (rejected noise, kept for audit)",134,

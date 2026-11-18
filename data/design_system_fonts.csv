@@ -1,0 +1,953 @@
+slug,design_system,organisation,npm_package,npm_version,family_declared,occurrences,declaration_role,font_id,match_status,alias_applied,licence_class,licence_code,is_variable_font,has_serbian_cyrillic,feat_tnum,feat_zero
+spectrum,Spectrum,Adobe,@adobe/react-spectrum,3.47.7,Source Sans Pro,118,brand_or_custom,source-sans-3,matched_catalogue,Source Sans 3,open,OFL-1.1,yes,yes,no,yes
+spectrum,Spectrum,Adobe,@adobe/react-spectrum,3.47.7,Segoe UI,118,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+spectrum,Spectrum,Adobe,@adobe/react-spectrum,3.47.7,Roboto,118,brand_or_custom,roboto,matched_catalogue,,open,OFL-1.1,yes,yes,yes,no
+spectrum,Spectrum,Adobe,@adobe/react-spectrum,3.47.7,Ubuntu,118,brand_or_custom,ubuntu,matched_catalogue,,open,UFL-1.0,no,yes,yes,no
+spectrum,Spectrum,Adobe,@adobe/react-spectrum,3.47.7,Trebuchet MS,118,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+spectrum,Spectrum,Adobe,@adobe/react-spectrum,3.47.7,Lucida Grande,118,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+spectrum,Spectrum,Adobe,@adobe/react-spectrum,3.47.7,MingLiu,78,not_a_font_name,,os_or_browser_fallback,,,,,,,
+spectrum,Spectrum,Adobe,@adobe/react-spectrum,3.47.7,Heiti TC Light,78,brand_or_custom,heiti-tc-light,matched_catalogue,,proprietary_name_lookup,proprietary_name_lookup,not_measured,not_measured,not_measured,not_measured
+spectrum,Spectrum,Adobe,@adobe/react-spectrum,3.47.7,SimSun,77,not_a_font_name,,os_or_browser_fallback,,,,,,,
+spectrum,Spectrum,Adobe,@adobe/react-spectrum,3.47.7,Heiti SC Light,77,brand_or_custom,heiti-sc-light,matched_catalogue,,proprietary_name_lookup,proprietary_name_lookup,not_measured,not_measured,not_measured,not_measured
+spectrum,Spectrum,Adobe,@adobe/react-spectrum,3.47.7,Microsoft JhengHei UI,39,not_a_font_name,,os_or_browser_fallback,,,,,,,
+spectrum,Spectrum,Adobe,@adobe/react-spectrum,3.47.7,Microsoft JhengHei,39,not_a_font_name,,os_or_browser_fallback,,,,,,,
+spectrum,Spectrum,Adobe,@adobe/react-spectrum,3.47.7,Malgun Gothic,39,brand_or_custom,malgun-gothic,matched_catalogue,,proprietary_name_lookup,proprietary_name_lookup,not_measured,not_measured,not_measured,not_measured
+spectrum,Spectrum,Adobe,@adobe/react-spectrum,3.47.7,Apple Gothic,39,brand_or_custom,apple-gothic,matched_catalogue,,proprietary_name_lookup,proprietary_name_lookup,not_measured,not_measured,not_measured,not_measured
+spectrum,Spectrum,Adobe,@adobe/react-spectrum,3.47.7,Hiragino Kaku Gothic ProN,39,not_a_font_name,,os_or_browser_fallback,,,,,,,
+spectrum,Spectrum,Adobe,@adobe/react-spectrum,3.47.7,ヒラギノ角ゴ ProN W3,39,not_a_font_name,,os_or_browser_fallback,,,,,,,
+spectrum,Spectrum,Adobe,@adobe/react-spectrum,3.47.7,Osaka,39,brand_or_custom,osaka,matched_catalogue,,unknown_not_checked,unknown_not_checked,not_measured,not_measured,not_measured,not_measured
+spectrum,Spectrum,Adobe,@adobe/react-spectrum,3.47.7,YuGothic,39,not_a_font_name,,os_or_browser_fallback,,,,,,,
+spectrum,Spectrum,Adobe,@adobe/react-spectrum,3.47.7,Yu Gothic,39,brand_or_custom,yu-gothic,matched_catalogue,,proprietary_name_lookup,proprietary_name_lookup,not_measured,not_measured,not_measured,not_measured
+spectrum,Spectrum,Adobe,@adobe/react-spectrum,3.47.7,Meiryo,39,brand_or_custom,meiryo,matched_catalogue,,unknown_not_checked,unknown_not_checked,not_measured,not_measured,not_measured,not_measured
+spectrum,Spectrum,Adobe,@adobe/react-spectrum,3.47.7,MS PGothic,39,brand_or_custom,ms-pgothic,matched_catalogue,,unknown_not_checked,unknown_not_checked,not_measured,not_measured,not_measured,not_measured
+spectrum,Spectrum,Adobe,@adobe/react-spectrum,3.47.7,Source Serif Pro,5,brand_or_custom,source-serif-4,matched_catalogue,Source Serif 4,open,OFL-1.1,yes,yes,yes,yes
+spectrum,Spectrum,Adobe,@adobe/react-spectrum,3.47.7,Georgia,5,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+spectrum,Spectrum,Adobe,@adobe/react-spectrum,3.47.7,Source Code Pro,3,brand_or_custom,source-code-pro,matched_catalogue,,open,OFL-1.1,no,yes,no,yes
+spectrum,Spectrum,Adobe,@adobe/react-spectrum,3.47.7,Monaco,3,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+ant-design,Ant Design,Ant Financial,antd,6.7.0,Segoe UI,6,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+ant-design,Ant Design,Ant Financial,antd,6.7.0,Roboto,6,brand_or_custom,roboto,matched_catalogue,,open,OFL-1.1,yes,yes,yes,no
+ant-design,Ant Design,Ant Financial,antd,6.7.0,Helvetica Neue,6,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+ant-design,Ant Design,Ant Financial,antd,6.7.0,Arial,6,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+ant-design,Ant Design,Ant Financial,antd,6.7.0,Noto Sans,6,brand_or_custom,noto-sans,matched_catalogue,,open,OFL-1.1,yes,yes,yes,yes
+ant-design,Ant Design,Ant Financial,antd,6.7.0,Apple Color Emoji,6,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+ant-design,Ant Design,Ant Financial,antd,6.7.0,Segoe UI Emoji,6,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+ant-design,Ant Design,Ant Financial,antd,6.7.0,Segoe UI Symbol,6,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+ant-design,Ant Design,Ant Financial,antd,6.7.0,Noto Color Emoji,6,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+ant-design,Ant Design,Ant Financial,antd,6.7.0,SFMono-Regular,4,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+ant-design,Ant Design,Ant Financial,antd,6.7.0,Consolas,4,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+ant-design,Ant Design,Ant Financial,antd,6.7.0,Liberation Mono,4,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+ant-design,Ant Design,Ant Financial,antd,6.7.0,Menlo,4,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+ant-design,Ant Design,Ant Financial,antd,6.7.0,Courier,4,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+ant-design,Ant Design,Ant Financial,antd,6.7.0,calc(var(--ant-font-size-lg) * var(--ant-line-height-lg,2,not_a_font_name,,os_or_browser_fallback,,,,,,,
+bloom,Bloom,Appear here,@appearhere/bloom,0.29.4,Avenir Next W01,1,brand_or_custom,avenir-next-w01,matched_catalogue,,unknown_not_checked,unknown_not_checked,not_measured,not_measured,not_measured,not_measured
+bloom,Bloom,Appear here,@appearhere/bloom,0.29.4,Helvetica Neue,1,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+bloom,Bloom,Appear here,@appearhere/bloom,0.29.4,Helvetica,1,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+bloom,Bloom,Appear here,@appearhere/bloom,0.29.4,Fira Mono,1,brand_or_custom,fira-mono,matched_catalogue,,open,OFL-1.1,no,yes,yes,yes
+overdrive,Overdrive,AutoGuru,@autoguru/overdrive,6.3.0,AvertaStandard,1,not_a_font_name,,os_or_browser_fallback,,,,,,,
+cloudscape-design-system,Cloudscape Design System,AWS,@cloudscape-design/components,3.0.1413,Open Sans,145,brand_or_custom,open-sans,matched_catalogue,,open,OFL-1.1,yes,yes,yes,yes
+cloudscape-design-system,Cloudscape Design System,AWS,@cloudscape-design/components,3.0.1413,Helvetica Neue,145,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+cloudscape-design-system,Cloudscape Design System,AWS,@cloudscape-design/components,3.0.1413,Roboto,145,brand_or_custom,roboto,matched_catalogue,,open,OFL-1.1,yes,yes,yes,no
+cloudscape-design-system,Cloudscape Design System,AWS,@cloudscape-design/components,3.0.1413,Arial,145,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+cloudscape-design-system,Cloudscape Design System,AWS,@cloudscape-design/components,3.0.1413,Monaco,7,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+cloudscape-design-system,Cloudscape Design System,AWS,@cloudscape-design/components,3.0.1413,Menlo,7,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+cloudscape-design-system,Cloudscape Design System,AWS,@cloudscape-design/components,3.0.1413,Consolas,7,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+cloudscape-design-system,Cloudscape Design System,AWS,@cloudscape-design/components,3.0.1413,Courier Prime,7,brand_or_custom,courier-prime,matched_catalogue,,open,OFL-1.1,no,no,no,no
+cloudscape-design-system,Cloudscape Design System,AWS,@cloudscape-design/components,3.0.1413,Courier,7,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+cloudscape-design-system,Cloudscape Design System,AWS,@cloudscape-design/components,3.0.1413,Courier New,7,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+amplify-ui,Amplify UI,AWS Amplify,@aws-amplify/ui-react,6.15.7,Inter,8,brand_or_custom,inter,matched_catalogue,,open,OFL-1.1,yes,yes,yes,yes
+amplify-ui,Amplify UI,AWS Amplify,@aws-amplify/ui-react,6.15.7,Helvetica Neue,8,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+amplify-ui,Amplify UI,AWS Amplify,@aws-amplify/ui-react,6.15.7,Segoe UI,8,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+amplify-ui,Amplify UI,AWS Amplify,@aws-amplify/ui-react,6.15.7,Oxygen,8,brand_or_custom,oxygen,matched_catalogue,,open,OFL-1.1,no,no,no,no
+amplify-ui,Amplify UI,AWS Amplify,@aws-amplify/ui-react,6.15.7,Ubuntu,8,brand_or_custom,ubuntu,matched_catalogue,,open,UFL-1.0,no,yes,yes,no
+amplify-ui,Amplify UI,AWS Amplify,@aws-amplify/ui-react,6.15.7,Cantarell,8,brand_or_custom,cantarell,matched_catalogue,,open,OFL-1.1,no,no,no,no
+amplify-ui,Amplify UI,AWS Amplify,@aws-amplify/ui-react,6.15.7,Open Sans,8,brand_or_custom,open-sans,matched_catalogue,,open,OFL-1.1,yes,yes,yes,yes
+amplify-ui,Amplify UI,AWS Amplify,@aws-amplify/ui-react,6.15.7,InterVariable,4,not_a_font_name,,os_or_browser_fallback,Inter,,,,,,
+amplify-ui,Amplify UI,AWS Amplify,@aws-amplify/ui-react,6.15.7,Inter var,4,not_a_font_name,,os_or_browser_fallback,,,,,,,
+amplify-ui,Amplify UI,AWS Amplify,@aws-amplify/ui-react,6.15.7,fontFamily,2,not_a_font_name,,os_or_browser_fallback,,,,,,,
+gravity,Gravity,Buildit,@buildit/gravity-ui-web,3.4.0,Helvetica Neue,7,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+gravity,Gravity,Buildit,@buildit/gravity-ui-web,3.4.0,Wipro Akkurat Mono TT,3,brand_or_custom,wipro-akkurat-mono-tt,matched_catalogue,,unknown_not_checked,unknown_not_checked,not_measured,not_measured,not_measured,not_measured
+gravity,Gravity,Buildit,@buildit/gravity-ui-web,3.4.0,Akkurat Mono,2,brand_or_custom,akkurat-mono,matched_catalogue,,proprietary_name_lookup,proprietary_name_lookup,not_measured,not_measured,not_measured,not_measured
+gravity,Gravity,Buildit,@buildit/gravity-ui-web,3.4.0,Helvetica,1,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+gravity,Gravity,Buildit,@buildit/gravity-ui-web,3.4.0,Arial,1,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+solid-style-guide,Solid Style Guide,BuzzFeed,bf-solid,2.11.2,Proxima Nova,17,brand_or_custom,proxima-nova,matched_catalogue,,proprietary_name_lookup,proprietary_name_lookup,not_measured,not_measured,not_measured,not_measured
+solid-style-guide,Solid Style Guide,BuzzFeed,bf-solid,2.11.2,Helvetica,17,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+solid-style-guide,Solid Style Guide,BuzzFeed,bf-solid,2.11.2,Arial,17,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+solid-style-guide,Solid Style Guide,BuzzFeed,bf-solid,2.11.2,Caponi-Slab-Semibold,8,brand_or_custom,caponi-slab-semibold,matched_catalogue,,unknown_not_checked,unknown_not_checked,not_measured,not_measured,not_measured,not_measured
+vanilla-framework,Vanilla framework,Canonical,vanilla-framework,4.61.0,Ubuntu variable,7,brand_or_custom,ubuntu,matched_catalogue,,open,UFL-1.0,no,yes,yes,no
+vanilla-framework,Vanilla framework,Canonical,vanilla-framework,4.61.0,Ubuntu Mono variable,1,brand_or_custom,ubuntu-mono,matched_catalogue,,open,UFL-1.0,no,yes,no,no
+quantum,Quantum,Catho,@catho/quantum,9.34.0,Nunito Sans,1,brand_or_custom,nunito-sans,matched_catalogue,,open,OFL-1.1,yes,yes,no,no
+chakra-ui,Chakra UI,Chakra team,@chakra-ui/react,3.38.0,"Tokens[""fonts",1,not_a_font_name,,os_or_browser_fallback,,,,,,,
+cfpb-design-manual,CFPB Design Manual,Consumer Financial Protection Bureau,@cfpb/cfpb-design-system,5.10.3,calc(var(--font-adjust-base) + (5 * var(--font-adjust-step,2,not_a_font_name,,os_or_browser_fallback,,,,,,,
+cfpb-design-manual,CFPB Design Manual,Consumer Financial Protection Bureau,@cfpb/cfpb-design-system,5.10.3,calc(var(--font-adjust-base) + (4 * var(--font-adjust-step,2,not_a_font_name,,os_or_browser_fallback,,,,,,,
+cfpb-design-manual,CFPB Design Manual,Consumer Financial Protection Bureau,@cfpb/cfpb-design-system,5.10.3,calc(var(--font-adjust-base) + (3 * var(--font-adjust-step,2,not_a_font_name,,os_or_browser_fallback,,,,,,,
+cfpb-design-manual,CFPB Design Manual,Consumer Financial Protection Bureau,@cfpb/cfpb-design-system,5.10.3,calc(var(--font-adjust-base) + (2 * var(--font-adjust-step,2,not_a_font_name,,os_or_browser_fallback,,,,,,,
+cfpb-design-manual,CFPB Design Manual,Consumer Financial Protection Bureau,@cfpb/cfpb-design-system,5.10.3,calc(var(--font-adjust-base) + (1 * var(--font-adjust-step,2,not_a_font_name,,os_or_browser_fallback,,,,,,,
+cfpb-design-manual,CFPB Design Manual,Consumer Financial Protection Bureau,@cfpb/cfpb-design-system,5.10.3,Input Mono,2,brand_or_custom,input-mono,matched_catalogue,,unknown_not_checked,unknown_not_checked,not_measured,not_measured,not_measured,not_measured
+cfpb-design-manual,CFPB Design Manual,Consumer Financial Protection Bureau,@cfpb/cfpb-design-system,5.10.3,Consolas,2,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+cfpb-design-manual,CFPB Design Manual,Consumer Financial Protection Bureau,@cfpb/cfpb-design-system,5.10.3,Monaco,2,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+cfpb-design-manual,CFPB Design Manual,Consumer Financial Protection Bureau,@cfpb/cfpb-design-system,5.10.3,Courier New,2,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+cfpb-design-manual,CFPB Design Manual,Consumer Financial Protection Bureau,@cfpb/cfpb-design-system,5.10.3,Source Sans 3 Variable,2,not_a_font_name,,os_or_browser_fallback,,,,,,,
+drylus,Drylus,Drawbotics,@drawbotics/react-drylus,6.2.0,SFMono-Regular,2,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+drylus,Drylus,Drawbotics,@drawbotics/react-drylus,6.2.0,Consolas,2,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+drylus,Drylus,Drawbotics,@drawbotics/react-drylus,6.2.0,Liberation Mono,2,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+drylus,Drylus,Drawbotics,@drawbotics/react-drylus,6.2.0,Menlo,2,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+drylus,Drylus,Drawbotics,@drawbotics/react-drylus,6.2.0,Courier,2,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+skin,Skin,eBay,@ebay/skin,19.39.0,Market Sans,5,brand_or_custom,market-sans,matched_catalogue,,unknown_not_checked,unknown_not_checked,not_measured,not_measured,not_measured,not_measured
+skin,Skin,eBay,@ebay/skin,19.39.0,Arial,3,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+skin,Skin,eBay,@ebay/skin,19.39.0,Reddit Sans Condensed Bold,2,brand_or_custom,reddit-sans-condensed-bold,matched_catalogue,,unknown_not_checked,unknown_not_checked,not_measured,not_measured,not_measured,not_measured
+fluid,Fluid,ENGIE,@engie-group/fluid-design-system-react,6.3.1,Engie Icons,2,brand_or_custom,engie-icons,matched_catalogue,,unknown_not_checked,unknown_not_checked,not_measured,not_measured,not_measured,not_measured
+fluid,Fluid,ENGIE,@engie-group/fluid-design-system-react,6.3.1,Material Icons,1,brand_or_custom,material-icons,matched_catalogue,,unknown_not_checked,unknown_not_checked,not_measured,not_measured,not_measured,not_measured
+fluid,Fluid,ENGIE,@engie-group/fluid-design-system-react,6.3.1,Material Icons Outlined,1,brand_or_custom,material-icons-outlined,matched_catalogue,,unknown_not_checked,unknown_not_checked,not_measured,not_measured,not_measured,not_measured
+fluid,Fluid,ENGIE,@engie-group/fluid-design-system-react,6.3.1,Material Icons Round,1,not_a_font_name,,os_or_browser_fallback,,,,,,,
+fluid,Fluid,ENGIE,@engie-group/fluid-design-system-react,6.3.1,Material Icons Sharp,1,brand_or_custom,material-icons-sharp,matched_catalogue,,unknown_not_checked,unknown_not_checked,not_measured,not_measured,not_measured,not_measured
+fluid,Fluid,ENGIE,@engie-group/fluid-design-system-react,6.3.1,Lato,1,brand_or_custom,lato,matched_catalogue,,open,OFL-1.1,no,yes,yes,no
+fluid,Fluid,ENGIE,@engie-group/fluid-design-system-react,6.3.1,Segoe UI,1,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+fluid,Fluid,ENGIE,@engie-group/fluid-design-system-react,6.3.1,Roboto,1,brand_or_custom,roboto,matched_catalogue,,open,OFL-1.1,yes,yes,yes,no
+fluid,Fluid,ENGIE,@engie-group/fluid-design-system-react,6.3.1,Helvetica Neue,1,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+fluid,Fluid,ENGIE,@engie-group/fluid-design-system-react,6.3.1,Arial,1,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+fluid,Fluid,ENGIE,@engie-group/fluid-design-system-react,6.3.1,Apple Color Emoji,1,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+fluid,Fluid,ENGIE,@engie-group/fluid-design-system-react,6.3.1,Segoe UI Emoji,1,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+fluid,Fluid,ENGIE,@engie-group/fluid-design-system-react,6.3.1,Segoe UI Symbol,1,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+fluid,Fluid,ENGIE,@engie-group/fluid-design-system-react,6.3.1,Roboto Mono,1,brand_or_custom,roboto-mono,matched_catalogue,,open,OFL-1.1,yes,yes,no,no
+fluid,Fluid,ENGIE,@engie-group/fluid-design-system-react,6.3.1,SFMono-Regular,1,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+fluid,Fluid,ENGIE,@engie-group/fluid-design-system-react,6.3.1,Menlo,1,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+fluid,Fluid,ENGIE,@engie-group/fluid-design-system-react,6.3.1,Monaco,1,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+fluid,Fluid,ENGIE,@engie-group/fluid-design-system-react,6.3.1,Consolas,1,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+fluid,Fluid,ENGIE,@engie-group/fluid-design-system-react,6.3.1,Liberation Mono,1,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+fluid,Fluid,ENGIE,@engie-group/fluid-design-system-react,6.3.1,Courier New,1,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+boundless,Boundless,Enigma,boundless,1.1.0,Helvetica Neue,1,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+boundless,Boundless,Enigma,boundless,1.1.0,Helvetica,1,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+boundless,Boundless,Enigma,boundless,1.1.0,Arial,1,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+boundless,Boundless,Enigma,boundless,1.1.0,Consolas,1,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+boundless,Boundless,Enigma,boundless,1.1.0,Liberation Mono,1,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+boundless,Boundless,Enigma,boundless,1.1.0,Menlo,1,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+boundless,Boundless,Enigma,boundless,1.1.0,Courier,1,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+eds,EDS,Equinor,@equinor/eds-core-react,2.6.4,round( calc(var(--_base) * pow(2,27,not_a_font_name,,os_or_browser_fallback,,,,,,,
+eds,EDS,Equinor,@equinor/eds-core-react,2.6.4,Equinor,10,brand_or_custom,equinor,matched_catalogue,,unknown_not_checked,unknown_not_checked,not_measured,not_measured,not_measured,not_measured
+eds,EDS,Equinor,@equinor/eds-core-react,2.6.4,Inter,8,brand_or_custom,inter,matched_catalogue,,open,OFL-1.1,yes,yes,yes,yes
+eds,EDS,Equinor,@equinor/eds-core-react,2.6.4,Arial,2,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+foundation,Foundation,Foundation,foundation-sites,6.9.0,Consolas,24,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+foundation,Foundation,Foundation,foundation-sites,6.9.0,Liberation Mono,24,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+foundation,Foundation,Foundation,foundation-sites,6.9.0,Courier,24,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+foundation,Foundation,Foundation,foundation-sites,6.9.0,Helvetica,21,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+foundation,Foundation,Foundation,foundation-sites,6.9.0,Arial,20,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+foundation,Foundation,Foundation,foundation-sites,6.9.0,Helvetica Neue,19,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+foundation,Foundation,Foundation,foundation-sites,6.9.0,Roboto,18,brand_or_custom,roboto,matched_catalogue,,open,OFL-1.1,yes,yes,yes,no
+primer,Primer,Github,@primer/css,22.3.3,Segoe UI,18,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+primer,Primer,Github,@primer/css,22.3.3,Noto Sans,18,brand_or_custom,noto-sans,matched_catalogue,,open,OFL-1.1,yes,yes,yes,yes
+primer,Primer,Github,@primer/css,22.3.3,Helvetica,18,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+primer,Primer,Github,@primer/css,22.3.3,Arial,18,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+primer,Primer,Github,@primer/css,22.3.3,Apple Color Emoji,18,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+primer,Primer,Github,@primer/css,22.3.3,Segoe UI Emoji,18,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+primer,Primer,Github,@primer/css,22.3.3,SFMono-Regular,14,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+primer,Primer,Github,@primer/css,22.3.3,SF Mono,14,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+primer,Primer,Github,@primer/css,22.3.3,Menlo,14,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+primer,Primer,Github,@primer/css,22.3.3,Consolas,14,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+primer,Primer,Github,@primer/css,22.3.3,Liberation Mono,14,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+primer,Primer,Github,@primer/css,22.3.3,Mona Sans VF,6,brand_or_custom,mona-sans,matched_catalogue,,open,OFL-1.1,yes,no,yes,no
+primer,Primer,Github,@primer/css,22.3.3,Noto Sans Backtick Fix,6,brand_or_custom,noto-sans,matched_catalogue,Noto Sans,open,OFL-1.1,yes,yes,yes,yes
+pajamas-design-system,Pajamas Design System,GitLab,@gitlab/ui,140.1.1,GitLab Mono,17,not_a_font_name,,os_or_browser_fallback,,,,,,,
+pajamas-design-system,Pajamas Design System,GitLab,@gitlab/ui,140.1.1,GitLab Sans,15,not_a_font_name,,os_or_browser_fallback,,,,,,,
+pajamas-design-system,Pajamas Design System,GitLab,@gitlab/ui,140.1.1,JetBrains Mono,10,not_a_font_name,,os_or_browser_fallback,,,,,,,
+pajamas-design-system,Pajamas Design System,GitLab,@gitlab/ui,140.1.1,Menlo,10,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+pajamas-design-system,Pajamas Design System,GitLab,@gitlab/ui,140.1.1,DejaVu Sans Mono,10,not_a_font_name,,os_or_browser_fallback,,,,,,,
+pajamas-design-system,Pajamas Design System,GitLab,@gitlab/ui,140.1.1,Liberation Mono,10,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+pajamas-design-system,Pajamas Design System,GitLab,@gitlab/ui,140.1.1,Consolas,10,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+pajamas-design-system,Pajamas Design System,GitLab,@gitlab/ui,140.1.1,Ubuntu Mono,10,brand_or_custom,ubuntu-mono,matched_catalogue,,open,UFL-1.0,no,yes,no,no
+pajamas-design-system,Pajamas Design System,GitLab,@gitlab/ui,140.1.1,Courier New,10,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+pajamas-design-system,Pajamas Design System,GitLab,@gitlab/ui,140.1.1,andale mono,10,brand_or_custom,andale-mono,matched_catalogue,,proprietary_name_lookup,proprietary_name_lookup,not_measured,not_measured,not_measured,not_measured
+pajamas-design-system,Pajamas Design System,GitLab,@gitlab/ui,140.1.1,lucida console,10,brand_or_custom,lucida-console,matched_catalogue,,proprietary_name_lookup,proprietary_name_lookup,not_measured,not_measured,not_measured,not_measured
+pajamas-design-system,Pajamas Design System,GitLab,@gitlab/ui,140.1.1,Helvetica Neue,9,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+pajamas-design-system,Pajamas Design System,GitLab,@gitlab/ui,140.1.1,Segoe UI,8,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+pajamas-design-system,Pajamas Design System,GitLab,@gitlab/ui,140.1.1,Roboto,8,brand_or_custom,roboto,matched_catalogue,,open,OFL-1.1,yes,yes,yes,no
+pajamas-design-system,Pajamas Design System,GitLab,@gitlab/ui,140.1.1,Noto Sans,8,brand_or_custom,noto-sans,matched_catalogue,,open,OFL-1.1,yes,yes,yes,yes
+pajamas-design-system,Pajamas Design System,GitLab,@gitlab/ui,140.1.1,Ubuntu,8,brand_or_custom,ubuntu,matched_catalogue,,open,UFL-1.0,no,yes,yes,no
+pajamas-design-system,Pajamas Design System,GitLab,@gitlab/ui,140.1.1,Cantarell,8,brand_or_custom,cantarell,matched_catalogue,,open,OFL-1.1,no,no,no,no
+pajamas-design-system,Pajamas Design System,GitLab,@gitlab/ui,140.1.1,Apple Color Emoji,8,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+pajamas-design-system,Pajamas Design System,GitLab,@gitlab/ui,140.1.1,Segoe UI Emoji,8,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+pajamas-design-system,Pajamas Design System,GitLab,@gitlab/ui,140.1.1,Segoe UI Symbol,8,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+pajamas-design-system,Pajamas Design System,GitLab,@gitlab/ui,140.1.1,Noto Color Emoji,8,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+pajamas-design-system,Pajamas Design System,GitLab,@gitlab/ui,140.1.1,defaultFontFamily,2,not_a_font_name,,os_or_browser_fallback,,,,,,,
+pajamas-design-system,Pajamas Design System,GitLab,@gitlab/ui,140.1.1,Helvetica,1,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+pajamas-design-system,Pajamas Design System,GitLab,@gitlab/ui,140.1.1,Arial,1,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+gov-uk-design-system,GOV.UK Design System,GOV.UK,govuk-frontend,6.6.0,GDS Transport,63,brand_or_custom,gds-transport,matched_catalogue,,proprietary_name_lookup,proprietary_name_lookup,not_measured,not_measured,not_measured,not_measured
+yoga,Yoga,Gympass,@gympass/yoga,7.145.3,NaN Holo Condensed,20,not_a_font_name,,os_or_browser_fallback,,,,,,,
+hashicorp,Hashicorp,Helios Design System,@hashicorp/design-system-components,7.1.0,IBM Plex Sans,28,brand_or_custom,ibm-plex-sans,matched_catalogue,,open,OFL-1.1,yes,yes,no,yes
+hashicorp,Hashicorp,Helios Design System,@hashicorp/design-system-components,7.1.0,IBM Plex Mono,24,brand_or_custom,ibm-plex-mono,matched_catalogue,,open,OFL-1.1,yes,yes,no,yes
+hashicorp,Hashicorp,Helios Design System,@hashicorp/design-system-components,7.1.0,Segoe UI,18,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+hashicorp,Hashicorp,Helios Design System,@hashicorp/design-system-components,7.1.0,Helvetica,18,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+hashicorp,Hashicorp,Helios Design System,@hashicorp/design-system-components,7.1.0,Arial,18,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+hashicorp,Hashicorp,Helios Design System,@hashicorp/design-system-components,7.1.0,Apple Color Emoji,18,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+hashicorp,Hashicorp,Helios Design System,@hashicorp/design-system-components,7.1.0,Segoe UI Emoji,18,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+hashicorp,Hashicorp,Helios Design System,@hashicorp/design-system-components,7.1.0,Segoe UI Symbol,18,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+hashicorp,Hashicorp,Helios Design System,@hashicorp/design-system-components,7.1.0,Menlo,7,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+hashicorp,Hashicorp,Helios Design System,@hashicorp/design-system-components,7.1.0,Consolas,7,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+grommet,Grommet,Hewlett Packard,grommet,2.58.0,Arial,4,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+grommet,Grommet,Hewlett Packard,grommet,2.58.0,Comic Sans MS,4,brand_or_custom,comic-sans-ms,matched_catalogue,,proprietary_name_lookup,proprietary_name_lookup,not_measured,not_measured,not_measured,not_measured
+grommet,Grommet,Hewlett Packard,grommet,2.58.0,JetBrains Mono,3,not_a_font_name,,os_or_browser_fallback,,,,,,,
+lion,Lion,ING,@lion/ui,0.27.0,Arial,2,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+lion,Lion,ING,@lion/ui,0.27.0,Nunito Sans,1,brand_or_custom,nunito-sans,matched_catalogue,,open,OFL-1.1,yes,yes,no,no
+lion,Lion,ING,@lion/ui,0.27.0,San Francisco,1,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+lion,Lion,ING,@lion/ui,0.27.0,Segoe UI,1,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+lion,Lion,ING,@lion/ui,0.27.0,Helvetica Neue,1,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+lion,Lion,ING,@lion/ui,0.27.0,Helvetica,1,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+it-designers-italy,.it Designers Italy,Italian Public Administration,bootstrap-italia,2.18.3,VideoJS,49,not_a_font_name,,os_or_browser_fallback,,,,,,,
+it-designers-italy,.it Designers Italy,Italian Public Administration,bootstrap-italia,2.18.3,Titillium Web,37,brand_or_custom,titillium-web,matched_catalogue,,open,OFL-1.1,no,no,no,no
+it-designers-italy,.it Designers Italy,Italian Public Administration,bootstrap-italia,2.18.3,Lora,24,brand_or_custom,lora,matched_catalogue,,open,OFL-1.1,yes,yes,yes,no
+it-designers-italy,.it Designers Italy,Italian Public Administration,bootstrap-italia,2.18.3,Roboto Mono,22,brand_or_custom,roboto-mono,matched_catalogue,,open,OFL-1.1,yes,yes,no,no
+it-designers-italy,.it Designers Italy,Italian Public Administration,bootstrap-italia,2.18.3,Georgia,8,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+it-designers-italy,.it Designers Italy,Italian Public Administration,bootstrap-italia,2.18.3,Geneva,5,brand_or_custom,geneva,matched_catalogue,,proprietary_name_lookup,proprietary_name_lookup,not_measured,not_measured,not_measured,not_measured
+it-designers-italy,.it Designers Italy,Italian Public Administration,bootstrap-italia,2.18.3,Tahoma,5,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+it-designers-italy,.it Designers Italy,Italian Public Administration,bootstrap-italia,2.18.3,Arial,5,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+it-designers-italy,.it Designers Italy,Italian Public Administration,bootstrap-italia,2.18.3,Helvetica,5,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+pharos,Pharos,JSTOR,@ithaka/pharos,14.27.1,GT America Standard,6,brand_or_custom,gt-america-standard,matched_catalogue,,unknown_not_checked,unknown_not_checked,not_measured,not_measured,not_measured,not_measured
+pharos,Pharos,JSTOR,@ithaka/pharos,14.27.1,Ivar Headline,6,brand_or_custom,ivar-headline,matched_catalogue,,unknown_not_checked,unknown_not_checked,not_measured,not_measured,not_measured,not_measured
+pharos,Pharos,JSTOR,@ithaka/pharos,14.27.1,Helvetica,2,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+pharos,Pharos,JSTOR,@ithaka/pharos,14.27.1,Helvetica Neue,2,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+pharos,Pharos,JSTOR,@ithaka/pharos,14.27.1,Arial,2,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+pharos,Pharos,JSTOR,@ithaka/pharos,14.27.1,Segoe UI,2,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+pharos,Pharos,JSTOR,@ithaka/pharos,14.27.1,Roboto,2,brand_or_custom,roboto,matched_catalogue,,open,OFL-1.1,yes,yes,yes,no
+pharos,Pharos,JSTOR,@ithaka/pharos,14.27.1,Droid Sans,2,brand_or_custom,droid-sans,matched_catalogue,,unknown_not_checked,unknown_not_checked,not_measured,not_measured,not_measured,not_measured
+pharos,Pharos,JSTOR,@ithaka/pharos,14.27.1,Times,2,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+pharos,Pharos,JSTOR,@ithaka/pharos,14.27.1,Georgia,2,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+kickstartds,kickstartDS,kickstart,@kickstartds/core,4.1.0,Helvetica Neue,2,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+kickstartds,kickstartDS,kickstart,@kickstartds/core,4.1.0,Helvetica,2,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+kickstartds,kickstartDS,kickstart,@kickstartds/core,4.1.0,Garamond,1,brand_or_custom,garamond,matched_catalogue,,unknown_not_checked,unknown_not_checked,not_measured,not_measured,not_measured,not_measured
+kickstartds,kickstartDS,kickstart,@kickstartds/core,4.1.0,Baskerville,1,brand_or_custom,baskerville,matched_catalogue,,unknown_not_checked,unknown_not_checked,not_measured,not_measured,not_measured,not_measured
+kickstartds,kickstartDS,kickstart,@kickstartds/core,4.1.0,Baskerville Old Face,1,brand_or_custom,baskerville-old-face,matched_catalogue,,unknown_not_checked,unknown_not_checked,not_measured,not_measured,not_measured,not_measured
+kickstartds,kickstartDS,kickstart,@kickstartds/core,4.1.0,Hoefler Text,1,brand_or_custom,hoefler-text,matched_catalogue,,unknown_not_checked,unknown_not_checked,not_measured,not_measured,not_measured,not_measured
+kickstartds,kickstartDS,kickstart,@kickstartds/core,4.1.0,Times New Roman,1,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+kickstartds,kickstartDS,kickstart,@kickstartds/core,4.1.0,Arial,1,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+kickstartds,kickstartDS,kickstart,@kickstartds/core,4.1.0,Avenir Next,1,brand_or_custom,avenir-next,matched_catalogue,,proprietary_name_lookup,proprietary_name_lookup,not_measured,not_measured,not_measured,not_measured
+kickstartds,kickstartDS,kickstart,@kickstartds/core,4.1.0,Avenir,1,brand_or_custom,avenir,matched_catalogue,,proprietary_name_lookup,proprietary_name_lookup,not_measured,not_measured,not_measured,not_measured
+kickstartds,kickstartDS,kickstart,@kickstartds/core,4.1.0,Segoe UI,1,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+kickstartds,kickstartDS,kickstart,@kickstartds/core,4.1.0,Lucida Grande,1,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+kickstartds,kickstartDS,kickstart,@kickstartds/core,4.1.0,Fira Sans,1,brand_or_custom,fira-sans,matched_catalogue,,open,OFL-1.1,no,yes,yes,yes
+kickstartds,kickstartDS,kickstart,@kickstartds/core,4.1.0,Roboto,1,brand_or_custom,roboto,matched_catalogue,,open,OFL-1.1,yes,yes,yes,no
+kickstartds,kickstartDS,kickstart,@kickstartds/core,4.1.0,Noto,1,brand_or_custom,noto,matched_catalogue,,unknown_not_checked,unknown_not_checked,not_measured,not_measured,not_measured,not_measured
+kickstartds,kickstartDS,kickstart,@kickstartds/core,4.1.0,Droid Sans,1,brand_or_custom,droid-sans,matched_catalogue,,unknown_not_checked,unknown_not_checked,not_measured,not_measured,not_measured,not_measured
+kickstartds,kickstartDS,kickstart,@kickstartds/core,4.1.0,Cantarell,1,brand_or_custom,cantarell,matched_catalogue,,open,OFL-1.1,no,no,no,no
+kickstartds,kickstartDS,kickstart,@kickstartds/core,4.1.0,Oxygen,1,brand_or_custom,oxygen,matched_catalogue,,open,OFL-1.1,no,no,no,no
+kickstartds,kickstartDS,kickstart,@kickstartds/core,4.1.0,Ubuntu,1,brand_or_custom,ubuntu,matched_catalogue,,open,UFL-1.0,no,yes,yes,no
+kickstartds,kickstartDS,kickstart,@kickstartds/core,4.1.0,Franklin Gothic Medium,1,brand_or_custom,franklin-gothic-medium,matched_catalogue,,unknown_not_checked,unknown_not_checked,not_measured,not_measured,not_measured,not_measured
+kickstartds,kickstartDS,kickstart,@kickstartds/core,4.1.0,Century Gothic,1,brand_or_custom,century-gothic,matched_catalogue,,unknown_not_checked,unknown_not_checked,not_measured,not_measured,not_measured,not_measured
+kickstartds,kickstartDS,kickstart,@kickstartds/core,4.1.0,Liberation Sans,1,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+kickstartds,kickstartDS,kickstart,@kickstartds/core,4.1.0,SFMono-Regular,1,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+kickstartds,kickstartDS,kickstart,@kickstartds/core,4.1.0,SF Mono,1,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+kickstartds,kickstartDS,kickstart,@kickstartds/core,4.1.0,Menlo,1,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+kickstartds,kickstartDS,kickstart,@kickstartds/core,4.1.0,Consolas,1,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+kickstartds,kickstartDS,kickstart,@kickstartds/core,4.1.0,Liberation Mono,1,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+orbit,Orbit,Kiwi.com,@kiwicom/orbit-components,27.7.1-alpha.0,SFMono-Regular,2,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+orbit,Orbit,Kiwi.com,@kiwicom/orbit-components,27.7.1-alpha.0,Roboto,1,brand_or_custom,roboto,matched_catalogue,,open,OFL-1.1,yes,yes,yes,no
+orbit,Orbit,Kiwi.com,@kiwicom/orbit-components,27.7.1-alpha.0,San Francisco,1,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+orbit,Orbit,Kiwi.com,@kiwicom/orbit-components,27.7.1-alpha.0,Segoe UI,1,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+orbit,Orbit,Kiwi.com,@kiwicom/orbit-components,27.7.1-alpha.0,Helvetica Neue,1,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+orbit,Orbit,Kiwi.com,@kiwicom/orbit-components,27.7.1-alpha.0,Lucida Grande,1,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+kolibri-public-ui,KoliBri - Public UI,KoliBri,@public-ui/components,4.5.0,Verdana,500,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+lens,Lens,Loom,@loomhq/lens,13.0.3,Atlassian Sans,4,brand_or_custom,atlassian-sans,matched_catalogue,,unknown_not_checked,unknown_not_checked,not_measured,not_measured,not_measured,not_measured
+lens,Lens,Loom,@loomhq/lens,13.0.3,Segoe UI,4,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+lens,Lens,Loom,@loomhq/lens,13.0.3,Ubuntu,4,brand_or_custom,ubuntu,matched_catalogue,,open,UFL-1.0,no,yes,yes,no
+lens,Lens,Loom,@loomhq/lens,13.0.3,Helvetica Neue,4,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+lens,Lens,Loom,@loomhq/lens,13.0.3,Atlassian Mono,2,brand_or_custom,atlassian-mono,matched_catalogue,,unknown_not_checked,unknown_not_checked,not_measured,not_measured,not_measured,not_measured
+lens,Lens,Loom,@loomhq/lens,13.0.3,Menlo,2,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+lens,Lens,Loom,@loomhq/lens,13.0.3,Segoe UI Mono,2,brand_or_custom,segoe-ui-mono,matched_catalogue,,proprietary_name_lookup,proprietary_name_lookup,not_measured,not_measured,not_measured,not_measured
+lens,Lens,Loom,@loomhq/lens,13.0.3,Ubuntu Mono,2,brand_or_custom,ubuntu-mono,matched_catalogue,,open,UFL-1.0,no,yes,no,no
+mantine,Mantine,Mantine,@mantine/core,9.8.0,Segoe UI,12,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+mantine,Mantine,Mantine,@mantine/core,9.8.0,Roboto,12,brand_or_custom,roboto,matched_catalogue,,open,OFL-1.1,yes,yes,yes,no
+mantine,Mantine,Mantine,@mantine/core,9.8.0,Helvetica,12,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+mantine,Mantine,Mantine,@mantine/core,9.8.0,Arial,12,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+mantine,Mantine,Mantine,@mantine/core,9.8.0,Apple Color Emoji,12,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+mantine,Mantine,Mantine,@mantine/core,9.8.0,Segoe UI Emoji,12,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+mantine,Mantine,Mantine,@mantine/core,9.8.0,calc(1rem * var(--mantine-scale,8,not_a_font_name,,os_or_browser_fallback,,,,,,,
+mantine,Mantine,Mantine,@mantine/core,9.8.0,DEFAULT_FONT_FAMILY,4,not_a_font_name,,os_or_browser_fallback,,,,,,,
+mantine,Mantine,Mantine,@mantine/core,9.8.0,SFMono-Regular,4,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+mantine,Mantine,Mantine,@mantine/core,9.8.0,Menlo,4,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+mantine,Mantine,Mantine,@mantine/core,9.8.0,Monaco,4,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+mantine,Mantine,Mantine,@mantine/core,9.8.0,Consolas,4,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+mantine,Mantine,Mantine,@mantine/core,9.8.0,Liberation Mono,4,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+mantine,Mantine,Mantine,@mantine/core,9.8.0,Courier New,4,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+mantine,Mantine,Mantine,@mantine/core,9.8.0,fontFamilyResolver,1,not_a_font_name,,os_or_browser_fallback,,,,,,,
+mantine,Mantine,Mantine,@mantine/core,9.8.0,typeof fontFamilyResolver,1,not_a_font_name,,os_or_browser_fallback,,,,,,,
+protocol,Protocol,Mozilla,@mozilla-protocol/core,22.0.0,X-LocaleSpecific,36,not_a_font_name,,os_or_browser_fallback,,,,,,,
+protocol,Protocol,Mozilla,@mozilla-protocol/core,22.0.0,Helvetica Neue,25,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+protocol,Protocol,Mozilla,@mozilla-protocol/core,22.0.0,Arial,25,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+protocol,Protocol,Mozilla,@mozilla-protocol/core,22.0.0,Mozilla Text,21,brand_or_custom,mozilla-text,matched_catalogue,,open,OFL-1.1,yes,no,no,yes
+protocol,Protocol,Mozilla,@mozilla-protocol/core,22.0.0,Mozilla Headline,20,brand_or_custom,mozilla-headline,matched_catalogue,,open,OFL-1.1,yes,no,no,yes
+protocol,Protocol,Mozilla,@mozilla-protocol/core,22.0.0,Inter,17,brand_or_custom,inter,matched_catalogue,,open,OFL-1.1,yes,yes,yes,yes
+protocol,Protocol,Mozilla,@mozilla-protocol/core,22.0.0,Metropolis,4,brand_or_custom,metropolis,matched_catalogue,,unknown_not_checked,unknown_not_checked,not_measured,not_measured,not_measured,not_measured
+protocol,Protocol,Mozilla,@mozilla-protocol/core,22.0.0,Consolas,2,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+protocol,Protocol,Mozilla,@mozilla-protocol/core,22.0.0,Monaco,2,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+protocol,Protocol,Mozilla,@mozilla-protocol/core,22.0.0,Andale Mono,2,brand_or_custom,andale-mono,matched_catalogue,,proprietary_name_lookup,proprietary_name_lookup,not_measured,not_measured,not_measured,not_measured
+protocol,Protocol,Mozilla,@mozilla-protocol/core,22.0.0,Ubuntu Mono,2,brand_or_custom,ubuntu-mono,matched_catalogue,,open,UFL-1.0,no,yes,no,no
+newskit,NewsKit,News UK,newskit,10.0.0,Font B,4,not_a_font_name,,os_or_browser_fallback,,,,,,,
+newskit,NewsKit,News UK,newskit,10.0.0,Font A,2,not_a_font_name,,os_or_browser_fallback,,,,,,,
+newskit,NewsKit,News UK,newskit,10.0.0,DM Sans,2,brand_or_custom,dm-sans,matched_catalogue,,open,OFL-1.1,yes,no,no,no
+newskit,NewsKit,News UK,newskit,10.0.0,Bitter,2,brand_or_custom,bitter,matched_catalogue,,open,OFL-1.1,yes,yes,yes,yes
+newskit,NewsKit,News UK,newskit,10.0.0,Poppins,2,brand_or_custom,poppins,matched_catalogue,,open,OFL-1.1,no,no,no,no
+nulogy-design-system,Nulogy Design System,Nulogy,@nulogy/components,20.0.1,resolveFontFamily(theme,2,not_a_font_name,,os_or_browser_fallback,,,,,,,
+blueprint,Blueprint,Palantir,@blueprintjs/core,6.23.0,Segoe UI,3,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+blueprint,Blueprint,Palantir,@blueprintjs/core,6.23.0,Roboto,3,brand_or_custom,roboto,matched_catalogue,,open,OFL-1.1,yes,yes,yes,no
+blueprint,Blueprint,Palantir,@blueprintjs/core,6.23.0,Oxygen,3,brand_or_custom,oxygen,matched_catalogue,,open,OFL-1.1,no,no,no,no
+blueprint,Blueprint,Palantir,@blueprintjs/core,6.23.0,Ubuntu,3,brand_or_custom,ubuntu,matched_catalogue,,open,UFL-1.0,no,yes,yes,no
+blueprint,Blueprint,Palantir,@blueprintjs/core,6.23.0,Cantarell,3,brand_or_custom,cantarell,matched_catalogue,,open,OFL-1.1,no,no,no,no
+blueprint,Blueprint,Palantir,@blueprintjs/core,6.23.0,Open Sans,3,brand_or_custom,open-sans,matched_catalogue,,open,OFL-1.1,yes,yes,yes,yes
+blueprint,Blueprint,Palantir,@blueprintjs/core,6.23.0,Helvetica Neue,3,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+blueprint,Blueprint,Palantir,@blueprintjs/core,6.23.0,Arial,3,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+graphite-design-system,Graphite Design System,PAQT,@graphiteds/core,1.9.28,Roboto,8,brand_or_custom,roboto,matched_catalogue,,open,OFL-1.1,yes,yes,yes,no
+graphite-design-system,Graphite Design System,PAQT,@graphiteds/core,1.9.28,Helvetica Neue,8,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+graphite-design-system,Graphite Design System,PAQT,@graphiteds/core,1.9.28,Segoe UI,6,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+graphite-design-system,Graphite Design System,PAQT,@graphiteds/core,1.9.28,Arial,6,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+patternfly,PatternFly,PatternFly,@patternfly/react-core,6.7.0,Red Hat Text,8,brand_or_custom,red-hat-text,matched_catalogue,,open,OFL-1.1,yes,no,yes,yes
+patternfly,PatternFly,PatternFly,@patternfly/react-core,6.7.0,Red Hat Display,8,brand_or_custom,red-hat-display,matched_catalogue,,open,OFL-1.1,yes,no,yes,yes
+patternfly,PatternFly,PatternFly,@patternfly/react-core,6.7.0,Red Hat Mono,8,brand_or_custom,red-hat-mono,matched_catalogue,,open,OFL-1.1,yes,no,no,yes
+patternfly,PatternFly,PatternFly,@patternfly/react-core,6.7.0,Noto Sans Arabic,8,brand_or_custom,noto-sans-arabic,matched_catalogue,,open,OFL-1.1,yes,no,yes,no
+patternfly,PatternFly,PatternFly,@patternfly/react-core,6.7.0,Noto Sans Hebrew,8,brand_or_custom,noto-sans-hebrew,matched_catalogue,,open,OFL-1.1,yes,no,no,no
+patternfly,PatternFly,PatternFly,@patternfly/react-core,6.7.0,Noto Sans JP,8,brand_or_custom,noto-sans-jp,matched_catalogue,,open,OFL-1.1,yes,no,no,no
+patternfly,PatternFly,PatternFly,@patternfly/react-core,6.7.0,Noto Sans KR,8,brand_or_custom,noto-sans-kr,matched_catalogue,,open,OFL-1.1,yes,no,no,no
+patternfly,PatternFly,PatternFly,@patternfly/react-core,6.7.0,Noto Sans Malayalam,8,brand_or_custom,noto-sans-malayalam,matched_catalogue,,open,OFL-1.1,yes,no,no,no
+patternfly,PatternFly,PatternFly,@patternfly/react-core,6.7.0,Noto Sans SC,8,brand_or_custom,noto-sans-sc,matched_catalogue,,open,OFL-1.1,yes,no,no,no
+patternfly,PatternFly,PatternFly,@patternfly/react-core,6.7.0,Noto Sans TC,8,brand_or_custom,noto-sans-tc,matched_catalogue,,open,OFL-1.1,yes,no,no,no
+patternfly,PatternFly,PatternFly,@patternfly/react-core,6.7.0,Noto Sans Thai,8,brand_or_custom,noto-sans-thai,matched_catalogue,,open,OFL-1.1,yes,no,no,no
+patternfly,PatternFly,PatternFly,@patternfly/react-core,6.7.0,Helvetica,8,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+patternfly,PatternFly,PatternFly,@patternfly/react-core,6.7.0,Arial,8,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+patternfly,PatternFly,PatternFly,@patternfly/react-core,6.7.0,RedHatText,4,not_a_font_name,,os_or_browser_fallback,,,,,,,
+patternfly,PatternFly,PatternFly,@patternfly/react-core,6.7.0,RedHatDisplay,4,not_a_font_name,,os_or_browser_fallback,,,,,,,
+patternfly,PatternFly,PatternFly,@patternfly/react-core,6.7.0,RedHatMono,4,not_a_font_name,,os_or_browser_fallback,,,,,,,
+patternfly,PatternFly,PatternFly,@patternfly/react-core,6.7.0,Courier New,4,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+patternfly,PatternFly,PatternFly,@patternfly/react-core,6.7.0,Courier,4,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+patternfly,PatternFly,PatternFly,@patternfly/react-core,6.7.0,courier new,2,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+priceline-priceline-one-2,Priceline One,Priceline,pcln-design-system,6.29.0,Montserrat,4,brand_or_custom,montserrat,matched_catalogue,,open,OFL-1.1,yes,yes,yes,no
+react95,React95,React95,@react95/core,10.4.5,MS Sans Serif,6,brand_or_custom,ms-sans-serif,matched_catalogue,,unknown_not_checked,unknown_not_checked,not_measured,not_measured,not_measured,not_measured
+react95,React95,React95,@react95/core,10.4.5,React95Video-Numbers,4,brand_or_custom,react95video-numbers,matched_catalogue,,unknown_not_checked,unknown_not_checked,not_measured,not_measured,not_measured,not_measured
+react95,React95,React95,@react95/core,10.4.5,Comic Sans MS,1,brand_or_custom,comic-sans-ms,matched_catalogue,,proprietary_name_lookup,proprietary_name_lookup,not_measured,not_measured,not_measured,not_measured
+reshaped,Reshaped,Reshaped,reshaped,4.3.0,Inter,6,brand_or_custom,inter,matched_catalogue,,open,OFL-1.1,yes,yes,yes,yes
+reshaped,Reshaped,Reshaped,reshaped,4.3.0,Roboto,6,brand_or_custom,roboto,matched_catalogue,,open,OFL-1.1,yes,yes,yes,no
+reshaped,Reshaped,Reshaped,reshaped,4.3.0,Helvetica,6,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+reshaped,Reshaped,Reshaped,reshaped,4.3.0,Arial,6,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+reshaped,Reshaped,Reshaped,reshaped,4.3.0,SFMono-Regular,2,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+reshaped,Reshaped,Reshaped,reshaped,4.3.0,Menlo,2,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+reshaped,Reshaped,Reshaped,reshaped,4.3.0,Monaco,2,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+reshaped,Reshaped,Reshaped,reshaped,4.3.0,Consolas,2,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+reshaped,Reshaped,Reshaped,reshaped,4.3.0,Liberation Mono,2,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+reshaped,Reshaped,Reshaped,reshaped,4.3.0,Courier New,2,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+reshaped,Reshaped,Reshaped,reshaped,4.3.0,Geist Mono,1,brand_or_custom,geist-mono,matched_catalogue,,open,OFL-1.1,yes,yes,no,no
+tegel,Tegel,Scania,@scania/tegel,1.68.0,Helvetica Neue,50,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+tegel,Tegel,Scania,@scania/tegel,1.68.0,TRATON Type Text,36,brand_or_custom,traton-type-text,matched_catalogue,,unknown_not_checked,unknown_not_checked,not_measured,not_measured,not_measured,not_measured
+tegel,Tegel,Scania,@scania/tegel,1.68.0,Scania Sans,32,brand_or_custom,scania-sans,matched_catalogue,,unknown_not_checked,unknown_not_checked,not_measured,not_measured,not_measured,not_measured
+tegel,Tegel,Scania,@scania/tegel,1.68.0,TRATON Type Display,24,brand_or_custom,traton-type-display,matched_catalogue,,unknown_not_checked,unknown_not_checked,not_measured,not_measured,not_measured,not_measured
+tegel,Tegel,Scania,@scania/tegel,1.68.0,Scania Sans Semi Condensed,18,brand_or_custom,scania-sans-semi-condensed,matched_catalogue,,unknown_not_checked,unknown_not_checked,not_measured,not_measured,not_measured,not_measured
+tegel,Tegel,Scania,@scania/tegel,1.68.0,Scania Sans Headline,16,brand_or_custom,scania-sans-headline,matched_catalogue,,unknown_not_checked,unknown_not_checked,not_measured,not_measured,not_measured,not_measured
+tegel,Tegel,Scania,@scania/tegel,1.68.0,Scania Sans Condensed,6,brand_or_custom,scania-sans-condensed,matched_catalogue,,unknown_not_checked,unknown_not_checked,not_measured,not_measured,not_measured,not_measured
+tegel,Tegel,Scania,@scania/tegel,1.68.0,scania sans,1,brand_or_custom,scania-sans,matched_catalogue,,unknown_not_checked,unknown_not_checked,not_measured,not_measured,not_measured,not_measured
+tegel,Tegel,Scania,@scania/tegel,1.68.0,scania sans headline,1,brand_or_custom,scania-sans-headline,matched_catalogue,,unknown_not_checked,unknown_not_checked,not_measured,not_measured,not_measured,not_measured
+tegel,Tegel,Scania,@scania/tegel,1.68.0,scania sans semi condensed,1,brand_or_custom,scania-sans-semi-condensed,matched_catalogue,,unknown_not_checked,unknown_not_checked,not_measured,not_measured,not_measured,not_measured
+tegel,Tegel,Scania,@scania/tegel,1.68.0,traton type text,1,brand_or_custom,traton-type-text,matched_catalogue,,unknown_not_checked,unknown_not_checked,not_measured,not_measured,not_measured,not_measured
+tegel,Tegel,Scania,@scania/tegel,1.68.0,traton type display,1,brand_or_custom,traton-type-display,matched_catalogue,,unknown_not_checked,unknown_not_checked,not_measured,not_measured,not_measured,not_measured
+braid-design-system,Braid Design System,Seek,braid-design-system,34.11.1,Roboto,4,brand_or_custom,roboto,matched_catalogue,,open,OFL-1.1,yes,yes,yes,no
+braid-design-system,Braid Design System,Seek,braid-design-system,34.11.1,SeekSans,2,not_a_font_name,,os_or_browser_fallback,,,,,,,
+braid-design-system,Braid Design System,Seek,braid-design-system,34.11.1,Helvetica Neue,2,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+braid-design-system,Braid Design System,Seek,braid-design-system,34.11.1,HelveticaNeue,2,not_a_font_name,,os_or_browser_fallback,,,,,,,
+braid-design-system,Braid Design System,Seek,braid-design-system,34.11.1,Helvetica,2,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+braid-design-system,Braid Design System,Seek,braid-design-system,34.11.1,Arial,2,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+evergreen,Evergreen,Segment,evergreen-ui,7.1.9,SF UI Text,20,brand_or_custom,sf-ui-text,matched_catalogue,,unknown_not_checked,unknown_not_checked,not_measured,not_measured,not_measured,not_measured
+evergreen,Evergreen,Segment,evergreen-ui,7.1.9,themedFontFamily,12,not_a_font_name,,os_or_browser_fallback,,,,,,,
+evergreen,Evergreen,Segment,evergreen-ui,7.1.9,SF UI Display,7,brand_or_custom,sf-ui-display,matched_catalogue,,unknown_not_checked,unknown_not_checked,not_measured,not_measured,not_measured,not_measured
+semantic-ui,Semantic UI,Semantic,semantic-ui,2.5.0,Lato,85,brand_or_custom,lato,matched_catalogue,,open,OFL-1.1,no,yes,yes,no
+semantic-ui,Semantic UI,Semantic,semantic-ui,2.5.0,Helvetica Neue,84,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+semantic-ui,Semantic UI,Semantic,semantic-ui,2.5.0,Arial,84,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+semantic-ui,Semantic UI,Semantic,semantic-ui,2.5.0,Helvetica,84,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+semantic-ui,Semantic UI,Semantic,semantic-ui,2.5.0,Icons,14,not_a_font_name,,os_or_browser_fallback,,,,,,,
+semantic-ui,Semantic UI,Semantic,semantic-ui,2.5.0,Accordion,8,not_a_font_name,,os_or_browser_fallback,,,,,,,
+semantic-ui,Semantic UI,Semantic,semantic-ui,2.5.0,Checkbox,8,not_a_font_name,,os_or_browser_fallback,,,,,,,
+semantic-ui,Semantic UI,Semantic,semantic-ui,2.5.0,Dropdown,8,not_a_font_name,,os_or_browser_fallback,,,,,,,
+semantic-ui,Semantic UI,Semantic,semantic-ui,2.5.0,Rating,8,not_a_font_name,,os_or_browser_fallback,,,,,,,
+semantic-ui,Semantic UI,Semantic,semantic-ui,2.5.0,Step,8,not_a_font_name,,os_or_browser_fallback,,,,,,,
+semi-design,Semi Design,Semi Design,@douyinfe/semi-ui,2.105.0,Inter,332,brand_or_custom,inter,matched_catalogue,,open,OFL-1.1,yes,yes,yes,yes
+semi-design,Semi Design,Semi Design,@douyinfe/semi-ui,2.105.0,PingFang SC,328,not_a_font_name,,os_or_browser_fallback,,,,,,,
+semi-design,Semi Design,Semi Design,@douyinfe/semi-ui,2.105.0,Hiragino Sans GB,328,brand_or_custom,hiragino-sans-gb,matched_catalogue,,unknown_not_checked,unknown_not_checked,not_measured,not_measured,not_measured,not_measured
+semi-design,Semi Design,Semi Design,@douyinfe/semi-ui,2.105.0,Microsoft YaHei,328,not_a_font_name,,os_or_browser_fallback,,,,,,,
+semi-design,Semi Design,Semi Design,@douyinfe/semi-ui,2.105.0,Segoe UI,328,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+semi-design,Semi Design,Semi Design,@douyinfe/semi-ui,2.105.0,Helvetica Neue,328,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+semi-design,Semi Design,Semi Design,@douyinfe/semi-ui,2.105.0,Helvetica,328,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+semi-design,Semi Design,Semi Design,@douyinfe/semi-ui,2.105.0,Arial,328,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+semi-design,Semi Design,Semi Design,@douyinfe/semi-ui,2.105.0,SFMono-Regular,8,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+semi-design,Semi Design,Semi Design,@douyinfe/semi-ui,2.105.0,Menlo,8,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+semi-design,Semi Design,Semi Design,@douyinfe/semi-ui,2.105.0,Monaco,8,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+semi-design,Semi Design,Semi Design,@douyinfe/semi-ui,2.105.0,Consolas,8,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+semi-design,Semi Design,Semi Design,@douyinfe/semi-ui,2.105.0,Liberation Mono,8,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+semi-design,Semi Design,Semi Design,@douyinfe/semi-ui,2.105.0,Courier New,8,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+semi-design,Semi Design,Semi Design,@douyinfe/semi-ui,2.105.0,SF Mono,6,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+semi-design,Semi Design,Semi Design,@douyinfe/semi-ui,2.105.0,DejaVu Sans Mono,6,not_a_font_name,,os_or_browser_fallback,,,,,,,
+semi-design,Semi Design,Semi Design,@douyinfe/semi-ui,2.105.0,Fira Code,4,brand_or_custom,fira-code,matched_catalogue,,open,OFL-1.1,yes,yes,yes,yes
+semi-design,Semi Design,Semi Design,@douyinfe/semi-ui,2.105.0,Inter-Bold,2,brand_or_custom,inter,matched_catalogue,Inter,open,OFL-1.1,yes,yes,yes,yes
+anvil,Anvil,ServiceTitan,@servicetitan/anvil2,3.19.1,Nunito Sans,151,brand_or_custom,nunito-sans,matched_catalogue,,open,OFL-1.1,yes,yes,no,no
+anvil,Anvil,ServiceTitan,@servicetitan/anvil2,3.19.1,Sofia Pro,21,brand_or_custom,sofia-pro,matched_catalogue,,unknown_not_checked,unknown_not_checked,not_measured,not_measured,not_measured,not_measured
+anvil,Anvil,ServiceTitan,@servicetitan/anvil2,3.19.1,SofiaPro,17,not_a_font_name,,os_or_browser_fallback,,,,,,,
+anvil,Anvil,ServiceTitan,@servicetitan/anvil2,3.19.1,TokenObj,3,not_a_font_name,,os_or_browser_fallback,,,,,,,
+polaris,Polaris,Shopify,@shopify/polaris,13.9.5,Inter,2,brand_or_custom,inter,matched_catalogue,,open,OFL-1.1,yes,yes,yes,yes
+polaris,Polaris,Shopify,@shopify/polaris,13.9.5,San Francisco,2,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+polaris,Polaris,Shopify,@shopify/polaris,13.9.5,Segoe UI,2,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+polaris,Polaris,Shopify,@shopify/polaris,13.9.5,Roboto,2,brand_or_custom,roboto,matched_catalogue,,open,OFL-1.1,yes,yes,yes,no
+polaris,Polaris,Shopify,@shopify/polaris,13.9.5,Helvetica Neue,2,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+polaris,Polaris,Shopify,@shopify/polaris,13.9.5,SFMono-Regular,2,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+polaris,Polaris,Shopify,@shopify/polaris,13.9.5,SF Mono,2,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+polaris,Polaris,Shopify,@shopify/polaris,13.9.5,Consolas,2,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+polaris,Polaris,Shopify,@shopify/polaris,13.9.5,Liberation Mono,2,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+polaris,Polaris,Shopify,@shopify/polaris,13.9.5,Menlo,2,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+siemens-ix,Siemens iX,Siemens iX,@siemens/ix,5.3.0,Siemens Sans,940,brand_or_custom,siemens-sans,matched_catalogue,,unknown_not_checked,unknown_not_checked,not_measured,not_measured,not_measured,not_measured
+siemens-ix,Siemens iX,Siemens iX,@siemens/ix,5.3.0,Arial,286,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+siemens-ix,Siemens iX,Siemens iX,@siemens/ix,5.3.0,Helvetica,271,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+siemens-ix,Siemens iX,Siemens iX,@siemens/ix,5.3.0,Courier New,24,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+siemens-ix,Siemens iX,Siemens iX,@siemens/ix,5.3.0,JetBrainsMono,21,not_a_font_name,,os_or_browser_fallback,,,,,,,
+siemens-ix,Siemens iX,Siemens iX,@siemens/ix,5.3.0,JetBrains Mono,8,not_a_font_name,,os_or_browser_fallback,,,,,,,
+siemens-ix,Siemens iX,Siemens iX,@siemens/ix,5.3.0,Segoe UI,8,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+siemens-ix,Siemens iX,Siemens iX,@siemens/ix,5.3.0,Roboto,8,brand_or_custom,roboto,matched_catalogue,,open,OFL-1.1,yes,yes,yes,no
+siemens-ix,Siemens iX,Siemens iX,@siemens/ix,5.3.0,Helvetica Neue,8,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+siemens-ix,Siemens iX,Siemens iX,@siemens/ix,5.3.0,Noto Sans,8,brand_or_custom,noto-sans,matched_catalogue,,open,OFL-1.1,yes,yes,yes,yes
+siemens-ix,Siemens iX,Siemens iX,@siemens/ix,5.3.0,Liberation Sans,8,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+siemens-ix,Siemens iX,Siemens iX,@siemens/ix,5.3.0,Apple Color Emoji,8,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+siemens-ix,Siemens iX,Siemens iX,@siemens/ix,5.3.0,Segoe UI Emoji,8,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+siemens-ix,Siemens iX,Siemens iX,@siemens/ix,5.3.0,Segoe UI Symbol,8,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+siemens-ix,Siemens iX,Siemens iX,@siemens/ix,5.3.0,Noto Color Emoji,8,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+skyscanner-backpack,Backpack,Skyscanner,@skyscanner/backpack-web,43.19.0,Noto Sans Arabic,41,brand_or_custom,noto-sans-arabic,matched_catalogue,,open,OFL-1.1,yes,no,yes,no
+skyscanner-backpack,Backpack,Skyscanner,@skyscanner/backpack-web,43.19.0,Skyscanner Relative,27,brand_or_custom,skyscanner-relative,matched_catalogue,,unknown_not_checked,unknown_not_checked,not_measured,not_measured,not_measured,not_measured
+skyscanner-backpack,Backpack,Skyscanner,@skyscanner/backpack-web,43.19.0,Noto Sans,24,brand_or_custom,noto-sans,matched_catalogue,,open,OFL-1.1,yes,yes,yes,yes
+skyscanner-backpack,Backpack,Skyscanner,@skyscanner/backpack-web,43.19.0,Noto Serif,22,brand_or_custom,noto-serif,matched_catalogue,,open,OFL-1.1,yes,yes,yes,yes
+skyscanner-backpack,Backpack,Skyscanner,@skyscanner/backpack-web,43.19.0,Noto Sans Thai,21,brand_or_custom,noto-sans-thai,matched_catalogue,,open,OFL-1.1,yes,no,no,no
+skyscanner-backpack,Backpack,Skyscanner,@skyscanner/backpack-web,43.19.0,Noto Sans Devanagari,21,brand_or_custom,noto-sans-devanagari,matched_catalogue,,open,OFL-1.1,yes,no,no,no
+skyscanner-backpack,Backpack,Skyscanner,@skyscanner/backpack-web,43.19.0,Noto Sans Hebrew,21,brand_or_custom,noto-sans-hebrew,matched_catalogue,,open,OFL-1.1,yes,no,no,no
+skyscanner-backpack,Backpack,Skyscanner,@skyscanner/backpack-web,43.19.0,Noto Serif Hebrew,20,brand_or_custom,noto-serif-hebrew,matched_catalogue,,open,OFL-1.1,yes,no,no,no
+skyscanner-backpack,Backpack,Skyscanner,@skyscanner/backpack-web,43.19.0,Noto Serif Devanagari,20,brand_or_custom,noto-serif-devanagari,matched_catalogue,,open,OFL-1.1,yes,no,no,no
+skyscanner-backpack,Backpack,Skyscanner,@skyscanner/backpack-web,43.19.0,Noto Serif Thai,20,brand_or_custom,noto-serif-thai,matched_catalogue,,open,OFL-1.1,yes,no,no,no
+skyscanner-backpack,Backpack,Skyscanner,@skyscanner/backpack-web,43.19.0,Fira Sans,19,brand_or_custom,fira-sans,matched_catalogue,,open,OFL-1.1,no,yes,yes,yes
+skyscanner-backpack,Backpack,Skyscanner,@skyscanner/backpack-web,43.19.0,Droid Sans,19,brand_or_custom,droid-sans,matched_catalogue,,unknown_not_checked,unknown_not_checked,not_measured,not_measured,not_measured,not_measured
+skyscanner-backpack,Backpack,Skyscanner,@skyscanner/backpack-web,43.19.0,Helvetica Neue,19,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+skyscanner-backpack,Backpack,Skyscanner,@skyscanner/backpack-web,43.19.0,Noto Sans JP,11,brand_or_custom,noto-sans-jp,matched_catalogue,,open,OFL-1.1,yes,no,no,no
+skyscanner-backpack,Backpack,Skyscanner,@skyscanner/backpack-web,43.19.0,Noto Sans KR,11,brand_or_custom,noto-sans-kr,matched_catalogue,,open,OFL-1.1,yes,no,no,no
+skyscanner-backpack,Backpack,Skyscanner,@skyscanner/backpack-web,43.19.0,Noto Sans SC,11,brand_or_custom,noto-sans-sc,matched_catalogue,,open,OFL-1.1,yes,no,no,no
+skyscanner-backpack,Backpack,Skyscanner,@skyscanner/backpack-web,43.19.0,Noto Sans TC,11,brand_or_custom,noto-sans-tc,matched_catalogue,,open,OFL-1.1,yes,no,no,no
+skyscanner-backpack,Backpack,Skyscanner,@skyscanner/backpack-web,43.19.0,Noto Serif SC,10,brand_or_custom,noto-serif-sc,matched_catalogue,,open,OFL-1.1,yes,no,no,no
+skyscanner-backpack,Backpack,Skyscanner,@skyscanner/backpack-web,43.19.0,Noto Serif TC,10,brand_or_custom,noto-serif-tc,matched_catalogue,,open,OFL-1.1,yes,no,no,no
+skyscanner-backpack,Backpack,Skyscanner,@skyscanner/backpack-web,43.19.0,Noto Serif JP,10,brand_or_custom,noto-serif-jp,matched_catalogue,,open,OFL-1.1,yes,no,no,no
+skyscanner-backpack,Backpack,Skyscanner,@skyscanner/backpack-web,43.19.0,Noto Serif KR,10,brand_or_custom,noto-serif-kr,matched_catalogue,,open,OFL-1.1,yes,no,no,no
+skyscanner-backpack,Backpack,Skyscanner,@skyscanner/backpack-web,43.19.0,Larken,4,brand_or_custom,larken,matched_catalogue,,unknown_not_checked,unknown_not_checked,not_measured,not_measured,not_measured,not_measured
+skyscanner-backpack,Backpack,Skyscanner,@skyscanner/backpack-web,43.19.0,Roboto,1,brand_or_custom,roboto,matched_catalogue,,open,OFL-1.1,yes,yes,yes,no
+skyscanner-backpack,Backpack,Skyscanner,@skyscanner/backpack-web,43.19.0,Oxygen,1,brand_or_custom,oxygen,matched_catalogue,,open,OFL-1.1,no,no,no,no
+skyscanner-backpack,Backpack,Skyscanner,@skyscanner/backpack-web,43.19.0,Ubuntu,1,brand_or_custom,ubuntu,matched_catalogue,,open,UFL-1.0,no,yes,yes,no
+skyscanner-backpack,Backpack,Skyscanner,@skyscanner/backpack-web,43.19.0,Cantarell,1,brand_or_custom,cantarell,matched_catalogue,,open,OFL-1.1,no,no,no,no
+digital-nsw,Digital NSW,State of New South Wales,nsw-design-system,3.28.2,Public Sans,6,brand_or_custom,public-sans,matched_catalogue,,open,OFL-1.1,yes,no,yes,no
+digital-nsw,Digital NSW,State of New South Wales,nsw-design-system,3.28.2,Material Icons,4,brand_or_custom,material-icons,matched_catalogue,,unknown_not_checked,unknown_not_checked,not_measured,not_measured,not_measured,not_measured
+transport-for-west-midlands,Transport for West Midlands,Transport for West Midlands,wmn-design-system,2.4.0,DM Sans,40,brand_or_custom,dm-sans,matched_catalogue,,open,OFL-1.1,yes,no,no,no
+transport-for-west-midlands,Transport for West Midlands,Transport for West Midlands,wmn-design-system,2.4.0,Noto Sans Display,32,brand_or_custom,noto-sans-display,matched_catalogue,,open,OFL-1.1,yes,yes,yes,yes
+u-s-web-design-system,U.S. Web Design System,U.S. Government,@uswds/uswds,3.14.0,Merriweather Web,305,brand_or_custom,merriweather,matched_catalogue,Merriweather,open,OFL-1.1,yes,yes,yes,yes
+u-s-web-design-system,U.S. Web Design System,U.S. Government,@uswds/uswds,3.14.0,Georgia,281,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+u-s-web-design-system,U.S. Web Design System,U.S. Government,@uswds/uswds,3.14.0,Cambria,281,brand_or_custom,cambria,matched_catalogue,,unknown_not_checked,unknown_not_checked,not_measured,not_measured,not_measured,not_measured
+u-s-web-design-system,U.S. Web Design System,U.S. Government,@uswds/uswds,3.14.0,Times New Roman,281,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+u-s-web-design-system,U.S. Web Design System,U.S. Government,@uswds/uswds,3.14.0,Times,281,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+u-s-web-design-system,U.S. Web Design System,U.S. Government,@uswds/uswds,3.14.0,Source Sans Pro Web,159,brand_or_custom,source-sans-3,matched_catalogue,Source Sans 3,open,OFL-1.1,yes,yes,no,yes
+u-s-web-design-system,U.S. Web Design System,U.S. Government,@uswds/uswds,3.14.0,Helvetica Neue,136,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+u-s-web-design-system,U.S. Web Design System,U.S. Government,@uswds/uswds,3.14.0,Helvetica,136,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+u-s-web-design-system,U.S. Web Design System,U.S. Government,@uswds/uswds,3.14.0,Arial,136,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+u-s-web-design-system,U.S. Web Design System,U.S. Government,@uswds/uswds,3.14.0,Roboto,135,brand_or_custom,roboto,matched_catalogue,,open,OFL-1.1,yes,yes,yes,no
+u-s-web-design-system,U.S. Web Design System,U.S. Government,@uswds/uswds,3.14.0,Roboto Mono Web,32,brand_or_custom,roboto-mono,matched_catalogue,Roboto Mono,open,OFL-1.1,yes,yes,no,no
+u-s-web-design-system,U.S. Web Design System,U.S. Government,@uswds/uswds,3.14.0,Bitstream Vera Sans Mono,8,brand_or_custom,bitstream-vera-sans-mono,matched_catalogue,,unknown_not_checked,unknown_not_checked,not_measured,not_measured,not_measured,not_measured
+u-s-web-design-system,U.S. Web Design System,U.S. Government,@uswds/uswds,3.14.0,Consolas,8,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+u-s-web-design-system,U.S. Web Design System,U.S. Government,@uswds/uswds,3.14.0,Courier,8,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+u-s-web-design-system,U.S. Web Design System,U.S. Government,@uswds/uswds,3.14.0,"kern"" 1",1,not_a_font_name,,os_or_browser_fallback,,,,,,,
+u-s-web-design-system,U.S. Web Design System,U.S. Government,@uswds/uswds,3.14.0,Source Sans Pro,1,brand_or_custom,source-sans-3,matched_catalogue,Source Sans 3,open,OFL-1.1,yes,yes,no,yes
+ustyle,uStyle,uSwitch,ustyle,2.0.14,Segoe UI,11,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+ustyle,uStyle,uSwitch,ustyle,2.0.14,Roboto,11,brand_or_custom,roboto,matched_catalogue,,open,OFL-1.1,yes,yes,yes,no
+ustyle,uStyle,uSwitch,ustyle,2.0.14,Oxygen-Sans,11,brand_or_custom,oxygen-sans,matched_catalogue,,unknown_not_checked,unknown_not_checked,not_measured,not_measured,not_measured,not_measured
+ustyle,uStyle,uSwitch,ustyle,2.0.14,Ubuntu,11,brand_or_custom,ubuntu,matched_catalogue,,open,UFL-1.0,no,yes,yes,no
+ustyle,uStyle,uSwitch,ustyle,2.0.14,Cantarell,11,brand_or_custom,cantarell,matched_catalogue,,open,OFL-1.1,no,no,no,no
+ustyle,uStyle,uSwitch,ustyle,2.0.14,Fira Sans,11,brand_or_custom,fira-sans,matched_catalogue,,open,OFL-1.1,no,yes,yes,yes
+ustyle,uStyle,uSwitch,ustyle,2.0.14,Droid Sans,11,brand_or_custom,droid-sans,matched_catalogue,,unknown_not_checked,unknown_not_checked,not_measured,not_measured,not_measured,not_measured
+ustyle,uStyle,uSwitch,ustyle,2.0.14,Helvetica Neue,11,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+ustyle,uStyle,uSwitch,ustyle,2.0.14,Arial,11,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+momentum-design-system,Momentum Design System,Webex,@momentum-ui/core,19.16.1,Arial,275,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+momentum-design-system,Momentum Design System,Webex,@momentum-ui/core,19.16.1,Helvetica Neue,274,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+momentum-design-system,Momentum Design System,Webex,@momentum-ui/core,19.16.1,Helvetica,274,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+momentum-design-system,Momentum Design System,Webex,@momentum-ui/core,19.16.1,CiscoSansTT Regular,180,not_a_font_name,,os_or_browser_fallback,,,,,,,
+momentum-design-system,Momentum Design System,Webex,@momentum-ui/core,19.16.1,CiscoSansTT Light,67,not_a_font_name,,os_or_browser_fallback,,,,,,,
+momentum-design-system,Momentum Design System,Webex,@momentum-ui/core,19.16.1,CiscoSansTT Bold,55,not_a_font_name,,os_or_browser_fallback,,,,,,,
+momentum-design-system,Momentum Design System,Webex,@momentum-ui/core,19.16.1,CiscoSansTT Extra Light,29,not_a_font_name,,os_or_browser_fallback,,,,,,,
+momentum-design-system,Momentum Design System,Webex,@momentum-ui/core,19.16.1,CiscoSansTT Thin,14,not_a_font_name,,os_or_browser_fallback,,,,,,,
+momentum-design-system,Momentum Design System,Webex,@momentum-ui/core,19.16.1,CiscoSansTT Thin Oblique,8,not_a_font_name,,os_or_browser_fallback,,,,,,,
+momentum-design-system,Momentum Design System,Webex,@momentum-ui/core,19.16.1,CiscoSansTT Extra Light Oblique,8,not_a_font_name,,os_or_browser_fallback,,,,,,,
+momentum-design-system,Momentum Design System,Webex,@momentum-ui/core,19.16.1,CiscoSansTT Light Oblique,8,not_a_font_name,,os_or_browser_fallback,,,,,,,
+momentum-design-system,Momentum Design System,Webex,@momentum-ui/core,19.16.1,CiscoSansTT Medium,8,not_a_font_name,,os_or_browser_fallback,,,,,,,
+momentum-design-system,Momentum Design System,Webex,@momentum-ui/core,19.16.1,CiscoSansTT Regular Oblique,8,not_a_font_name,,os_or_browser_fallback,,,,,,,
+momentum-design-system,Momentum Design System,Webex,@momentum-ui/core,19.16.1,CiscoSansTT Bold Oblique,8,not_a_font_name,,os_or_browser_fallback,,,,,,,
+momentum-design-system,Momentum Design System,Webex,@momentum-ui/core,19.16.1,CiscoSansTT Heavy,8,not_a_font_name,,os_or_browser_fallback,,,,,,,
+momentum-design-system,Momentum Design System,Webex,@momentum-ui/core,19.16.1,CiscoSansTT Heavy Oblique,8,not_a_font_name,,os_or_browser_fallback,,,,,,,
+momentum-design-system,Momentum Design System,Webex,@momentum-ui/core,19.16.1,Consolas,6,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+momentum-design-system,Momentum Design System,Webex,@momentum-ui/core,19.16.1,Liberation Mono,6,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+momentum-design-system,Momentum Design System,Webex,@momentum-ui/core,19.16.1,Courier,6,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+momentum-design-system,Momentum Design System,Webex,@momentum-ui/core,19.16.1,CiscoSans-Medium,2,not_a_font_name,,os_or_browser_fallback,,,,,,,
+momentum-design-system,Momentum Design System,Webex,@momentum-ui/core,19.16.1,map-get($fontVariations,1,not_a_font_name,,os_or_browser_fallback,,,,,,,
+welcome-ui,Welcome UI,Welcome to the Jungle,welcome-ui,10.7.5,Work Sans,11,brand_or_custom,work-sans,matched_catalogue,,open,OFL-1.1,yes,no,yes,yes
+welcome-ui,Welcome UI,Welcome to the Jungle,welcome-ui,10.7.5,Helvetica Neue,1,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+gel,GEL,Westpac,@westpac/ui,1.21.0,Brown Pro,3,brand_or_custom,brown-pro,matched_catalogue,,unknown_not_checked,unknown_not_checked,not_measured,not_measured,not_measured,not_measured
+gel,GEL,Westpac,@westpac/ui,1.21.0,Source Sans Pro,3,brand_or_custom,source-sans-3,matched_catalogue,Source Sans 3,open,OFL-1.1,yes,yes,no,yes
+gel,GEL,Westpac,@westpac/ui,1.21.0,Aller,2,brand_or_custom,aller,matched_catalogue,,unknown_not_checked,unknown_not_checked,not_measured,not_measured,not_measured,not_measured
+gel,GEL,Westpac,@westpac/ui,1.21.0,Dragon Bold,2,brand_or_custom,dragon-bold,matched_catalogue,,unknown_not_checked,unknown_not_checked,not_measured,not_measured,not_measured,not_measured
+gel,GEL,Westpac,@westpac/ui,1.21.0,Westpac,2,brand_or_custom,westpac,matched_catalogue,,unknown_not_checked,unknown_not_checked,not_measured,not_measured,not_measured,not_measured
+gel,GEL,Westpac,@westpac/ui,1.21.0,Apple Color Emoji,2,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+gel,GEL,Westpac,@westpac/ui,1.21.0,Segoe UI Emoji,2,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+gel,GEL,Westpac,@westpac/ui,1.21.0,Segoe UI Symbol,2,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+gel,GEL,Westpac,@westpac/ui,1.21.0,Noto Color Emoji,2,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+gel,GEL,Westpac,@westpac/ui,1.21.0,SFMono-Regular,2,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+gel,GEL,Westpac,@westpac/ui,1.21.0,Menlo,2,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+gel,GEL,Westpac,@westpac/ui,1.21.0,Monaco,2,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+gel,GEL,Westpac,@westpac/ui,1.21.0,Consolas,2,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+gel,GEL,Westpac,@westpac/ui,1.21.0,Liberation Mono,2,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+gel,GEL,Westpac,@westpac/ui,1.21.0,Courier New,2,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+ray,Ray,WeWork,@wework/ray-core,1.16.9,Apercu Mono,33,brand_or_custom,apercu-mono,matched_catalogue,,unknown_not_checked,unknown_not_checked,not_measured,not_measured,not_measured,not_measured
+ray,Ray,WeWork,@wework/ray-core,1.16.9,SFMono-Regular,33,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+ray,Ray,WeWork,@wework/ray-core,1.16.9,Menlo,33,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+ray,Ray,WeWork,@wework/ray-core,1.16.9,Monaco,33,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+ray,Ray,WeWork,@wework/ray-core,1.16.9,Consolas,33,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+ray,Ray,WeWork,@wework/ray-core,1.16.9,Liberation Mono,33,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+ray,Ray,WeWork,@wework/ray-core,1.16.9,Courier New,33,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+ray,Ray,WeWork,@wework/ray-core,1.16.9,Apercu,2,brand_or_custom,apercu,matched_catalogue,,unknown_not_checked,unknown_not_checked,not_measured,not_measured,not_measured,not_measured
+ray,Ray,WeWork,@wework/ray-core,1.16.9,Avenir,2,brand_or_custom,avenir,matched_catalogue,,proprietary_name_lookup,proprietary_name_lookup,not_measured,not_measured,not_measured,not_measured
+ray,Ray,WeWork,@wework/ray-core,1.16.9,Helvetica Neue,2,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+ray,Ray,WeWork,@wework/ray-core,1.16.9,Helvetica,2,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+ray,Ray,WeWork,@wework/ray-core,1.16.9,Calibri,2,brand_or_custom,calibri,matched_catalogue,,unknown_not_checked,unknown_not_checked,not_measured,not_measured,not_measured,not_measured
+ray,Ray,WeWork,@wework/ray-core,1.16.9,Roboto,2,brand_or_custom,roboto,matched_catalogue,,open,OFL-1.1,yes,yes,yes,no
+ray,Ray,WeWork,@wework/ray-core,1.16.9,Arial,2,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+workday-canvas,Workday Canvas,Workday,@workday/canvas-kit-react,16.2.21,CanvasFontFamilies['default,36,not_a_font_name,,os_or_browser_fallback,,,,,,,
+workday-canvas,Workday Canvas,Workday,@workday/canvas-kit-react,16.2.21,Sana Sans VF,6,brand_or_custom,sana-sans-vf,matched_catalogue,,unknown_not_checked,unknown_not_checked,not_measured,not_measured,not_measured,not_measured
+workday-canvas,Workday Canvas,Workday,@workday/canvas-kit-react,16.2.21,Helvetica Neue,3,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+workday-canvas,Workday Canvas,Workday,@workday/canvas-kit-react,16.2.21,Helvetica,3,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+workday-canvas,Workday Canvas,Workday,@workday/canvas-kit-react,16.2.21,Arial,3,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+workday-canvas,Workday Canvas,Workday,@workday/canvas-kit-react,16.2.21,IBM Plex Mono,3,brand_or_custom,ibm-plex-mono,matched_catalogue,,open,OFL-1.1,yes,yes,no,yes
+teamleader-ui,Teamleader UI,Teamleader,@teamleader/ui,25.0.4,Inter,13,brand_or_custom,inter,matched_catalogue,,open,OFL-1.1,yes,yes,yes,yes
+teamleader-ui,Teamleader UI,Teamleader,@teamleader/ui,25.0.4,trebuchet ms,3,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+teamleader-ui,Teamleader UI,Teamleader,@teamleader/ui,25.0.4,Verdana,3,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+teamleader-ui,Teamleader UI,Teamleader,@teamleader/ui,25.0.4,Arial,3,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+monday-vibe,Monday Vibe,monday.com,@vibe/core,4.5.39,Roboto,8,brand_or_custom,roboto,matched_catalogue,,open,OFL-1.1,yes,yes,yes,no
+monday-vibe,Monday Vibe,monday.com,@vibe/core,4.5.39,Noto Sans Hebrew,8,brand_or_custom,noto-sans-hebrew,matched_catalogue,,open,OFL-1.1,yes,no,no,no
+monday-vibe,Monday Vibe,monday.com,@vibe/core,4.5.39,Noto Kufi Arabic,8,brand_or_custom,noto-kufi-arabic,matched_catalogue,,open,OFL-1.1,yes,no,yes,no
+monday-vibe,Monday Vibe,monday.com,@vibe/core,4.5.39,Noto Sans JP,8,brand_or_custom,noto-sans-jp,matched_catalogue,,open,OFL-1.1,yes,no,no,no
+monday-vibe,Monday Vibe,monday.com,@vibe/core,4.5.39,Figtree,4,brand_or_custom,figtree,matched_catalogue,,open,OFL-1.1,yes,no,yes,no
+monday-vibe,Monday Vibe,monday.com,@vibe/core,4.5.39,Poppins,4,brand_or_custom,poppins,matched_catalogue,,open,OFL-1.1,no,no,no,no
+wikimedia-codex,Wikimedia Codex,Wikimedia,@wikimedia/codex,2.8.0,Linux Libertine,4,brand_or_custom,linux-libertine,matched_catalogue,,unknown_not_checked,unknown_not_checked,not_measured,not_measured,not_measured,not_measured
+wikimedia-codex,Wikimedia Codex,Wikimedia,@wikimedia/codex,2.8.0,Georgia,4,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+wikimedia-codex,Wikimedia Codex,Wikimedia,@wikimedia/codex,2.8.0,Times,4,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+wikimedia-codex,Wikimedia Codex,Wikimedia,@wikimedia/codex,2.8.0,Source Serif 4,4,brand_or_custom,source-serif-4,matched_catalogue,,open,OFL-1.1,yes,yes,yes,yes
+wikimedia-codex,Wikimedia Codex,Wikimedia,@wikimedia/codex,2.8.0,Segoe UI,3,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+wikimedia-codex,Wikimedia Codex,Wikimedia,@wikimedia/codex,2.8.0,Roboto,3,brand_or_custom,roboto,matched_catalogue,,open,OFL-1.1,yes,yes,yes,no
+wikimedia-codex,Wikimedia Codex,Wikimedia,@wikimedia/codex,2.8.0,Inter,3,brand_or_custom,inter,matched_catalogue,,open,OFL-1.1,yes,yes,yes,yes
+wikimedia-codex,Wikimedia Codex,Wikimedia,@wikimedia/codex,2.8.0,Helvetica,3,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+wikimedia-codex,Wikimedia Codex,Wikimedia,@wikimedia/codex,2.8.0,Arial,3,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+wikimedia-codex,Wikimedia Codex,Wikimedia,@wikimedia/codex,2.8.0,Menlo,1,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+wikimedia-codex,Wikimedia Codex,Wikimedia,@wikimedia/codex,2.8.0,Consolas,1,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+wikimedia-codex,Wikimedia Codex,Wikimedia,@wikimedia/codex,2.8.0,Liberation Mono,1,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+wikimedia-codex,Wikimedia Codex,Wikimedia,@wikimedia/codex,2.8.0,Fira Code,1,brand_or_custom,fira-code,matched_catalogue,,open,OFL-1.1,yes,yes,yes,yes
+wikimedia-codex,Wikimedia Codex,Wikimedia,@wikimedia/codex,2.8.0,Courier New,1,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+salesforce-lightning-design-system,Salesforce Lightning Design System,Salesforce,@salesforce-ux/design-system,2.264.3,Consolas,31,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+salesforce-lightning-design-system,Salesforce Lightning Design System,Salesforce,@salesforce-ux/design-system,2.264.3,Monaco,31,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+salesforce-lightning-design-system,Salesforce Lightning Design System,Salesforce,@salesforce-ux/design-system,2.264.3,Menlo,30,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+salesforce-lightning-design-system,Salesforce Lightning Design System,Salesforce,@salesforce-ux/design-system,2.264.3,Courier,30,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+salesforce-lightning-design-system,Salesforce Lightning Design System,Salesforce,@salesforce-ux/design-system,2.264.3,Segoe UI,25,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+salesforce-lightning-design-system,Salesforce Lightning Design System,Salesforce,@salesforce-ux/design-system,2.264.3,Roboto,25,brand_or_custom,roboto,matched_catalogue,,open,OFL-1.1,yes,yes,yes,no
+salesforce-lightning-design-system,Salesforce Lightning Design System,Salesforce,@salesforce-ux/design-system,2.264.3,Arial,23,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+salesforce-lightning-design-system,Salesforce Lightning Design System,Salesforce,@salesforce-ux/design-system,2.264.3,Apple Color Emoji,23,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+salesforce-lightning-design-system,Salesforce Lightning Design System,Salesforce,@salesforce-ux/design-system,2.264.3,Segoe UI Emoji,23,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+salesforce-lightning-design-system,Salesforce Lightning Design System,Salesforce,@salesforce-ux/design-system,2.264.3,Segoe UI Symbol,23,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+salesforce-lightning-design-system,Salesforce Lightning Design System,Salesforce,@salesforce-ux/design-system,2.264.3,Helvetica,14,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+salesforce-lightning-design-system,Salesforce Lightning Design System,Salesforce,@salesforce-ux/design-system,2.264.3,Helvetica Neue,9,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+salesforce-lightning-design-system,Salesforce Lightning Design System,Salesforce,@salesforce-ux/design-system,2.264.3,Andale Mono,1,brand_or_custom,andale-mono,matched_catalogue,,proprietary_name_lookup,proprietary_name_lookup,not_measured,not_measured,not_measured,not_measured
+salesforce-lightning-design-system,Salesforce Lightning Design System,Salesforce,@salesforce-ux/design-system,2.264.3,Ubuntu Mono,1,brand_or_custom,ubuntu-mono,matched_catalogue,,open,UFL-1.0,no,yes,no,no
+esri-calcite,Esri Calcite,Esri,@esri/calcite-components,5.2.1,Avenir Next,4,brand_or_custom,avenir-next,matched_catalogue,,proprietary_name_lookup,proprietary_name_lookup,not_measured,not_measured,not_measured,not_measured
+esri-calcite,Esri Calcite,Esri,@esri/calcite-components,5.2.1,Avenir,4,brand_or_custom,avenir,matched_catalogue,,proprietary_name_lookup,proprietary_name_lookup,not_measured,not_measured,not_measured,not_measured
+esri-calcite,Esri Calcite,Esri,@esri/calcite-components,5.2.1,Helvetica Neue,4,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+esri-calcite,Esri Calcite,Esri,@esri/calcite-components,5.2.1,Monaco,2,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+esri-calcite,Esri Calcite,Esri,@esri/calcite-components,5.2.1,Consolas,2,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+esri-calcite,Esri Calcite,Esri,@esri/calcite-components,5.2.1,Andale Mono,2,brand_or_custom,andale-mono,matched_catalogue,,proprietary_name_lookup,proprietary_name_lookup,not_measured,not_measured,not_measured,not_measured
+esri-calcite,Esri Calcite,Esri,@esri/calcite-components,5.2.1,Lucida Console,2,brand_or_custom,lucida-console,matched_catalogue,,proprietary_name_lookup,proprietary_name_lookup,not_measured,not_measured,not_measured,not_measured
+rei-cedar,REI Cedar,REI,@rei/cedar,17.1.0,Graphik,357,brand_or_custom,graphik,matched_catalogue,,unknown_not_checked,unknown_not_checked,not_measured,not_measured,not_measured,not_measured
+rei-cedar,REI Cedar,REI,@rei/cedar,17.1.0,Graphik fallback,106,brand_or_custom,graphik-fallback,matched_catalogue,,unknown_not_checked,unknown_not_checked,not_measured,not_measured,not_measured,not_measured
+rei-cedar,REI Cedar,REI,@rei/cedar,17.1.0,Helvetica Neue,103,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+rei-cedar,REI Cedar,REI,@rei/cedar,17.1.0,Stuart,26,brand_or_custom,stuart,matched_catalogue,,unknown_not_checked,unknown_not_checked,not_measured,not_measured,not_measured,not_measured
+rei-cedar,REI Cedar,REI,@rei/cedar,17.1.0,Georgia,20,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+rei-cedar,REI Cedar,REI,@rei/cedar,17.1.0,Pressura,6,brand_or_custom,pressura,matched_catalogue,,unknown_not_checked,unknown_not_checked,not_measured,not_measured,not_measured,not_measured
+rei-cedar,REI Cedar,REI,@rei/cedar,17.1.0,Stuart fallback,5,brand_or_custom,stuart-fallback,matched_catalogue,,unknown_not_checked,unknown_not_checked,not_measured,not_measured,not_measured,not_measured
+ontario-design-system,Ontario Design System,Government of Ontario,@ongov/ontario-design-system-component-library,9.2.2,Helvetica,734,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+ontario-design-system,Ontario Design System,Government of Ontario,@ongov/ontario-design-system-component-library,9.2.2,Arial,734,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+ontario-design-system,Ontario Design System,Government of Ontario,@ongov/ontario-design-system-component-library,9.2.2,Open Sans,564,brand_or_custom,open-sans,matched_catalogue,,open,OFL-1.1,yes,yes,yes,yes
+ontario-design-system,Ontario Design System,Government of Ontario,@ongov/ontario-design-system-component-library,9.2.2,Helvetica Neue,492,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+ontario-design-system,Ontario Design System,Government of Ontario,@ongov/ontario-design-system-component-library,9.2.2,Raleway Modified,284,brand_or_custom,raleway-modified,matched_catalogue,,unknown_not_checked,unknown_not_checked,not_measured,not_measured,not_measured,not_measured
+ontario-design-system,Ontario Design System,Government of Ontario,@ongov/ontario-design-system-component-library,9.2.2,Courier Prime,32,brand_or_custom,courier-prime,matched_catalogue,,open,OFL-1.1,no,no,no,no
+ontario-design-system,Ontario Design System,Government of Ontario,@ongov/ontario-design-system-component-library,9.2.2,Courier,12,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+ontario-design-system,Ontario Design System,Government of Ontario,@ongov/ontario-design-system-component-library,9.2.2,Courier New,8,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+jetbrains-ring-ui,JetBrains Ring UI,JetBrains,@jetbrains/ring-ui,7.0.133,Arial,4,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+jetbrains-ring-ui,JetBrains Ring UI,JetBrains,@jetbrains/ring-ui,7.0.133,Helvetica Neue,2,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+jetbrains-ring-ui,JetBrains Ring UI,JetBrains,@jetbrains/ring-ui,7.0.133,Segoe UI,1,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+jetbrains-ring-ui,JetBrains Ring UI,JetBrains,@jetbrains/ring-ui,7.0.133,Helvetica,1,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+jetbrains-ring-ui,JetBrains Ring UI,JetBrains,@jetbrains/ring-ui,7.0.133,Ubuntu,1,brand_or_custom,ubuntu,matched_catalogue,,open,UFL-1.0,no,yes,yes,no
+jetbrains-ring-ui,JetBrains Ring UI,JetBrains,@jetbrains/ring-ui,7.0.133,Menlo,1,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+jetbrains-ring-ui,JetBrains Ring UI,JetBrains,@jetbrains/ring-ui,7.0.133,Bitstream Vera Sans Mono,1,brand_or_custom,bitstream-vera-sans-mono,matched_catalogue,,unknown_not_checked,unknown_not_checked,not_measured,not_measured,not_measured,not_measured
+jetbrains-ring-ui,JetBrains Ring UI,JetBrains,@jetbrains/ring-ui,7.0.133,Ubuntu Mono,1,brand_or_custom,ubuntu-mono,matched_catalogue,,open,UFL-1.0,no,yes,no,no
+jetbrains-ring-ui,JetBrains Ring UI,JetBrains,@jetbrains/ring-ui,7.0.133,Consolas,1,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+jetbrains-ring-ui,JetBrains Ring UI,JetBrains,@jetbrains/ring-ui,7.0.133,Courier New,1,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+jetbrains-ring-ui,JetBrains Ring UI,JetBrains,@jetbrains/ring-ui,7.0.133,Courier,1,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+jetbrains-ring-ui,JetBrains Ring UI,JetBrains,@jetbrains/ring-ui,7.0.133,lining-nums tabular-nums slashed-zero,1,not_a_font_name,,os_or_browser_fallback,,,,,,,
+clarity-vmware,Clarity (VMware),VMware,@clr/ui,18.5.1,Avenir Next,33,brand_or_custom,avenir-next,matched_catalogue,,proprietary_name_lookup,proprietary_name_lookup,not_measured,not_measured,not_measured,not_measured
+clarity-vmware,Clarity (VMware),VMware,@clr/ui,18.5.1,Metropolis,30,brand_or_custom,metropolis,matched_catalogue,,unknown_not_checked,unknown_not_checked,not_measured,not_measured,not_measured,not_measured
+clarity-vmware,Clarity (VMware),VMware,@clr/ui,18.5.1,Clarity City,15,brand_or_custom,clarity-city,matched_catalogue,,open,OFL-1.1,yes,no,no,no
+clarity-vmware,Clarity (VMware),VMware,@clr/ui,18.5.1,Helvetica Neue,6,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+clarity-vmware,Clarity (VMware),VMware,@clr/ui,18.5.1,Arial,6,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+clarity-vmware,Clarity (VMware),VMware,@clr/ui,18.5.1,Consolas,6,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+clarity-vmware,Clarity (VMware),VMware,@clr/ui,18.5.1,Menlo,6,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+clarity-vmware,Clarity (VMware),VMware,@clr/ui,18.5.1,Monaco,6,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+clarity-vmware,Clarity (VMware),VMware,@clr/ui,18.5.1,calc(10 * var(--cds-internal-scale-3,3,not_a_font_name,,os_or_browser_fallback,,,,,,,
+clarity-vmware,Clarity (VMware),VMware,@clr/ui,18.5.1,calc(11 * var(--cds-internal-scale-3,3,not_a_font_name,,os_or_browser_fallback,,,,,,,
+clarity-vmware,Clarity (VMware),VMware,@clr/ui,18.5.1,calc(12 * var(--cds-internal-scale-3,3,not_a_font_name,,os_or_browser_fallback,,,,,,,
+clarity-vmware,Clarity (VMware),VMware,@clr/ui,18.5.1,calc(13 * var(--cds-internal-scale-3,3,not_a_font_name,,os_or_browser_fallback,,,,,,,
+clarity-vmware,Clarity (VMware),VMware,@clr/ui,18.5.1,calc(14 * var(--cds-internal-scale-3,3,not_a_font_name,,os_or_browser_fallback,,,,,,,
+clarity-vmware,Clarity (VMware),VMware,@clr/ui,18.5.1,calc(16 * var(--cds-internal-scale-3,3,not_a_font_name,,os_or_browser_fallback,,,,,,,
+clarity-vmware,Clarity (VMware),VMware,@clr/ui,18.5.1,calc(20 * var(--cds-internal-scale-3,3,not_a_font_name,,os_or_browser_fallback,,,,,,,
+clarity-vmware,Clarity (VMware),VMware,@clr/ui,18.5.1,calc(24 * var(--cds-internal-scale-3,3,not_a_font_name,,os_or_browser_fallback,,,,,,,
+clarity-vmware,Clarity (VMware),VMware,@clr/ui,18.5.1,calc(32 * var(--cds-internal-scale-3,3,not_a_font_name,,os_or_browser_fallback,,,,,,,
+clarity-vmware,Clarity (VMware),VMware,@clr/ui,18.5.1,calc(40 * var(--cds-internal-scale-3,3,not_a_font_name,,os_or_browser_fallback,,,,,,,
+arbetsformedlingen-digi-designsystem-se-af,Arbetsförmedlingen Digi (@designsystem-se/af),Arbetsförmedlingen,@designsystem-se/af,41.0.0,Open Sans,32,brand_or_custom,open-sans,matched_catalogue,,open,OFL-1.1,yes,yes,yes,yes
+arbetsformedlingen-digi-designsystem-se-af,Arbetsförmedlingen Digi (@designsystem-se/af),Arbetsförmedlingen,@designsystem-se/af,41.0.0,Open sans,32,brand_or_custom,open-sans,matched_catalogue,,open,OFL-1.1,yes,yes,yes,yes
+arbetsformedlingen-digi-designsystem-se-af,Arbetsförmedlingen Digi (@designsystem-se/af),Arbetsförmedlingen,@designsystem-se/af,41.0.0,Arial,27,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+arbetsformedlingen-digi-designsystem-se-af,Arbetsförmedlingen Digi (@designsystem-se/af),Arbetsförmedlingen,@designsystem-se/af,41.0.0,Consolas,27,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+arbetsformedlingen-digi-designsystem-se-af,Arbetsförmedlingen Digi (@designsystem-se/af),Arbetsförmedlingen,@designsystem-se/af,41.0.0,Monaco,27,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+arbetsformedlingen-digi-designsystem-se-af,Arbetsförmedlingen Digi (@designsystem-se/af),Arbetsförmedlingen,@designsystem-se/af,41.0.0,Andale Mono,27,brand_or_custom,andale-mono,matched_catalogue,,proprietary_name_lookup,proprietary_name_lookup,not_measured,not_measured,not_measured,not_measured
+arbetsformedlingen-digi-designsystem-se-af,Arbetsförmedlingen Digi (@designsystem-se/af),Arbetsförmedlingen,@designsystem-se/af,41.0.0,Ubuntu Mono,27,brand_or_custom,ubuntu-mono,matched_catalogue,,open,UFL-1.0,no,yes,no,no
+hedwig-design-system,Hedwig Design System,Bring (Posten),@postenbring/hedwig-css,4.6.1,Posten Sans,12,brand_or_custom,posten-sans,matched_catalogue,,unknown_not_checked,unknown_not_checked,not_measured,not_measured,not_measured,not_measured
+hedwig-design-system,Hedwig Design System,Bring (Posten),@postenbring/hedwig-css,4.6.1,Arial,12,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+hedwig-design-system,Hedwig Design System,Bring (Posten),@postenbring/hedwig-css,4.6.1,Posten Sans Regular,6,brand_or_custom,posten-sans-regular,matched_catalogue,,unknown_not_checked,unknown_not_checked,not_measured,not_measured,not_measured,not_measured
+hedwig-design-system,Hedwig Design System,Bring (Posten),@postenbring/hedwig-css,4.6.1,Posten Sans Medium,6,brand_or_custom,posten-sans-medium,matched_catalogue,,unknown_not_checked,unknown_not_checked,not_measured,not_measured,not_measured,not_measured
+hedwig-design-system,Hedwig Design System,Bring (Posten),@postenbring/hedwig-css,4.6.1,Posten Sans Bold,6,brand_or_custom,posten-sans-bold,matched_catalogue,,unknown_not_checked,unknown_not_checked,not_measured,not_measured,not_measured,not_measured
+power-home-remodeling-playbook,Playbook,Power Home Remodeling,playbook-ui,18.3.0,Power Centra,1,brand_or_custom,power-centra,matched_catalogue,,unknown_not_checked,unknown_not_checked,not_measured,not_measured,not_measured,not_measured
+power-home-remodeling-playbook,Playbook,Power Home Remodeling,playbook-ui,18.3.0,Helvetica Neue,1,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+power-home-remodeling-playbook,Playbook,Power Home Remodeling,playbook-ui,18.3.0,Helvetica,1,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+power-home-remodeling-playbook,Playbook,Power Home Remodeling,playbook-ui,18.3.0,Arial,1,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+altinn-components,Altinn Components,Altinn,@altinn/altinn-components,0.79.2,Inter,5,brand_or_custom,inter,matched_catalogue,,open,OFL-1.1,yes,yes,yes,yes
+altinn-components,Altinn Components,Altinn,@altinn/altinn-components,0.79.2,calc(1rem * var(--_ds-font-size-factor,1,not_a_font_name,,os_or_browser_fallback,,,,,,,
+altinn-components,Altinn Components,Altinn,@altinn/altinn-components,0.79.2,calc(3rem * var(--_ds-font-size-factor,1,not_a_font_name,,os_or_browser_fallback,,,,,,,
+altinn-components,Altinn Components,Altinn,@altinn/altinn-components,0.79.2,round(calc(1rem * var(--_ds-font-size-factor,1,not_a_font_name,,os_or_browser_fallback,,,,,,,
+altinn-components,Altinn Components,Altinn,@altinn/altinn-components,0.79.2,round(calc(3rem * var(--_ds-font-size-factor,1,not_a_font_name,,os_or_browser_fallback,,,,,,,
+brainly-style-guide-2,Brainly Style Guide,Brainly,brainly-style-guide,229.0.0,Figtree,9,brand_or_custom,figtree,matched_catalogue,,open,OFL-1.1,yes,no,yes,no
+brainly-style-guide-2,Brainly Style Guide,Brainly,brainly-style-guide,229.0.0,Helvetica,6,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+brainly-style-guide-2,Brainly Style Guide,Brainly,brainly-style-guide,229.0.0,Arial,6,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+pluralsight-design-system-ps-design-system-core,Pluralsight Design System (ps-design-system-core),Pluralsight,@pluralsight/ps-design-system-core,10.0.4,PS TT Commons Roman,8,brand_or_custom,ps-tt-commons-roman,matched_catalogue,,unknown_not_checked,unknown_not_checked,not_measured,not_measured,not_measured,not_measured
+pluralsight-design-system-ps-design-system-core,Pluralsight Design System (ps-design-system-core),Pluralsight,@pluralsight/ps-design-system-core,10.0.4,Gotham SSm A,5,brand_or_custom,gotham-ssm-a,matched_catalogue,,unknown_not_checked,unknown_not_checked,not_measured,not_measured,not_measured,not_measured
+pluralsight-design-system-ps-design-system-core,Pluralsight Design System (ps-design-system-core),Pluralsight,@pluralsight/ps-design-system-core,10.0.4,Gotham SSm B,5,brand_or_custom,gotham-ssm-b,matched_catalogue,,unknown_not_checked,unknown_not_checked,not_measured,not_measured,not_measured,not_measured
+pluralsight-design-system-ps-design-system-core,Pluralsight Design System (ps-design-system-core),Pluralsight,@pluralsight/ps-design-system-core,10.0.4,Arial,5,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+pluralsight-design-system-ps-design-system-core,Pluralsight Design System (ps-design-system-core),Pluralsight,@pluralsight/ps-design-system-core,10.0.4,DM Mono,2,brand_or_custom,dm-mono,matched_catalogue,,open,OFL-1.1,no,no,no,no
+pluralsight-design-system-ps-design-system-core,Pluralsight Design System (ps-design-system-core),Pluralsight,@pluralsight/ps-design-system-core,10.0.4,Source Code Pro,2,brand_or_custom,source-code-pro,matched_catalogue,,open,OFL-1.1,no,yes,no,yes
+portinari-ui-portinari-style,Portinari UI (@portinari/style),TOTVS,@portinari/style,1.28.0,Roboto,89,brand_or_custom,roboto,matched_catalogue,,open,OFL-1.1,yes,yes,yes,no
+portinari-ui-portinari-style,Portinari UI (@portinari/style),TOTVS,@portinari/style,1.28.0,Roboto-Bold,67,brand_or_custom,roboto,matched_catalogue,Roboto,open,OFL-1.1,yes,yes,yes,no
+portinari-ui-portinari-style,Portinari UI (@portinari/style),TOTVS,@portinari/style,1.28.0,PortinariIcon,14,not_a_font_name,,os_or_browser_fallback,,,,,,,
+portinari-ui-portinari-style,Portinari UI (@portinari/style),TOTVS,@portinari/style,1.28.0,Roboto-Condensed-Light,10,brand_or_custom,roboto-condensed,matched_catalogue,Roboto Condensed,open,OFL-1.1,yes,yes,yes,no
+eos-design-system-eos-ds,EOS Design System (eos-ds),SUSE,eos-ds,5.0.0,Segoe UI,10,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+eos-design-system-eos-ds,EOS Design System (eos-ds),SUSE,eos-ds,5.0.0,Roboto,10,brand_or_custom,roboto,matched_catalogue,,open,OFL-1.1,yes,yes,yes,no
+eos-design-system-eos-ds,EOS Design System (eos-ds),SUSE,eos-ds,5.0.0,Helvetica Neue,10,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+eos-design-system-eos-ds,EOS Design System (eos-ds),SUSE,eos-ds,5.0.0,Arial,10,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+eos-design-system-eos-ds,EOS Design System (eos-ds),SUSE,eos-ds,5.0.0,Noto Sans,10,brand_or_custom,noto-sans,matched_catalogue,,open,OFL-1.1,yes,yes,yes,yes
+eos-design-system-eos-ds,EOS Design System (eos-ds),SUSE,eos-ds,5.0.0,Liberation Sans,10,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+eos-design-system-eos-ds,EOS Design System (eos-ds),SUSE,eos-ds,5.0.0,Apple Color Emoji,10,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+eos-design-system-eos-ds,EOS Design System (eos-ds),SUSE,eos-ds,5.0.0,Segoe UI Emoji,10,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+eos-design-system-eos-ds,EOS Design System (eos-ds),SUSE,eos-ds,5.0.0,Segoe UI Symbol,10,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+eos-design-system-eos-ds,EOS Design System (eos-ds),SUSE,eos-ds,5.0.0,Noto Color Emoji,10,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+eos-design-system-eos-ds,EOS Design System (eos-ds),SUSE,eos-ds,5.0.0,SFMono-Regular,8,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+eos-design-system-eos-ds,EOS Design System (eos-ds),SUSE,eos-ds,5.0.0,Menlo,8,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+eos-design-system-eos-ds,EOS Design System (eos-ds),SUSE,eos-ds,5.0.0,Monaco,8,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+eos-design-system-eos-ds,EOS Design System (eos-ds),SUSE,eos-ds,5.0.0,Consolas,8,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+eos-design-system-eos-ds,EOS Design System (eos-ds),SUSE,eos-ds,5.0.0,Liberation Mono,8,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+eos-design-system-eos-ds,EOS Design System (eos-ds),SUSE,eos-ds,5.0.0,Courier New,8,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+eos-design-system-eos-ds,EOS Design System (eos-ds),SUSE,eos-ds,5.0.0,Roboto Mono,2,brand_or_custom,roboto-mono,matched_catalogue,,open,OFL-1.1,yes,yes,no,no
+eos-design-system-eos-ds,EOS Design System (eos-ds),SUSE,eos-ds,5.0.0,Poppins,1,brand_or_custom,poppins,matched_catalogue,,open,OFL-1.1,no,no,no,no
+eos-design-system-eos-ds,EOS Design System (eos-ds),SUSE,eos-ds,5.0.0,Lato,1,brand_or_custom,lato,matched_catalogue,,open,OFL-1.1,no,yes,yes,no
+audi-ui-2,Audi UI,Audi,@audi/audi-ui,1.0.0-alpha.2,Verdana,12,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+audi-ui-2,Audi UI,Audi,@audi/audi-ui,1.0.0-alpha.2,Geneva,12,brand_or_custom,geneva,matched_catalogue,,proprietary_name_lookup,proprietary_name_lookup,not_measured,not_measured,not_measured,not_measured
+audi-ui-2,Audi UI,Audi,@audi/audi-ui,1.0.0-alpha.2,AudiTypeExtended,8,not_a_font_name,,os_or_browser_fallback,,,,,,,
+audi-ui-2,Audi UI,Audi,@audi/audi-ui,1.0.0-alpha.2,AudiTypeScreen,4,not_a_font_name,,os_or_browser_fallback,,,,,,,
+audi-ui-2,Audi UI,Audi,@audi/audi-ui,1.0.0-alpha.2,Segoe UI,1,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+audi-ui-2,Audi UI,Audi,@audi/audi-ui,1.0.0-alpha.2,Roboto,1,brand_or_custom,roboto,matched_catalogue,,open,OFL-1.1,yes,yes,yes,no
+audi-ui-2,Audi UI,Audi,@audi/audi-ui,1.0.0-alpha.2,Oxygen,1,brand_or_custom,oxygen,matched_catalogue,,open,OFL-1.1,no,no,no,no
+audi-ui-2,Audi UI,Audi,@audi/audi-ui,1.0.0-alpha.2,Ubuntu,1,brand_or_custom,ubuntu,matched_catalogue,,open,UFL-1.0,no,yes,yes,no
+audi-ui-2,Audi UI,Audi,@audi/audi-ui,1.0.0-alpha.2,Cantarell,1,brand_or_custom,cantarell,matched_catalogue,,open,OFL-1.1,no,no,no,no
+audi-ui-2,Audi UI,Audi,@audi/audi-ui,1.0.0-alpha.2,Fira Sans,1,brand_or_custom,fira-sans,matched_catalogue,,open,OFL-1.1,no,yes,yes,yes
+audi-ui-2,Audi UI,Audi,@audi/audi-ui,1.0.0-alpha.2,Droid Sans,1,brand_or_custom,droid-sans,matched_catalogue,,unknown_not_checked,unknown_not_checked,not_measured,not_measured,not_measured,not_measured
+audi-ui-2,Audi UI,Audi,@audi/audi-ui,1.0.0-alpha.2,Helvetica Neue,1,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+alfa-feather-arui-feather,Alfa Feather (arui-feather),Alfa-Bank,arui-feather,19.2.2,Roboto Rouble,36,brand_or_custom,roboto,matched_catalogue,Roboto,open,OFL-1.1,yes,yes,yes,no
+alfa-feather-arui-feather,Alfa Feather (arui-feather),Alfa-Bank,arui-feather,19.2.2,Segoe UI,28,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+alfa-feather-arui-feather,Alfa Feather (arui-feather),Alfa-Bank,arui-feather,19.2.2,Roboto,28,brand_or_custom,roboto,matched_catalogue,,open,OFL-1.1,yes,yes,yes,no
+alfa-feather-arui-feather,Alfa Feather (arui-feather),Alfa-Bank,arui-feather,19.2.2,Oxygen,28,brand_or_custom,oxygen,matched_catalogue,,open,OFL-1.1,no,no,no,no
+alfa-feather-arui-feather,Alfa Feather (arui-feather),Alfa-Bank,arui-feather,19.2.2,Ubuntu,28,brand_or_custom,ubuntu,matched_catalogue,,open,UFL-1.0,no,yes,yes,no
+alfa-feather-arui-feather,Alfa Feather (arui-feather),Alfa-Bank,arui-feather,19.2.2,Cantarell,28,brand_or_custom,cantarell,matched_catalogue,,open,OFL-1.1,no,no,no,no
+alfa-feather-arui-feather,Alfa Feather (arui-feather),Alfa-Bank,arui-feather,19.2.2,Open Sans,28,brand_or_custom,open-sans,matched_catalogue,,open,OFL-1.1,yes,yes,yes,yes
+alfa-feather-arui-feather,Alfa Feather (arui-feather),Alfa-Bank,arui-feather,19.2.2,Helvetica Neue,28,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+foundation-design-system,Foundation Design System,Envato,@envato-foundation/foundation-design-system,2.0.9,Helvetica Neue,9,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+foundation-design-system,Foundation Design System,Envato,@envato-foundation/foundation-design-system,2.0.9,Helvetica,9,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+foundation-design-system,Foundation Design System,Envato,@envato-foundation/foundation-design-system,2.0.9,Arial,9,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+foundation-design-system,Foundation Design System,Envato,@envato-foundation/foundation-design-system,2.0.9,Source Code Pro,2,brand_or_custom,source-code-pro,matched_catalogue,,open,OFL-1.1,no,yes,no,yes
+foundation-design-system,Foundation Design System,Envato,@envato-foundation/foundation-design-system,2.0.9,Consolas,2,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+foundation-design-system,Foundation Design System,Envato,@envato-foundation/foundation-design-system,2.0.9,Andale Mono WT,2,brand_or_custom,andale-mono-wt,matched_catalogue,,unknown_not_checked,unknown_not_checked,not_measured,not_measured,not_measured,not_measured
+foundation-design-system,Foundation Design System,Envato,@envato-foundation/foundation-design-system,2.0.9,Andale Mono,2,brand_or_custom,andale-mono,matched_catalogue,,proprietary_name_lookup,proprietary_name_lookup,not_measured,not_measured,not_measured,not_measured
+foundation-design-system,Foundation Design System,Envato,@envato-foundation/foundation-design-system,2.0.9,Lucida Console,2,brand_or_custom,lucida-console,matched_catalogue,,proprietary_name_lookup,proprietary_name_lookup,not_measured,not_measured,not_measured,not_measured
+foundation-design-system,Foundation Design System,Envato,@envato-foundation/foundation-design-system,2.0.9,Lucida Sans Typewriter,2,brand_or_custom,lucida-sans-typewriter,matched_catalogue,,unknown_not_checked,unknown_not_checked,not_measured,not_measured,not_measured,not_measured
+foundation-design-system,Foundation Design System,Envato,@envato-foundation/foundation-design-system,2.0.9,DejaVu Sans Mono,2,not_a_font_name,,os_or_browser_fallback,,,,,,,
+foundation-design-system,Foundation Design System,Envato,@envato-foundation/foundation-design-system,2.0.9,Bitstream Vera Sans Mono,2,brand_or_custom,bitstream-vera-sans-mono,matched_catalogue,,unknown_not_checked,unknown_not_checked,not_measured,not_measured,not_measured,not_measured
+foundation-design-system,Foundation Design System,Envato,@envato-foundation/foundation-design-system,2.0.9,Liberation Mono,2,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+foundation-design-system,Foundation Design System,Envato,@envato-foundation/foundation-design-system,2.0.9,Nimbus Mono L,2,brand_or_custom,nimbus-mono-l,matched_catalogue,,unknown_not_checked,unknown_not_checked,not_measured,not_measured,not_measured,not_measured
+foundation-design-system,Foundation Design System,Envato,@envato-foundation/foundation-design-system,2.0.9,Monaco,2,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+foundation-design-system,Foundation Design System,Envato,@envato-foundation/foundation-design-system,2.0.9,Courier New,2,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+foundation-design-system,Foundation Design System,Envato,@envato-foundation/foundation-design-system,2.0.9,Courier,2,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+systeme-de-design-de-l-etat-dsfr,Système de Design de l'État (DSFR),France – État,@gouvfr/dsfr,1.15.4,Marianne,135,brand_or_custom,marianne,matched_catalogue,,unknown_not_checked,unknown_not_checked,not_measured,not_measured,not_measured,not_measured
+systeme-de-design-de-l-etat-dsfr,Système de Design de l'État (DSFR),France – État,@gouvfr/dsfr,1.15.4,Spectral,36,brand_or_custom,spectral,matched_catalogue,,open,OFL-1.1,no,yes,yes,yes
+systeme-de-design-de-l-etat-dsfr,Système de Design de l'État (DSFR),France – État,@gouvfr/dsfr,1.15.4,Marianne-connect,3,brand_or_custom,marianne-connect,matched_catalogue,,unknown_not_checked,unknown_not_checked,not_measured,not_measured,not_measured,not_measured
+poncho,Poncho,Argentina – Gobierno Nacional,ar-poncho,2.1.85,Roboto,27,brand_or_custom,roboto,matched_catalogue,,open,OFL-1.1,yes,yes,yes,no
+poncho,Poncho,Argentina – Gobierno Nacional,ar-poncho,2.1.85,Montserrat,18,brand_or_custom,montserrat,matched_catalogue,,open,OFL-1.1,yes,yes,yes,no
+poncho,Poncho,Argentina – Gobierno Nacional,ar-poncho,2.1.85,Encode Sans,8,brand_or_custom,encode-sans,matched_catalogue,,open,OFL-1.1,yes,no,yes,no
+poncho,Poncho,Argentina – Gobierno Nacional,ar-poncho,2.1.85,Arial,4,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+poncho,Poncho,Argentina – Gobierno Nacional,ar-poncho,2.1.85,Lora,4,brand_or_custom,lora,matched_catalogue,,open,OFL-1.1,yes,yes,yes,no
+poncho,Poncho,Argentina – Gobierno Nacional,ar-poncho,2.1.85,FontAwesome,4,not_a_font_name,,os_or_browser_fallback,,,,,,,
+poncho,Poncho,Argentina – Gobierno Nacional,ar-poncho,2.1.85,Droid Serif,3,brand_or_custom,droid-serif,matched_catalogue,,unknown_not_checked,unknown_not_checked,not_measured,not_measured,not_measured,not_measured
+poncho,Poncho,Argentina – Gobierno Nacional,ar-poncho,2.1.85,Helvetica Neue,3,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+poncho,Poncho,Argentina – Gobierno Nacional,ar-poncho,2.1.85,Helvetica,3,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+poncho,Poncho,Argentina – Gobierno Nacional,ar-poncho,2.1.85,Courier New,2,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+poncho,Poncho,Argentina – Gobierno Nacional,ar-poncho,2.1.85,Courier,2,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+poncho,Poncho,Argentina – Gobierno Nacional,ar-poncho,2.1.85,Roboto-Thin,2,brand_or_custom,roboto,matched_catalogue,Roboto,open,OFL-1.1,yes,yes,yes,no
+poncho,Poncho,Argentina – Gobierno Nacional,ar-poncho,2.1.85,Roboto-ThinItalic,2,not_a_font_name,,os_or_browser_fallback,,,,,,,
+poncho,Poncho,Argentina – Gobierno Nacional,ar-poncho,2.1.85,Roboto-Light,2,brand_or_custom,roboto,matched_catalogue,Roboto,open,OFL-1.1,yes,yes,yes,no
+poncho,Poncho,Argentina – Gobierno Nacional,ar-poncho,2.1.85,Roboto-LightItalic,2,not_a_font_name,,os_or_browser_fallback,,,,,,,
+poncho,Poncho,Argentina – Gobierno Nacional,ar-poncho,2.1.85,Roboto-Regular,2,brand_or_custom,roboto,matched_catalogue,Roboto,open,OFL-1.1,yes,yes,yes,no
+poncho,Poncho,Argentina – Gobierno Nacional,ar-poncho,2.1.85,Roboto-RegularItalic,2,not_a_font_name,,os_or_browser_fallback,,,,,,,
+poncho,Poncho,Argentina – Gobierno Nacional,ar-poncho,2.1.85,Roboto-Medium,2,brand_or_custom,roboto,matched_catalogue,Roboto,open,OFL-1.1,yes,yes,yes,no
+poncho,Poncho,Argentina – Gobierno Nacional,ar-poncho,2.1.85,Roboto-MediumItalic,2,not_a_font_name,,os_or_browser_fallback,,,,,,,
+poncho,Poncho,Argentina – Gobierno Nacional,ar-poncho,2.1.85,Roboto-Bold,2,brand_or_custom,roboto,matched_catalogue,Roboto,open,OFL-1.1,yes,yes,yes,no
+poncho,Poncho,Argentina – Gobierno Nacional,ar-poncho,2.1.85,Roboto-BoldItalic,2,not_a_font_name,,os_or_browser_fallback,,,,,,,
+poncho,Poncho,Argentina – Gobierno Nacional,ar-poncho,2.1.85,Roboto-Black,2,brand_or_custom,roboto,matched_catalogue,Roboto,open,OFL-1.1,yes,yes,yes,no
+poncho,Poncho,Argentina – Gobierno Nacional,ar-poncho,2.1.85,Roboto-BlackItalic,2,not_a_font_name,,os_or_browser_fallback,,,,,,,
+poncho,Poncho,Argentina – Gobierno Nacional,ar-poncho,2.1.85,Glyphicons Halflings,1,brand_or_custom,glyphicons-halflings,matched_catalogue,,unknown_not_checked,unknown_not_checked,not_measured,not_measured,not_measured,not_measured
+agora-design-system,Ágora Design System,Portugal – AMA / gov.pt,@ama-pt/agora-design-system,4.0.4,Noto Sans,9,brand_or_custom,noto-sans,matched_catalogue,,open,OFL-1.1,yes,yes,yes,yes
+gov-gr-design-system,GOV.GR Design System,Greece – gov.gr,@digigov/css,2.7.0,Roboto,15,brand_or_custom,roboto,matched_catalogue,,open,OFL-1.1,yes,yes,yes,no
+gov-gr-design-system,GOV.GR Design System,Greece – gov.gr,@digigov/css,2.7.0,Apple Color Emoji,15,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+gov-gr-design-system,GOV.GR Design System,Greece – gov.gr,@digigov/css,2.7.0,Segoe UI Emoji,15,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+gov-gr-design-system,GOV.GR Design System,Greece – gov.gr,@digigov/css,2.7.0,Segoe UI Symbol,15,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+gov-gr-design-system,GOV.GR Design System,Greece – gov.gr,@digigov/css,2.7.0,Noto Color Emoji,15,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+gov-gr-design-system,GOV.GR Design System,Greece – gov.gr,@digigov/css,2.7.0,SFMono-Regular,3,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+gov-gr-design-system,GOV.GR Design System,Greece – gov.gr,@digigov/css,2.7.0,Menlo,3,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+gov-gr-design-system,GOV.GR Design System,Greece – gov.gr,@digigov/css,2.7.0,Monaco,3,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+gov-gr-design-system,GOV.GR Design System,Greece – gov.gr,@digigov/css,2.7.0,Consolas,3,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+gov-gr-design-system,GOV.GR Design System,Greece – gov.gr,@digigov/css,2.7.0,Liberation Mono,3,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+gov-gr-design-system,GOV.GR Design System,Greece – gov.gr,@digigov/css,2.7.0,Courier New,3,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+scottish-government-design-system,Scottish Government Design System,Scotland – Scottish Government,@scottish-government/design-system,4.3.0,Roboto,3,brand_or_custom,roboto,matched_catalogue,,open,OFL-1.1,yes,yes,yes,no
+scottish-government-design-system,Scottish Government Design System,Scotland – Scottish Government,@scottish-government/design-system,4.3.0,Helvetica Neue,3,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+scottish-government-design-system,Scottish Government Design System,Scotland – Scottish Government,@scottish-government/design-system,4.3.0,Helvetica,3,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+scottish-government-design-system,Scottish Government Design System,Scotland – Scottish Government,@scottish-government/design-system,4.3.0,Arial,3,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+undp-design-system,UNDP Design System,United Nations – UNDP,@undp/design-system,2.0.4,ProximaNova,76,not_a_font_name,,os_or_browser_fallback,,,,,,,
+undp-design-system,UNDP Design System,United Nations – UNDP,@undp/design-system,2.0.4,UNBangla,27,brand_or_custom,unbangla,matched_catalogue,,unknown_not_checked,unknown_not_checked,not_measured,not_measured,not_measured,not_measured
+undp-design-system,UNDP Design System,United Nations – UNDP,@undp/design-system,2.0.4,SohneBreit,22,not_a_font_name,,os_or_browser_fallback,,,,,,,
+undp-design-system,UNDP Design System,United Nations – UNDP,@undp/design-system,2.0.4,Noto Sans Thai,3,brand_or_custom,noto-sans-thai,matched_catalogue,,open,OFL-1.1,yes,no,no,no
+undp-design-system,UNDP Design System,United Nations – UNDP,@undp/design-system,2.0.4,Noto Sans,3,brand_or_custom,noto-sans,matched_catalogue,,open,OFL-1.1,yes,yes,yes,yes
+undp-design-system,UNDP Design System,United Nations – UNDP,@undp/design-system,2.0.4,Noto Sans Arabic,3,brand_or_custom,noto-sans-arabic,matched_catalogue,,open,OFL-1.1,yes,no,yes,no
+undp-design-system,UNDP Design System,United Nations – UNDP,@undp/design-system,2.0.4,Noto Sans Myanmar,3,brand_or_custom,noto-sans-myanmar,matched_catalogue,,open,OFL-1.1,yes,no,no,no
+undp-design-system,UNDP Design System,United Nations – UNDP,@undp/design-system,2.0.4,Noto Sans SC,3,brand_or_custom,noto-sans-sc,matched_catalogue,,open,OFL-1.1,yes,no,no,no
+undp-design-system,UNDP Design System,United Nations – UNDP,@undp/design-system,2.0.4,Noto Sans JP,3,brand_or_custom,noto-sans-jp,matched_catalogue,,open,OFL-1.1,yes,no,no,no
+undp-design-system,UNDP Design System,United Nations – UNDP,@undp/design-system,2.0.4,Noto Sans Georgian,3,brand_or_custom,noto-sans-georgian,matched_catalogue,,open,OFL-1.1,yes,no,no,no
+undp-design-system,UNDP Design System,United Nations – UNDP,@undp/design-system,2.0.4,Noto Sans Khmer,3,brand_or_custom,noto-sans-khmer,matched_catalogue,,open,OFL-1.1,yes,no,no,no
+undp-design-system,UNDP Design System,United Nations – UNDP,@undp/design-system,2.0.4,Noto Sans KR,3,brand_or_custom,noto-sans-kr,matched_catalogue,,open,OFL-1.1,yes,no,no,no
+unicef-design-system,UNICEF Design System,United Nations – UNICEF,@unicef/design-system,0.1.0,Segoe UI,4,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+unicef-design-system,UNICEF Design System,United Nations – UNICEF,@unicef/design-system,0.1.0,Roboto,4,brand_or_custom,roboto,matched_catalogue,,open,OFL-1.1,yes,yes,yes,no
+unicef-design-system,UNICEF Design System,United Nations – UNICEF,@unicef/design-system,0.1.0,Helvetica Neue,4,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+unicef-design-system,UNICEF Design System,United Nations – UNICEF,@unicef/design-system,0.1.0,Arial,4,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+unicef-design-system,UNICEF Design System,United Nations – UNICEF,@unicef/design-system,0.1.0,Apple Color Emoji,4,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+unicef-design-system,UNICEF Design System,United Nations – UNICEF,@unicef/design-system,0.1.0,Segoe UI Emoji,4,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+unicef-design-system,UNICEF Design System,United Nations – UNICEF,@unicef/design-system,0.1.0,Segoe UI Symbol,4,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+unicef-design-system,UNICEF Design System,United Nations – UNICEF,@unicef/design-system,0.1.0,SFMono-Regular,3,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+unicef-design-system,UNICEF Design System,United Nations – UNICEF,@unicef/design-system,0.1.0,Menlo,3,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+unicef-design-system,UNICEF Design System,United Nations – UNICEF,@unicef/design-system,0.1.0,Monaco,3,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+unicef-design-system,UNICEF Design System,United Nations – UNICEF,@unicef/design-system,0.1.0,Consolas,3,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+unicef-design-system,UNICEF Design System,United Nations – UNICEF,@unicef/design-system,0.1.0,Liberation Mono,3,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+unicef-design-system,UNICEF Design System,United Nations – UNICEF,@unicef/design-system,0.1.0,Courier New,3,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+ons-design-system,ONS Design System,Office for National Statistics (UK),@ons/design-system,73.13.2,OpenSans,7,not_a_font_name,,os_or_browser_fallback,,,,,,,
+ons-design-system,ONS Design System,Office for National Statistics (UK),@ons/design-system,73.13.2,RobotoMono,5,not_a_font_name,,os_or_browser_fallback,,,,,,,
+ons-design-system,ONS Design System,Office for National Statistics (UK),@ons/design-system,73.13.2,Helvetica Neue,2,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+b-c-design-system-react-components,B.C. Design System (React components),Government of British Columbia,@bcgov/design-system-react-components,0.9.1,BC Sans,2,brand_or_custom,bc-sans,matched_catalogue,,unknown_not_checked,unknown_not_checked,not_measured,not_measured,not_measured,not_measured
+cod-design-system,COD Design System,City of Detroit,cod-design-system,3.0.0-alpha.14,Montserrat,64,brand_or_custom,montserrat,matched_catalogue,,open,OFL-1.1,yes,yes,yes,no
+cod-design-system,COD Design System,City of Detroit,cod-design-system,3.0.0-alpha.14,SFMono-Regular,2,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+cod-design-system,COD Design System,City of Detroit,cod-design-system,3.0.0-alpha.14,Menlo,2,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+cod-design-system,COD Design System,City of Detroit,cod-design-system,3.0.0-alpha.14,Monaco,2,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+cod-design-system,COD Design System,City of Detroit,cod-design-system,3.0.0-alpha.14,Consolas,2,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+cod-design-system,COD Design System,City of Detroit,cod-design-system,3.0.0-alpha.14,Liberation Mono,2,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+cod-design-system,COD Design System,City of Detroit,cod-design-system,3.0.0-alpha.14,Courier New,2,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+cod-design-system,COD Design System,City of Detroit,cod-design-system,3.0.0-alpha.14,Segoe UI,1,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+cod-design-system,COD Design System,City of Detroit,cod-design-system,3.0.0-alpha.14,Roboto,1,brand_or_custom,roboto,matched_catalogue,,open,OFL-1.1,yes,yes,yes,no
+cod-design-system,COD Design System,City of Detroit,cod-design-system,3.0.0-alpha.14,Oxygen,1,brand_or_custom,oxygen,matched_catalogue,,open,OFL-1.1,no,no,no,no
+cod-design-system,COD Design System,City of Detroit,cod-design-system,3.0.0-alpha.14,Ubuntu,1,brand_or_custom,ubuntu,matched_catalogue,,open,UFL-1.0,no,yes,yes,no
+cod-design-system,COD Design System,City of Detroit,cod-design-system,3.0.0-alpha.14,Cantarell,1,brand_or_custom,cantarell,matched_catalogue,,open,OFL-1.1,no,no,no,no
+cod-design-system,COD Design System,City of Detroit,cod-design-system,3.0.0-alpha.14,Open Sans,1,brand_or_custom,open-sans,matched_catalogue,,open,OFL-1.1,yes,yes,yes,yes
+cod-design-system,COD Design System,City of Detroit,cod-design-system,3.0.0-alpha.14,Helvetica Neue,1,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+hungarian-gov-design-system-web-components-dev,"Hungarian gov design system (web components, dev)",Government of Hungary,dap-design-system,0.63.2,Inter,30,brand_or_custom,inter,matched_catalogue,,open,OFL-1.1,yes,yes,yes,yes
+ucla-brand-design-system,UCLA Brand Design System,UCLA,ucla-design-systems,2.4.3,Courier,3,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+ucla-brand-design-system,UCLA Brand Design System,UCLA,ucla-design-systems,2.4.3,Helvetica,2,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+ucla-brand-design-system,UCLA Brand Design System,UCLA,ucla-design-systems,2.4.3,Roboto,2,brand_or_custom,roboto,matched_catalogue,,open,OFL-1.1,yes,yes,yes,no
+ucla-brand-design-system,UCLA Brand Design System,UCLA,ucla-design-systems,2.4.3,Arial,2,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+dataviz-styleguide-unhcr,dataviz-styleguide (UNHCR),UNHCR,dataviz-styleguide,0.13.0,Lato,40,brand_or_custom,lato,matched_catalogue,,open,OFL-1.1,no,yes,yes,no
+dataviz-styleguide-unhcr,dataviz-styleguide (UNHCR),UNHCR,dataviz-styleguide,0.13.0,Helvetica Neue,40,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+dataviz-styleguide-unhcr,dataviz-styleguide (UNHCR),UNHCR,dataviz-styleguide,0.13.0,Arial,40,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+dataviz-styleguide-unhcr,dataviz-styleguide (UNHCR),UNHCR,dataviz-styleguide,0.13.0,Helvetica,40,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+dataviz-styleguide-unhcr,dataviz-styleguide (UNHCR),UNHCR,dataviz-styleguide,0.13.0,Icons,8,not_a_font_name,,os_or_browser_fallback,,,,,,,
+dataviz-styleguide-unhcr,dataviz-styleguide (UNHCR),UNHCR,dataviz-styleguide,0.13.0,Step,4,not_a_font_name,,os_or_browser_fallback,,,,,,,
+dataviz-styleguide-unhcr,dataviz-styleguide (UNHCR),UNHCR,dataviz-styleguide,0.13.0,Checkbox,4,not_a_font_name,,os_or_browser_fallback,,,,,,,
+dataviz-styleguide-unhcr,dataviz-styleguide (UNHCR),UNHCR,dataviz-styleguide,0.13.0,Dropdown,4,not_a_font_name,,os_or_browser_fallback,,,,,,,
+ilo-design-system-ilo-org-designsystem,ILO design system (@ilo-org/designsystem),ILO,@ilo-org/react,1.10.2,Noto Sans,12,brand_or_custom,noto-sans,matched_catalogue,,open,OFL-1.1,yes,yes,yes,yes
+ilo-design-system-ilo-org-designsystem,ILO design system (@ilo-org/designsystem),ILO,@ilo-org/react,1.10.2,Overpass,9,brand_or_custom,overpass,matched_catalogue,,open,OFL-1.1,yes,yes,yes,yes
+ilo-design-system-ilo-org-designsystem,ILO design system (@ilo-org/designsystem),ILO,@ilo-org/react,1.10.2,Vazirmatn,8,brand_or_custom,vazirmatn,matched_catalogue,,open,OFL-1.1,yes,no,yes,no
+ilo-design-system-ilo-org-designsystem,ILO design system (@ilo-org/designsystem),ILO,@ilo-org/react,1.10.2,PingFang SC,8,not_a_font_name,,os_or_browser_fallback,,,,,,,
+ilo-design-system-ilo-org-designsystem,ILO design system (@ilo-org/designsystem),ILO,@ilo-org/react,1.10.2,Microsoft YaHei,8,not_a_font_name,,os_or_browser_fallback,,,,,,,
+ilo-design-system-ilo-org-designsystem,ILO design system (@ilo-org/designsystem),ILO,@ilo-org/react,1.10.2,Noto Sans CJK JP,8,brand_or_custom,noto-sans-jp,matched_catalogue,Noto Sans JP,open,OFL-1.1,yes,no,no,no
+ilo-design-system-ilo-org-designsystem,ILO design system (@ilo-org/designsystem),ILO,@ilo-org/react,1.10.2,Yu Gothic,8,brand_or_custom,yu-gothic,matched_catalogue,,proprietary_name_lookup,proprietary_name_lookup,not_measured,not_measured,not_measured,not_measured
+ilo-design-system-ilo-org-designsystem,ILO design system (@ilo-org/designsystem),ILO,@ilo-org/react,1.10.2,Hiragino Sans,8,brand_or_custom,hiragino-sans,matched_catalogue,,proprietary_name_lookup,proprietary_name_lookup,not_measured,not_measured,not_measured,not_measured
+ilo-design-system-ilo-org-designsystem,ILO design system (@ilo-org/designsystem),ILO,@ilo-org/react,1.10.2,TakaoPGothic,8,not_a_font_name,,os_or_browser_fallback,,,,,,,
+nys-design-system-nysds-components,NYS Design System (@nysds/components),State of New York,@nysds/components,1.23.2,Proxima Nova,186,brand_or_custom,proxima-nova,matched_catalogue,,proprietary_name_lookup,proprietary_name_lookup,not_measured,not_measured,not_measured,not_measured
+nys-design-system-nysds-components,NYS Design System (@nysds/components),State of New York,@nysds/components,1.23.2,Arial,162,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+nys-design-system-nysds-components,NYS Design System (@nysds/components),State of New York,@nysds/components,1.23.2,Helvetica Neue,158,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+nys-design-system-nysds-components,NYS Design System (@nysds/components),State of New York,@nysds/components,1.23.2,Helvetica,158,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+nys-design-system-nysds-components,NYS Design System (@nysds/components),State of New York,@nysds/components,1.23.2,sans-serif ),148,not_a_font_name,,os_or_browser_fallback,,,,,,,
+nys-design-system-nysds-components,NYS Design System (@nysds/components),State of New York,@nysds/components,1.23.2,D Sari,4,brand_or_custom,d-sari,matched_catalogue,,unknown_not_checked,unknown_not_checked,not_measured,not_measured,not_measured,not_measured
+nhs-uk-frontend-nhsuk-frontend,NHS.UK Frontend (nhsuk-frontend),NHS England,nhsuk-frontend,10.7.2,Cascadia Mono,26,brand_or_custom,cascadia-mono,matched_catalogue,,open,OFL-1.1,yes,yes,no,yes
+nhs-uk-frontend-nhsuk-frontend,NHS.UK Frontend (nhsuk-frontend),NHS England,nhsuk-frontend,10.7.2,Segoe UI Mono,26,brand_or_custom,segoe-ui-mono,matched_catalogue,,proprietary_name_lookup,proprietary_name_lookup,not_measured,not_measured,not_measured,not_measured
+nhs-uk-frontend-nhsuk-frontend,NHS.UK Frontend (nhsuk-frontend),NHS England,nhsuk-frontend,10.7.2,Liberation Mono,26,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+nhs-uk-frontend-nhsuk-frontend,NHS.UK Frontend (nhsuk-frontend),NHS England,nhsuk-frontend,10.7.2,Frutiger W01,22,brand_or_custom,frutiger-w01,matched_catalogue,,unknown_not_checked,unknown_not_checked,not_measured,not_measured,not_measured,not_measured
+eufemia,Eufemia,DNB,@dnb/eufemia,11.17.1,DNBSkeleton,528,brand_or_custom,dnbskeleton,matched_catalogue,,unknown_not_checked,unknown_not_checked,not_measured,not_measured,not_measured,not_measured
+eufemia,Eufemia,DNB,@dnb/eufemia,11.17.1,DNBMono,363,brand_or_custom,dnbmono,matched_catalogue,,unknown_not_checked,unknown_not_checked,not_measured,not_measured,not_measured,not_measured
+eufemia,Eufemia,DNB,@dnb/eufemia,11.17.1,DNBMonoSkeleton,363,not_a_font_name,,os_or_browser_fallback,,,,,,,
+eufemia,Eufemia,DNB,@dnb/eufemia,11.17.1,DNB,360,brand_or_custom,dnb,matched_catalogue,,unknown_not_checked,unknown_not_checked,not_measured,not_measured,not_measured,not_measured
+eufemia,Eufemia,DNB,@dnb/eufemia,11.17.1,Arial,270,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+eufemia,Eufemia,DNB,@dnb/eufemia,11.17.1,Roboto,270,brand_or_custom,roboto,matched_catalogue,,open,OFL-1.1,yes,yes,yes,no
+eufemia,Eufemia,DNB,@dnb/eufemia,11.17.1,Helvetica,198,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+eufemia,Eufemia,DNB,@dnb/eufemia,11.17.1,font-size var(--font-animation-duration,195,not_a_font_name,,os_or_browser_fallback,,,,,,,
+eufemia,Eufemia,DNB,@dnb/eufemia,11.17.1,400ms) var(--easing-default,195,not_a_font_name,,os_or_browser_fallback,,,,,,,
+eufemia,Eufemia,DNB,@dnb/eufemia,11.17.1,DNB Sans Display,150,brand_or_custom,dnb-sans-display,matched_catalogue,,unknown_not_checked,unknown_not_checked,not_measured,not_measured,not_measured,not_measured
+eufemia,Eufemia,DNB,@dnb/eufemia,11.17.1,DNBSansDisplaySkeleton,144,not_a_font_name,,os_or_browser_fallback,,,,,,,
+eufemia,Eufemia,DNB,@dnb/eufemia,11.17.1,MaisonNeueHeadings,114,not_a_font_name,,os_or_browser_fallback,,,,,,,
+eufemia,Eufemia,DNB,@dnb/eufemia,11.17.1,Menlo,75,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+eufemia,Eufemia,DNB,@dnb/eufemia,11.17.1,Consolas,75,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+eufemia,Eufemia,DNB,@dnb/eufemia,11.17.1,Roboto Mono,75,brand_or_custom,roboto-mono,matched_catalogue,,open,OFL-1.1,yes,yes,no,no
+eufemia,Eufemia,DNB,@dnb/eufemia,11.17.1,Ubuntu Monospace,75,brand_or_custom,ubuntu-mono,matched_catalogue,Ubuntu Mono,open,UFL-1.0,no,yes,no,no
+eufemia,Eufemia,DNB,@dnb/eufemia,11.17.1,Noto Mono,75,brand_or_custom,noto-sans-mono,matched_catalogue,Noto Sans Mono,open,OFL-1.1,yes,yes,no,yes
+eufemia,Eufemia,DNB,@dnb/eufemia,11.17.1,Oxygen Mono,75,brand_or_custom,oxygen-mono,matched_catalogue,,open,OFL-1.1,no,no,no,no
+eufemia,Eufemia,DNB,@dnb/eufemia,11.17.1,Liberation Mono,75,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+eufemia,Eufemia,DNB,@dnb/eufemia,11.17.1,ArizonaFlare,72,not_a_font_name,,os_or_browser_fallback,,,,,,,
+eufemia,Eufemia,DNB,@dnb/eufemia,11.17.1,Segoe UI,27,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+eufemia,Eufemia,DNB,@dnb/eufemia,11.17.1,Ubuntu,27,brand_or_custom,ubuntu,matched_catalogue,,open,UFL-1.0,no,yes,yes,no
+eufemia,Eufemia,DNB,@dnb/eufemia,11.17.1,Cantarell,27,brand_or_custom,cantarell,matched_catalogue,,open,OFL-1.1,no,no,no,no
+eufemia,Eufemia,DNB,@dnb/eufemia,11.17.1,Noto Sans,27,brand_or_custom,noto-sans,matched_catalogue,,open,OFL-1.1,yes,yes,yes,yes
+eufemia,Eufemia,DNB,@dnb/eufemia,11.17.1,Apple Color Emoji,27,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+eufemia,Eufemia,DNB,@dnb/eufemia,11.17.1,Segoe UI Emoji,27,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+eufemia,Eufemia,DNB,@dnb/eufemia,11.17.1,Segoe UI Symbol,27,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+eufemia,Eufemia,DNB,@dnb/eufemia,11.17.1,Noto Color Emoji,27,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+swedbank-pay-design-guide,Swedbank Pay Design Guide,Swedbank Pay,@swedbankpay/design-guide,10.15.0,Arial,73,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+swedbank-pay-design-guide,Swedbank Pay Design Guide,Swedbank Pay,@swedbankpay/design-guide,10.15.0,Futura PT W08 Demi,59,brand_or_custom,futura-pt-w08-demi,matched_catalogue,,unknown_not_checked,unknown_not_checked,not_measured,not_measured,not_measured,not_measured
+swedbank-pay-design-guide,Swedbank Pay Design Guide,Swedbank Pay,@swedbankpay/design-guide,10.15.0,Swedbank Headline,57,brand_or_custom,swedbank-headline,matched_catalogue,,unknown_not_checked,unknown_not_checked,not_measured,not_measured,not_measured,not_measured
+swedbank-pay-design-guide,Swedbank Pay Design Guide,Swedbank Pay,@swedbankpay/design-guide,10.15.0,Akkurat Mono,35,brand_or_custom,akkurat-mono,matched_catalogue,,proprietary_name_lookup,proprietary_name_lookup,not_measured,not_measured,not_measured,not_measured
+swedbank-pay-design-guide,Swedbank Pay Design Guide,Swedbank Pay,@swedbankpay/design-guide,10.15.0,Futura PT W08 Book,20,brand_or_custom,futura-pt-w08-book,matched_catalogue,,unknown_not_checked,unknown_not_checked,not_measured,not_measured,not_measured,not_measured
+swedbank-pay-design-guide,Swedbank Pay Design Guide,Swedbank Pay,@swedbankpay/design-guide,10.15.0,Material Icons,17,brand_or_custom,material-icons,matched_catalogue,,unknown_not_checked,unknown_not_checked,not_measured,not_measured,not_measured,not_measured
+swedbank-pay-design-guide,Swedbank Pay Design Guide,Swedbank Pay,@swedbankpay/design-guide,10.15.0,Material Icons Outlined,13,brand_or_custom,material-icons-outlined,matched_catalogue,,unknown_not_checked,unknown_not_checked,not_measured,not_measured,not_measured,not_measured
+swedbank-pay-design-guide,Swedbank Pay Design Guide,Swedbank Pay,@swedbankpay/design-guide,10.15.0,Swedbank Headline Black,5,brand_or_custom,swedbank-headline-black,matched_catalogue,,unknown_not_checked,unknown_not_checked,not_measured,not_measured,not_measured,not_measured
+swedbank-pay-design-guide,Swedbank Pay Design Guide,Swedbank Pay,@swedbankpay/design-guide,10.15.0,Futura PT W08 Medium,5,brand_or_custom,futura-pt-w08-medium,matched_catalogue,,unknown_not_checked,unknown_not_checked,not_measured,not_measured,not_measured,not_measured
+swedbank-pay-design-guide,Swedbank Pay Design Guide,Swedbank Pay,@swedbankpay/design-guide,10.15.0,Helvetica Neue,1,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+vienna-ui,Vienna UI,Raiffeisenbank,vienna-ui,12.82.0,ALS Hauss,7,brand_or_custom,als-hauss,matched_catalogue,,unknown_not_checked,unknown_not_checked,not_measured,not_measured,not_measured,not_measured
+vienna-ui,Vienna UI,Raiffeisenbank,vienna-ui,12.82.0,Navigo,4,not_a_font_name,,os_or_browser_fallback,,,,,,,
+vienna-ui,Vienna UI,Raiffeisenbank,vienna-ui,12.82.0,Helvetica,1,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+vienna-ui,Vienna UI,Raiffeisenbank,vienna-ui,12.82.0,Helvetica New,1,brand_or_custom,helvetica-new,matched_catalogue,,unknown_not_checked,unknown_not_checked,not_measured,not_measured,not_measured,not_measured
+vienna-ui,Vienna UI,Raiffeisenbank,vienna-ui,12.82.0,Arial,1,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+admiral-design-system,Admiral Design System,VTB,@admiral-ds/react-ui,8.69.0,VTB Group UI,102,brand_or_custom,vtb-group-ui,matched_catalogue,,unknown_not_checked,unknown_not_checked,not_measured,not_measured,not_measured,not_measured
+coinbase-design-system,Coinbase Design System,Coinbase,@coinbase/cds-web,9.30.1,fontFamily,20,not_a_font_name,,os_or_browser_fallback,,,,,,,
+coinbase-design-system,Coinbase Design System,Coinbase,@coinbase/cds-web,9.30.1,CoinbaseIcons,5,not_a_font_name,,os_or_browser_fallback,,,,,,,
+coinbase-design-system,Coinbase Design System,Coinbase,@coinbase/cds-web,9.30.1,FontFamily,2,not_a_font_name,,os_or_browser_fallback,,,,,,,
+coinbase-design-system,Coinbase Design System,Coinbase,@coinbase/cds-web,9.30.1,DEFAULT_ICON_FONT_FAMILY,1,not_a_font_name,,os_or_browser_fallback,,,,,,,
+coinbase-design-system,Coinbase Design System,Coinbase,@coinbase/cds-web,9.30.1,Inter,1,brand_or_custom,inter,matched_catalogue,,open,OFL-1.1,yes,yes,yes,yes
+coinbase-design-system,Coinbase Design System,Coinbase,@coinbase/cds-web,9.30.1,Menlo,1,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+coinbase-design-system,Coinbase Design System,Coinbase,@coinbase/cds-web,9.30.1,Consolas,1,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+porsche-design-system,Porsche Design System,Porsche,@porsche-design-system/components-js,4.10.1,Porsche Next,276,brand_or_custom,porsche-next,matched_catalogue,,unknown_not_checked,unknown_not_checked,not_measured,not_measured,not_measured,not_measured
+porsche-design-system,Porsche Design System,Porsche,@porsche-design-system/components-js,4.10.1,Arial Narrow,24,brand_or_custom,arial-narrow,matched_catalogue,,unknown_not_checked,unknown_not_checked,not_measured,not_measured,not_measured,not_measured
+porsche-design-system,Porsche Design System,Porsche,@porsche-design-system/components-js,4.10.1,Arial,24,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+porsche-design-system,Porsche Design System,Porsche,@porsche-design-system/components-js,4.10.1,Heiti SC,8,brand_or_custom,heiti-sc,matched_catalogue,,unknown_not_checked,unknown_not_checked,not_measured,not_measured,not_measured,not_measured
+porsche-design-system,Porsche Design System,Porsche,@porsche-design-system/components-js,4.10.1,SimHei,8,not_a_font_name,,os_or_browser_fallback,,,,,,,
+porsche-design-system,Porsche Design System,Porsche,@porsche-design-system/components-js,4.10.1,PingFang SC,4,not_a_font_name,,os_or_browser_fallback,,,,,,,
+porsche-design-system,Porsche Design System,Porsche,@porsche-design-system/components-js,4.10.1,Microsoft YaHei,4,not_a_font_name,,os_or_browser_fallback,,,,,,,
+porsche-design-system,Porsche Design System,Porsche,@porsche-design-system/components-js,4.10.1,Noto Sans SC,4,brand_or_custom,noto-sans-sc,matched_catalogue,,open,OFL-1.1,yes,no,no,no
+porsche-design-system,Porsche Design System,Porsche,@porsche-design-system/components-js,4.10.1,PingFang TC,4,not_a_font_name,,os_or_browser_fallback,,,,,,,
+porsche-design-system,Porsche Design System,Porsche,@porsche-design-system/components-js,4.10.1,Microsoft JhengHei,4,not_a_font_name,,os_or_browser_fallback,,,,,,,
+porsche-design-system,Porsche Design System,Porsche,@porsche-design-system/components-js,4.10.1,Noto Sans TC,4,brand_or_custom,noto-sans-tc,matched_catalogue,,open,OFL-1.1,yes,no,no,no
+porsche-design-system,Porsche Design System,Porsche,@porsche-design-system/components-js,4.10.1,Hiragino Sans,4,brand_or_custom,hiragino-sans,matched_catalogue,,proprietary_name_lookup,proprietary_name_lookup,not_measured,not_measured,not_measured,not_measured
+porsche-design-system,Porsche Design System,Porsche,@porsche-design-system/components-js,4.10.1,Yu Gothic,4,brand_or_custom,yu-gothic,matched_catalogue,,proprietary_name_lookup,proprietary_name_lookup,not_measured,not_measured,not_measured,not_measured
+porsche-design-system,Porsche Design System,Porsche,@porsche-design-system/components-js,4.10.1,Noto Sans JP,4,brand_or_custom,noto-sans-jp,matched_catalogue,,open,OFL-1.1,yes,no,no,no
+porsche-design-system,Porsche Design System,Porsche,@porsche-design-system/components-js,4.10.1,Apple SD Gothic Neo,4,brand_or_custom,apple-sd-gothic-neo,matched_catalogue,,unknown_not_checked,unknown_not_checked,not_measured,not_measured,not_measured,not_measured
+porsche-design-system,Porsche Design System,Porsche,@porsche-design-system/components-js,4.10.1,Malgun Gothic,4,brand_or_custom,malgun-gothic,matched_catalogue,,proprietary_name_lookup,proprietary_name_lookup,not_measured,not_measured,not_measured,not_measured
+porsche-design-system,Porsche Design System,Porsche,@porsche-design-system/components-js,4.10.1,Noto Sans KR,4,brand_or_custom,noto-sans-kr,matched_catalogue,,open,OFL-1.1,yes,no,no,no
+porsche-design-system,Porsche Design System,Porsche,@porsche-design-system/components-js,4.10.1,fontPorscheNextZhHans,2,not_a_font_name,,os_or_browser_fallback,,,,,,,
+porsche-design-system,Porsche Design System,Porsche,@porsche-design-system/components-js,4.10.1,fontPorscheNextZhHant,2,not_a_font_name,,os_or_browser_fallback,,,,,,,
+porsche-design-system,Porsche Design System,Porsche,@porsche-design-system/components-js,4.10.1,fontPorscheNextJa,2,not_a_font_name,,os_or_browser_fallback,,,,,,,
+porsche-design-system,Porsche Design System,Porsche,@porsche-design-system/components-js,4.10.1,fontPorscheNextKo,2,not_a_font_name,,os_or_browser_fallback,,,,,,,
+porsche-design-system,Porsche Design System,Porsche,@porsche-design-system/components-js,4.10.1,fontPorscheNext,1,not_a_font_name,,os_or_browser_fallback,,,,,,,
+skoda-flow,Skoda Flow,Skoda Auto,@skodaflow/web-library,8.5.0,SKODA Next,8,brand_or_custom,skoda-next,matched_catalogue,,unknown_not_checked,unknown_not_checked,not_measured,not_measured,not_measured,not_measured
+skoda-flow,Skoda Flow,Skoda Auto,@skodaflow/web-library,8.5.0,Arial,2,os_or_browser_fallback,,os_or_browser_fallback,,,,,,,
+lakefront,Lakefront,Toyota Research Institute,@toyota-research-institute/lakefront,5.4.6,Source Sans Pro,4,brand_or_custom,source-sans-3,matched_catalogue,Source Sans 3,open,OFL-1.1,yes,yes,no,yes
+michelin-design-system,Michelin Design System,Michelin,@michelin/theme,12.2.0,Noto Sans,8,brand_or_custom,noto-sans,matched_catalogue,,open,OFL-1.1,yes,yes,yes,yes
+michelin-design-system,Michelin Design System,Michelin,@michelin/theme,12.2.0,Material Icons,7,brand_or_custom,material-icons,matched_catalogue,,unknown_not_checked,unknown_not_checked,not_measured,not_measured,not_measured,not_measured
+michelin-design-system,Michelin Design System,Michelin,@michelin/theme,12.2.0,Michelin Unit Titling,5,brand_or_custom,michelin-unit-titling,matched_catalogue,,unknown_not_checked,unknown_not_checked,not_measured,not_measured,not_measured,not_measured
+michelin-design-system,Michelin Design System,Michelin,@michelin/theme,12.2.0,NotoSans,4,not_a_font_name,,os_or_browser_fallback,,,,,,,
+michelin-design-system,Michelin Design System,Michelin,@michelin/theme,12.2.0,Material Symbols Outlined,3,brand_or_custom,material-symbols-outlined,matched_catalogue,,unknown_not_checked,unknown_not_checked,not_measured,not_measured,not_measured,not_measured
+michelin-design-system,Michelin Design System,Michelin,@michelin/theme,12.2.0,Material Icons Two Tone,2,brand_or_custom,material-icons-two-tone,matched_catalogue,,unknown_not_checked,unknown_not_checked,not_measured,not_measured,not_measured,not_measured
+michelin-design-system,Michelin Design System,Michelin,@michelin/theme,12.2.0,Material Symbols Round,2,not_a_font_name,,os_or_browser_fallback,,,,,,,
+michelin-design-system,Michelin Design System,Michelin,@michelin/theme,12.2.0,Material Symbols Sharp,2,brand_or_custom,material-symbols-sharp,matched_catalogue,,unknown_not_checked,unknown_not_checked,not_measured,not_measured,not_measured,not_measured
+mozaic-design-system,Mozaic Design System,Adeo,@mozaic-ds/styles,2.33.0,,0,none_in_scanned_package,,no_brand_font_in_package,,,,,,,
+overdrive,Overdrive,AutoGuru,@autoguru/overdrive,6.3.0,,0,none_in_scanned_package,,no_brand_font_in_package,,,,,,,
+chakra-ui,Chakra UI,Chakra team,@chakra-ui/react,3.38.0,,0,none_in_scanned_package,,no_brand_font_in_package,,,,,,,
+forma-36,Forma 36,Contentful,@contentful/f36-components,6.31.1,,0,none_in_scanned_package,,no_brand_font_in_package,,,,,,,
+druids,Druids,Datadog,@datadog/druids,0.1.1,,0,none_in_scanned_package,,no_brand_font_in_package,,,,,,,
+drylus,Drylus,Drawbotics,@drawbotics/react-drylus,6.2.0,,0,none_in_scanned_package,,no_brand_font_in_package,,,,,,,
+boundless,Boundless,Enigma,boundless,1.1.0,,0,none_in_scanned_package,,no_brand_font_in_package,,,,,,,
+yoga,Yoga,Gympass,@gympass/yoga,7.145.3,,0,none_in_scanned_package,,no_brand_font_in_package,,,,,,,
+carbon-design-system,Carbon Design System,IBM,@carbon/react,1.120.0,,0,none_in_scanned_package,,no_brand_font_in_package,,,,,,,
+kolibri-public-ui,KoliBri - Public UI,KoliBri,@public-ui/components,4.5.0,,0,none_in_scanned_package,,no_brand_font_in_package,,,,,,,
+basis-design-system,Basis Design System,Latitude Financial,basis,1.71.0,,0,none_in_scanned_package,,no_brand_font_in_package,,,,,,,
+nulogy-design-system,Nulogy Design System,Nulogy,@nulogy/components,20.0.1,,0,none_in_scanned_package,,no_brand_font_in_package,,,,,,,
+studio,Studio,Patreon,@patreon/studio,13.0.0,,0,none_in_scanned_package,,no_brand_font_in_package,,,,,,,
+chameleon,Chameleon,Pusher,pusher-chameleon,1.4.6,,0,none_in_scanned_package,,no_brand_font_in_package,,,,,,,
+seek-style-guide,Seek Style Guide,Seek,seek-style-guide,42.0.0,,0,none_in_scanned_package,,no_brand_font_in_package,,,,,,,
+intergalactic,Intergalactic,Semrush,@semcore/ui,18.1.0,,0,none_in_scanned_package,,no_brand_font_in_package,,,,,,,
+sparebank-1-designsystem,SpareBank 1 Designsystem,SpareBank 1,@sb1/ffe-core-react,102.0.14,,0,none_in_scanned_package,,no_brand_font_in_package,,,,,,,
+studyportals-styleguide,Styleguide,StudyPortals,@studyportals/styles-components,3.0.1,,0,none_in_scanned_package,,no_brand_font_in_package,,,,,,,
+vtex-styleguide,Styleguide,VTEX,@vtex/styleguide,5.6.5,,0,none_in_scanned_package,,no_brand_font_in_package,,,,,,,
+momentum-design-system,Momentum Design System,Webex,@momentum-ui/core,19.16.1,,0,none_in_scanned_package,,no_brand_font_in_package,,,,,,,
+designsystemet,Designsystemet,Digdir (Norway),@digdir/designsystemet-react,1.24.0,,0,none_in_scanned_package,,no_brand_font_in_package,,,,,,,
+nordhealth,Nordhealth,Nordhealth,@nordhealth/components,5.5.2,,0,none_in_scanned_package,,no_brand_font_in_package,,,,,,,
+microsoft-fluent-2,Microsoft Fluent 2,Microsoft,@fluentui/react-components,9.75.2,,0,none_in_scanned_package,,no_brand_font_in_package,,,,,,,
+sumup-circuit-ui,SumUp Circuit UI,SumUp,@sumup-oss/circuit-ui,12.6.0,,0,none_in_scanned_package,,no_brand_font_in_package,,,,,,,
+thumbtack-thumbprint,Thumbtack Thumbprint,Thumbtack,@thumbtack/thumbprint-react,14.18.2,,0,none_in_scanned_package,,no_brand_font_in_package,,,,,,,
+dropbox-scooter,Dropbox Scooter,Dropbox,scooter-css,2.0.0,,0,none_in_scanned_package,,no_brand_font_in_package,,,,,,,
+wunderui,WunderUI,WunderUI,@wunderui/react,0.3.0,,0,none_in_scanned_package,,no_brand_font_in_package,,,,,,,
+aegov-design-system,aeGov Design System,UAE Government,@aegov/design-system,3.0.7,,0,none_in_scanned_package,,no_brand_font_in_package,,,,,,,
+auth0-styleguide-react-components,Auth0 Styleguide (React components),Auth0,@auth0/styleguide-react-components,1.0.4,,0,none_in_scanned_package,,no_brand_font_in_package,,,,,,,
+wedges,Wedges,Lemon Squeezy,@lemonsqueezy/wedges,1.4.0,,0,none_in_scanned_package,,no_brand_font_in_package,,,,,,,
+suomi-fi-design-system,Suomi.fi Design System,Finland – Suomi.fi,suomifi-ui-components,19.0.0,,0,none_in_scanned_package,,no_brand_font_in_package,,,,,,,
+gov-cz-design-system,gov.cz Design System,Czech Republic – DIA,@gov-design-system-ce/styles,4.7.3,,0,none_in_scanned_package,,no_brand_font_in_package,,,,,,,
+diia,Diia (public UI system not confirmed),Ukraine – Ministry of Digital Transformation,@diia-inhouse/design-system,5.32.4,,0,none_in_scanned_package,,no_brand_font_in_package,,,,,,,
+wfp-design-system,WFP Design System,United Nations – WFP,@wfp/react,1.22.6,,0,none_in_scanned_package,,no_brand_font_in_package,,,,,,,
+gov-cy-unified-design-system,gov.cy Unified Design System,Cyprus – gov.cy,@gov-cy/govcy-frontend-renderer,1.30.7,,0,none_in_scanned_package,,no_brand_font_in_package,,,,,,,
+nhs-uk-frontend-react-components,NHS.UK Frontend (React components),NHS England (NHS.UK),nhsuk-react-components,6.0.1,,0,none_in_scanned_package,,no_brand_font_in_package,,,,,,,
+ons-design-system,ONS Design System,Office for National Statistics (UK),@ons/design-system,73.13.2,,0,none_in_scanned_package,,no_brand_font_in_package,,,,,,,
+design-system-amsterdam,Design System Amsterdam,City of Amsterdam,@amsterdam/design-system-css,4.5.0,,0,none_in_scanned_package,,no_brand_font_in_package,,,,,,,
+undataforum-tokens-undataforum-tokens,Undataforum tokens (@undataforum/tokens),UN Data Forum,@undataforum/tokens,0.6.0,,0,none_in_scanned_package,,no_brand_font_in_package,,,,,,,
+green-design-system,Green Design System,SEB,@sebgroup/green-core,3.35.1,,0,none_in_scanned_package,,no_brand_font_in_package,,,,,,,
+salt-design-system,Salt Design System,J.P. Morgan,@salt-ds/core,1.75.0,,0,none_in_scanned_package,,no_brand_font_in_package,,,,,,,
+taiga-ui,Taiga UI,T-Bank (Tinkoff),@taiga-ui/core,5.32.0,,0,none_in_scanned_package,,no_brand_font_in_package,,,,,,,
+plasma,Plasma,Sber,@salutejs/plasma-ui,1.354.0,,0,none_in_scanned_package,,no_brand_font_in_package,,,,,,,
+core-components,Core Components,Alfa-Bank,@alfalab/core-components,50.41.0,,0,none_in_scanned_package,,no_brand_font_in_package,,,,,,,
+revolut-ui-kit,Revolut UI Kit,Revolut,@revolut/ui-kit,15.0.0,,0,none_in_scanned_package,,no_brand_font_in_package,,,,,,,
+sapphire-design-system,Sapphire Design System,Danske Bank,@danske/sapphire-react,5.23.0,,0,none_in_scanned_package,,no_brand_font_in_package,,,,,,,
+visa-product-design-system,Visa Product Design System,Visa,@visa/nova-react,3.1.0,,0,none_in_scanned_package,,no_brand_font_in_package,,,,,,,
+seat-cupra-ui-kit,SEAT CUPRA UI Kit,SEAT / CUPRA,@cupra/ui-kit,1.0.0,,0,none_in_scanned_package,,no_brand_font_in_package,,,,,,,

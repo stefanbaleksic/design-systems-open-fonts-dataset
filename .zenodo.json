@@ -1,0 +1,16 @@
+{
+  "title": "Design System Fonts Dataset",
+  "description": "<p>Font families used by public design systems (declared in the npm packages of 143 design systems at pinned versions), and open-licence font families from Google Fonts and original foundry repositories, Inter included. For each family: licence code and class, commercial status, provider, source repository and commit, variable-font status and axes, OpenType features for tabular, lining, oldstyle and zero figures and ligatures, Serbian Cyrillic and Latin coverage, and the SHA-256 of the measured file. Metadata and facts only; no font files are redistributed. Every value is reproducible with the scripts in the release.</p>",
+  "upload_type": "dataset",
+  "license": "cc-by-4.0",
+  "version": "1.0.0",
+  "creators": [
+    {"name": "Aleksić, Stefan B.", "orcid": "0009-0009-1537-296X"}
+  ],
+  "keywords": ["design systems", "typography", "fonts", "OpenType", "variable fonts", "font licences", "Google Fonts", "Inter", "Serbian Cyrillic"],
+  "related_identifiers": [
+    {"identifier": "10.5281/zenodo.24248035", "relation": "isRelatedTo", "resource_type": "dataset"}
+  ],
+  "access_right": "open",
+  "communities": []
+}
