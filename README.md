@@ -14,7 +14,7 @@ data, and it belongs to that family's authors.
 
 | file | what it is |
 |---|---|
-| [`docs/index.html`](docs/index.html), live at https://stefanbaleksic.github.io/design-systems-fonts/ | single-page viewer: filter, search, detail view for every family and every design-system declaration |
+| [`docs/index.html`](docs/index.html), live at https://stefanbaleksic.github.io/design-systems-open-fonts-dataset/ | single-page viewer: filter, search, detail view for every family and every design-system declaration |
 | [`data/fonts_catalogue.csv`](data/fonts_catalogue.csv) | **main table**: one row per font family (2,144 open-licence families plus 116 families seen only in design systems) |
 | [`data/design_system_fonts.csv`](data/design_system_fonts.csv) | design system × declared family, linked to the catalogue by `font_id` and to the design-systems dataset by `slug` |
 | [`data/data_dictionary.md`](data/data_dictionary.md) | every column: meaning, allowed values, source |
