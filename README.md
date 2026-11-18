@@ -1,4 +1,4 @@
-# Design System Fonts Dataset
+# Design System Open Fonts Dataset
 
 Font families used by public design systems, and open-licence font families (Google Fonts and original
 foundry repositories, Inter included), with licence, provider, source, variable-font status, OpenType
