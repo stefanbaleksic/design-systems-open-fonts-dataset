@@ -4,7 +4,7 @@ Font families used by public design systems, and open-licence font families (Goo
 foundry repositories, Inter included), with licence, provider, source, variable-font status, OpenType
 figure and ligature features, Serbian character coverage and file hashes.
 
-**Version 1.0.0 · measured 2026-11-18 · not yet published (no DOI)**
+**Version 1.0.0 · measured 2026-11-18 · DOI [10.5281/zenodo.24354032](https://doi.org/10.5281/zenodo.24354032)**
 Data: CC BY 4.0 · Scripts: MIT · Author: Stefan B. Aleksić · ORCID [0009-0009-1537-296X](https://orcid.org/0009-0009-1537-296X)
 
 The data are metadata and facts. **No font files are included.** Each family's licence is recorded in the
@@ -102,6 +102,10 @@ that derived Nerd Font and Frozen builds are not counted as families, and that t
 small enough to publish. The tests need `DS_CSV` (set by `run_all.sh`). There are 23 tests.
 
 ## Licence and citation
+
+Zenodo (archival, DOI): https://doi.org/10.5281/zenodo.24354032
+Kaggle: https://www.kaggle.com/datasets/stefanbaleksic/design-system-open-fonts-dataset
+Interactive viewer (GitHub Pages): https://stefanbaleksic.github.io/design-systems-open-fonts-dataset/
 
 Data: CC BY 4.0 (`LICENSE.md`). Scripts and tests: MIT. Cite with [`CITATION.cff`](CITATION.cff); the Zenodo
 metadata is in [`.zenodo.json`](.zenodo.json). The design-systems dataset that supplies the package list is
